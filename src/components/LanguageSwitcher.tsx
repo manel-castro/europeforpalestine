@@ -47,12 +47,17 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ style }) => {
   const changeLanguage = (lng: string) => {
     i18n.changeLanguage(lng);
   };
+  // normalize language codes (handle detectors that return 'en-US' etc.)
+  const getBaseLang = (lng: string) => (lng ? lng.split("-")[0] : "");
+  const baseLang = getBaseLang(i18n.language || "");
+  const hasLang = languages.some((l) => l.code === baseLang);
+  const selectValue = hasLang ? baseLang : "en"; // fallback to English if not found
 
   return (
     <div style={{ position: "relative", ...style }}>
       <select
-        value={i18n.language}
-        onChange={(e) => changeLanguage(e.target.value)}
+        value={selectValue}
+        onChange={(e: React.ChangeEvent<HTMLSelectElement>) => changeLanguage(e.target.value)}
         style={{
           padding: "0.5rem 1rem",
           borderRadius: "50px",
@@ -62,6 +67,7 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ style }) => {
           cursor: "pointer",
           fontSize: "0.875rem",
           outline: "none",
+          minWidth: "160px",
         }}
       >
         {languages.map((lang) => (
