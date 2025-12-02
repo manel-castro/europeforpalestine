@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+import { useGetPadding } from "../utils/useGetPadding";
 
 interface TeamMemberProps {
   imageUrl: string;
@@ -69,11 +70,15 @@ const TeamMember: React.FC<TeamMemberProps> = ({
 const LandingTeam: React.FC = () => {
   const { t } = useTranslation();
 
+  const horizontalPadding = useGetPadding();
+
   return (
     <div
       style={{
-        padding: "4rem",
         backgroundColor: "#1a1a1a",
+        paddingTop: "4rem",
+        paddingBottom: "4rem",
+        ...horizontalPadding,
       }}
     >
       <div

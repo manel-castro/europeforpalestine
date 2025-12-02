@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import AppStoreBadge from "./AppStoreBadge";
 import PlayStoreBadge from "./PlayStoreBadge";
 import Card from "./ui/Card";
+import { useGetPadding } from "../utils/useGetPadding";
 
 interface AppCardProps {
   appName: string;
@@ -66,12 +67,16 @@ const AppCard: React.FC<AppCardProps> = ({
 const LandingApps: React.FC = () => {
   const { t } = useTranslation();
 
+  const horizontalPadding = useGetPadding();
+
   return (
     <div
       style={{
         backgroundColor: "#1a1a1a",
-        padding: "4rem",
         color: "white",
+        paddingTop: "4rem",
+        paddingBottom: "4rem",
+        ...horizontalPadding,
       }}
     >
       <div

@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import LanguageSwitcher from "./LanguageSwitcher";
 import Button from "./ui/Button";
 import BrandLogo from "./ui/BrandLogo";
+import { useGetPadding } from "../utils/useGetPadding";
 
 const Navbar: React.FC = () => {
   const { t } = useTranslation();
@@ -13,9 +14,11 @@ const Navbar: React.FC = () => {
         display: "flex",
         justifyContent: "space-between",
         alignItems: "center",
-        padding: "1rem 4rem",
         backgroundColor: "#000000",
         color: "white",
+        paddingTop: "1rem",
+        paddingBottom: "1rem",
+        ...useGetPadding(),
       }}
     >
       <BrandLogo />
