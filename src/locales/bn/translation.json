@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "কিভাবে সাহায্য করবেন?"
+  },
+  "welcome": "স্বাগতম",
+  "description": "ফিলিস্তিনের জন্য ইউরোপ",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "আরও জানুন",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "আমাদের অ্যাপস",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "অ্যাপের নাম",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "App Store এ উপলব্ধ",
+    "availableOnPlayStore": "Play Store এ উপলব্ধ"
+  },
+  "team": {
+    "title": "আমাদের সম্পর্কে",
+    "description": "আমরা ডিজিটাল টুল তৈরি করি যা কোম্পানিগুলিকে জবাবদিহি করতে সাহায্য করে, প্যালেস্টাইনের অধিকারের পক্ষে সমর্থন ট্র্যাক করে এবং তথ্যভিত্তিক সিদ্ধান্ত নিতে সহায়তা করে। আমরা সম্প্রদায়গুলি কীভাবে অ্যাডভোকেসিতে অংশ নেয় তা পরিবর্তন করতে প্রযুক্তি এবং সমষ্টিগত কর্ম ব্যবহার করি। আমাদের লক্ষ্য হল সকলের জন্য স্বচ্ছতা সহজ করা এবং পরিবর্তনের পক্ষে যেসব কণ্ঠস্বর কাজ করে তাদের শক্তিশালী করা।",
+    "member1": {
+      "name": "John Doe",
+      "description": "সহ-প্রতিষ্ঠাতা ও প্রধান ডেভেলপার"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "সহ-প্রতিষ্ঠাতা ও প্রোডাক্ট ডিজাইনার"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "কমিউনিটি ম্যানেজার"
+    },
+    "meetFullTeam": "সম্পূর্ণ দলকে জানুন"
+  }
+}

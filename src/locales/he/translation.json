@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "איך לעזור?"
+  },
+  "welcome": "ברוכים הבאים",
+  "description": "אירופה למען פלסטין",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "למידע נוסף",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "האפליקציות שלנו",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "שם האפליקציה",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "זמין ב-App Store",
+    "availableOnPlayStore": "זמין ב-Play Store"
+  },
+  "team": {
+    "title": "עלינו",
+    "description": "אנחנו בונים כלים דיגיטליים שעוזרים להפוך חברות לאחריות, לעקוב אחר התמיכה בזכויות הפלסטינים ולקבל החלטות מושכלות. אנחנו משתמשים בטכנולוגיה ובפעולה קולקטיבית כדי לשנות את האופן שבו קהילות משתתפות בקידום מאבקים. המטרה שלנו היא להנגיש שקיפות לכולם ולחזק את הקולות שמקדמים שינוי.",
+    "member1": {
+      "name": "John Doe",
+      "description": "מייסד שותף ומפתח ראשי"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "מייסדת שותפה ומעצבת מוצר"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "מנהל קהילה"
+    },
+    "meetFullTeam": "הכירו את כל הצוות"
+  }
+}

@@ -28,11 +28,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* @font-face {
-  font-family: "GothamProMedium";
-  src: local("GothamProMedium.ttf"),
-    url("./media/fonts/GothamProMedium.ttf") format("truetype");
-} */
+@font-face {
+  font-family: "Gilroy-Black";
+  src: local("Gilroy-Black.ttf"),
+    url("./media/fonts/Gilroy-Black.ttf") format("truetype");
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",

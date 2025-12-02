@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hogyan segíthetsz?"
+  },
+  "welcome": "Üdvözöljük",
+  "description": "Európa Palesztináért",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Tudj meg többet",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Alkalmazásaink",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "Alkalmazás neve",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Elérhető az App Store-ban",
+    "availableOnPlayStore": "Elérhető a Play Store-ban"
+  },
+  "team": {
+    "title": "Rólunk",
+    "description": "Digitális eszközöket fejlesztünk, amelyek segítenek a vállalatok elszámoltathatóságában, nyomon követik a palesztin jogok iránti támogatást és lehetővé teszik a megalapozott döntéseket. Technológiát és kollektív cselekvést használunk annak érdekében, hogy megváltoztassuk, hogyan vesznek részt a közösségek a társadalmi érdekérvényesítésben. Célunk, hogy a transzparenciát mindenki számára egyszerűvé tegyük, és megerősítsük azokat a hangokat, amelyek a változásért dolgoznak.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Társalapító és vezető fejlesztő"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Társalapító és terméktervező"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Közösségi menedzser"
+    },
+    "meetFullTeam": "Ismerd meg a teljes csapatot"
+  }
+}

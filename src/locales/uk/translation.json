@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Як допомогти?"
+  },
+  "welcome": "Ласкаво просимо",
+  "description": "Європа за Палестину",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Дізнатися більше",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Наші додатки",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "Назва додатку",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Доступно в App Store",
+    "availableOnPlayStore": "Доступно в Play Store"
+  },
+  "team": {
+    "title": "Про нас",
+    "description": "Ми створюємо цифрові інструменти, що допомагають притягувати корпорації до відповідальності, відстежувати підтримку прав палестинців і приймати поінформовані рішення. Ми використовуємо технології та колективні дії, щоб змінити те, як громади беруть участь в адвокації. Наша мета — зробити прозорість доступною для всіх і посилити голоси, які прагнуть до змін.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Співзасновник і провідний розробник"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Співзасновниця і дизайнер продукту"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Менеджер спільноти"
+    },
+    "meetFullTeam": "Познайомтесь з усією командою"
+  }
+}

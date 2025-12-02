@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Wie kann ich helfen?"
+  },
+  "welcome": "Willkommen",
+  "description": "Europa für Palästina",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Mehr erfahren",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Unsere Apps",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "App-Name",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Im App Store verfügbar",
+    "availableOnPlayStore": "Bei Play Store verfügbar"
+  },
+  "team": {
+    "title": "Über uns",
+    "description": "Wir entwickeln digitale Werkzeuge, die dabei helfen, Unternehmen zur Rechenschaft zu ziehen, Unterstützung für palästinensische Rechte nachzuverfolgen und fundierte Entscheidungen zu treffen. Wir nutzen Technologie und kollektives Handeln, um die Beteiligung von Gemeinschaften an der Interessenvertretung zu verändern. Unser Ziel ist es, Transparenz für alle zu erleichtern und die Stimmen zu stärken, die Veränderung vorantreiben.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Mitgründer & Leitender Entwickler"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Mitgründerin & Produktdesignerin"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community-Manager"
+    },
+    "meetFullTeam": "Das gesamte Team kennenlernen"
+  }
+}

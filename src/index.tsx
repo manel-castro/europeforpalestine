@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import _App from "./App";
+import "./i18n"; // Initialize i18n
 // import reportWebVitals from "./reportWebVitals"; // performance for google metrics
 
 ReactDOM.render(

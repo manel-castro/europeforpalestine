@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hvordan hjelpe?"
+  },
+  "welcome": "Velkommen",
+  "description": "Europa for Palestina",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Lær mer",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Våre apper",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "Appnavn",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Tilgjengelig på App Store",
+    "availableOnPlayStore": "Tilgjengelig på Play Store"
+  },
+  "team": {
+    "title": "Om oss",
+    "description": "Vi bygger digitale verktøy som hjelper deg med å holde selskaper ansvarlige, spore støtte for palestinske rettigheter og ta informerte valg. Vi bruker teknologi og kollektiv handling for å endre hvordan lokalsamfunn deltar i påvirkningsarbeid. Målet vårt er å gjøre åpenhet enkel for alle og å styrke stemmene som jobber for endring.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Medgrunnlegger og ledende utvikler"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Medgrunnlegger og produktdesigner"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Fellesskapsansvarlig"
+    },
+    "meetFullTeam": "Møt hele teamet"
+  }
+}

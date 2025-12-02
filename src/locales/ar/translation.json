@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "كيف تساعد؟"
+  },
+  "welcome": "مرحبا",
+  "description": "أوروبا من أجل فلسطين",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "اعرف المزيد",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "تطبيقاتنا",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "اسم التطبيق",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "متاح على App Store",
+    "availableOnPlayStore": "متاح على Play Store"
+  },
+  "team": {
+    "title": "من نحن",
+    "description": "نحن نبني أدوات رقمية تساعدك على محاسبة الشركات، وتتبع الدعم لحقوق الفلسطينيين، واتخاذ خيارات مستنيرة. نستخدم التكنولوجيا والعمل الجماعي لتغيير كيفية مشاركة المجتمعات في المناصرة. هدفنا هو جعل الشفافية سهلة للجميع وتعزيز الأصوات التي تدفع من أجل التغيير.",
+    "member1": {
+      "name": "جون دو",
+      "description": "مؤسس مشارك ومطور رئيسي"
+    },
+    "member2": {
+      "name": "جين سميث",
+      "description": "مؤسسة مشاركة ومصممة منتجات"
+    },
+    "member3": {
+      "name": "أليكس جونسون",
+      "description": "مدير المجتمع"
+    },
+    "meetFullTeam": "تعرف على الفريق بالكامل"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Nasıl yardım edilir?"
+  },
+  "welcome": "Hoş geldiniz",
+  "description": "Filistin için Avrupa",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Daha fazla bilgi edinin",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Uygulamalarımız",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "Uygulama adı",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "App Store'da mevcut",
+    "availableOnPlayStore": "Play Store'da mevcut"
+  },
+  "team": {
+    "title": "Hakkımızda",
+    "description": "Kurumları hesap verebilir kılmaya, Filistin haklarına yönelik desteği takip etmeye ve bilinçli tercih yapmanıza yardımcı olan dijital araçlar geliştiriyoruz. Toplulukların savunuculuk faaliyetlerine katılım biçimini değiştirmek için teknoloji ve kolektif eylem kullanıyoruz. Amacımız şeffaflığı herkes için kolaylaştırmak ve değişim isteyen sesleri güçlendirmektir.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Kurucu ortak ve baş geliştirici"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Kurucu ortak ve ürün tasarımcısı"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Topluluk yöneticisi"
+    },
+    "meetFullTeam": "Tüm ekibi tanıyın"
+  }
+}

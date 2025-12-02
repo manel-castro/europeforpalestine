@@ -2,7 +2,7 @@
   "compilerOptions": {
     "skipLibCheck": true,
     "jsx": "react",
-    "module": "umd",
+    "module": "esnext",
     "target": "ESNext",
     "lib": [
       "ES2015",
@@ -27,7 +27,8 @@
     // Module resolution options
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "resolveJsonModule": true
   },
   "include": [
     "./src/**/*",

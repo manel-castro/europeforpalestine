@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hoe te helpen?"
+  },
+  "welcome": "Welkom",
+  "description": "Europa voor Palestina",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Meer informatie",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Onze apps",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "App-naam",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Beschikbaar in de App Store",
+    "availableOnPlayStore": "Beschikbaar op Play Store"
+  },
+  "team": {
+    "title": "Over ons",
+    "description": "We bouwen digitale tools die je helpen bedrijven ter verantwoording te roepen, steun voor Palestijnse rechten te volgen en weloverwogen keuzes te maken. We gebruiken technologie en collectieve actie om te veranderen hoe gemeenschappen deelnemen aan belangenbehartiging. Ons doel is transparantie voor iedereen te vereenvoudigen en de stemmen te versterken die pleiten voor verandering.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Mede-oprichter & Lead Developer"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Mede-oprichter & Productontwerper"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community Manager"
+    },
+    "meetFullTeam": "Ontmoet het volledige team"
+  }
+}

@@ -1,0 +1,98 @@
+import React from "react";
+import { useTranslation } from "react-i18next";
+import Button from "./ui/Button";
+
+interface LandingLemaProps {
+  imageUrl?: string;
+  title?: string;
+  description?: string;
+}
+
+const LandingLema: React.FC<LandingLemaProps> = ({
+  imageUrl = "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&q=80",
+  title,
+  description,
+}) => {
+  const { t } = useTranslation();
+  return (
+    <div
+      style={{
+        position: "relative",
+        width: "100%",
+        height: "400px",
+        overflow: "hidden",
+      }}
+    >
+      <div
+        style={{
+          position: "absolute",
+          top: 0,
+          right: 0,
+          width: "50%",
+          height: "100%",
+          display: "flex",
+          justifyContent: "flex-end",
+        }}
+      >
+        <img
+          src={imageUrl}
+          alt={t("landing.imageAlt")}
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+          }}
+        />
+      </div>
+
+      <div
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          gap: "1.5rem",
+          zIndex: 2,
+          padding: "4rem",
+          background:
+            "linear-gradient(to right, #000000 0%, #000000 50%, rgba(0, 0, 0, 0.95) 60%, rgba(0, 0, 0, 0.85) 70%, rgba(0, 0, 0, 0.7) 75%, rgba(0, 0, 0, 0.5) 80%, rgba(0, 0, 0, 0.3) 85%, rgba(0, 0, 0, 0.15) 90%, rgba(0, 0, 0, 0.05) 95%, rgba(0, 0, 0, 0) 100%)",
+        }}
+      >
+        <h1
+          style={{
+            fontSize: "2.5rem",
+            fontWeight: "bold",
+            margin: 0,
+            color: "white",
+          }}
+        >
+          {title || t("landing.title")}
+        </h1>
+
+        <p
+          style={{
+            fontSize: "1.1rem",
+            lineHeight: "1.6",
+            color: "#cccccc",
+          }}
+        >
+          {description || t("landing.description")}
+        </p>
+
+        <Button
+          variant="primary"
+          color="palestine"
+          style={{ alignSelf: "flex-start" }}
+        >
+          {t("landing.learnMore")}
+        </Button>
+      </div>
+    </div>
+  );
+};
+
+export default LandingLema;

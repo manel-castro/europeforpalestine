@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Com ajudar?"
+  },
+  "welcome": "Benvingut",
+  "description": "Europa per Palestina",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "Més informació",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "Les nostres aplicacions",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "Nom de l'aplicació",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "Disponible a l'App Store",
+    "availableOnPlayStore": "Disponible a Play Store"
+  },
+  "team": {
+    "title": "Sobre nosaltres",
+    "description": "Construïm eines digitals que t'ajuden a fer responsables les empreses, a fer el seguiment del suport als drets palestins i a prendre decisions informades. Utilitzem la tecnologia i l'acció col·lectiva per canviar com les comunitats participen en la defensa. El nostre objectiu és fer que la transparència sigui fàcil per a tothom i enfortir les veus que impulsen el canvi.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Cofundador i desenvolupador en cap"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Cofundadora i dissenyadora de producte"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Responsable de comunitat"
+    },
+    "meetFullTeam": "Coneix l'equip complet"
+  }
+}

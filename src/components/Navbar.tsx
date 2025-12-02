@@ -1,29 +1,28 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
+import LanguageSwitcher from "./LanguageSwitcher";
+import Button from "./ui/Button";
+import BrandLogo from "./ui/BrandLogo";
 
 const Navbar: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
     <nav
       style={{
         display: "flex",
         justifyContent: "space-between",
         alignItems: "center",
-        padding: "1rem",
+        padding: "1rem 4rem",
+        backgroundColor: "#000000",
+        color: "white",
       }}
     >
-      <div>LOGO</div>
-      <div></div>
-      <button
-        style={{
-          backgroundColor: "green",
-          color: "white",
-          borderRadius: "50px",
-          padding: "0.75rem 1.5rem",
-          border: "none",
-          cursor: "pointer",
-        }}
-      >
-        How to help?
-      </button>
+      <BrandLogo />
+      <LanguageSwitcher />
+      <Button variant="primary" color="palestine">
+        {t("navbar.howToHelp")}
+      </Button>
     </nav>
   );
 };

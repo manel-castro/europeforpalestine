@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "کیسے مدد کریں؟"
+  },
+  "welcome": "خوش آمدید",
+  "description": "فلسطین کے لیے یورپ",
+  "landing": {
+    "title": "Lorem Ipsum Dolor Sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "learnMore": "مزید جانیں",
+    "imageAlt": "Lorem ipsum placeholder"
+  },
+  "apps": {
+    "title": "ہماری ایپس",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "appName": "ایپ کا نام",
+    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "availableOnAppStore": "App Store پر دستیاب",
+    "availableOnPlayStore": "Play Store پر دستیاب"
+  },
+  "team": {
+    "title": "ہمارے بارے میں",
+    "description": "ہم ڈیجیٹل ٹولز بناتے ہیں جو اداروں کو جوابدہ ٹھہرانے، فلسطینی حقوق کے لیے حمایت کو ٹریک کرنے اور باخبر فیصلے کرنے میں مدد کرتے ہیں۔ ہم ٹیکنالوجی اور اجتماعی عمل کا استعمال کرتے ہیں تاکہ کمیونٹیز کی ایڈووکیسی میں شرکت کے طریقے کو تبدیل کیا جا سکے۔ ہمارا مقصد شفافیت کو ہر ایک کے لیے آسان بنانا اور ان آوازوں کو مضبوط کرنا ہے جو تبدیلی کے لیے کوشاں ہیں۔",
+    "member1": {
+      "name": "John Doe",
+      "description": "ہم-بانی اور سینئر ڈویلپر"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "ہم-بانی اور پروڈکٹ ڈیزائنر"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "کمیونٹی مینیجر"
+    },
+    "meetFullTeam": " پوری ٹیم سے ملیں"
+  }
+}
