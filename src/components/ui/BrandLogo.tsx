@@ -14,9 +14,19 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
   const showText = width === 0 ? true : width >= 700;
 
   return (
-    <div aria-label="brand-logo" style={{ display: "flex", alignItems: "center", gap: "1rem", color: "white" }}>
+    <div
+      aria-label="brand-logo"
+      style={{
+        display: "flex",
+        alignItems: "center",
+        gap: "1rem",
+        color: "white",
+      }}
+    >
       {showText && (
-        <div style={{ display: "flex", flexDirection: "column", lineHeight: 1 }}>
+        <div
+          style={{ display: "flex", flexDirection: "column", lineHeight: 1 }}
+        >
           <div
             style={{
               fontFamily:
@@ -43,7 +53,11 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
         </div>
       )}
 
-      <img src={logo} alt="Europe for Palestine logo" style={{ height: imageHeight, width: "auto" }} />
+      <img
+        src={logo}
+        alt="Europe for Palestine logo"
+        style={{ height: imageHeight, width: "auto" }}
+      />
     </div>
   );
 };

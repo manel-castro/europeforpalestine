@@ -57,7 +57,9 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ style }) => {
     <div style={{ position: "relative", ...style }}>
       <select
         value={selectValue}
-        onChange={(e: React.ChangeEvent<HTMLSelectElement>) => changeLanguage(e.target.value)}
+        onChange={(e: React.ChangeEvent<HTMLSelectElement>) =>
+          changeLanguage(e.target.value)
+        }
         style={{
           padding: "0.5rem 1rem",
           borderRadius: "50px",

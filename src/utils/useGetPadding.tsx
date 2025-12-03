@@ -5,7 +5,10 @@ import { useWindowSize } from "./useWindowSize";
  * Returns an object with `paddingLeft` and `paddingRight` based on window width.
  * Use this to keep horizontal paddings consistent across the site.
  */
-export function useGetPadding(): Pick<CSSProperties, "paddingLeft" | "paddingRight"> {
+export function useGetPadding(): Pick<
+  CSSProperties,
+  "paddingLeft" | "paddingRight"
+> {
   const { width } = useWindowSize();
 
   // Default to the desktop padding to avoid layout shifts during SSR/hydration

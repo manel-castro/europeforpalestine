@@ -1,15 +1,9 @@
 import React from "react";
+import DesktopApp from "./_DesktopApp";
 
-import { BrowserRouter, Route } from "react-router-dom";
-import MainPageMobile from "./mobile/MainPageMobile";
-
-function MobileApp() {
-  return (
-    <BrowserRouter>
-      <Route exact path="/" component={MainPageMobile} />
-      {/* <Route render={() => <div>404</div>} /> */}
-    </BrowserRouter>
-  );
-}
+const MobileApp: React.FC = () => {
+  // For mobile we render the DesktopApp to replicate the desktop experience
+  return <DesktopApp />;
+};
 
 export default MobileApp;

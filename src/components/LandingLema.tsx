@@ -2,19 +2,15 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import Button from "./ui/Button";
 import { useGetPadding } from "../utils/useGetPadding";
+import handsUp from "../media/images/hands-up.png";
 
-interface LandingLemaProps {
-  imageUrl?: string;
-  title?: string;
-  description?: string;
-}
-
-const LandingLema: React.FC<LandingLemaProps> = ({
-  imageUrl = "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&q=80",
-  title,
-  description,
-}) => {
+const LandingLema: React.FC = () => {
   const { t } = useTranslation();
+  const padding = useGetPadding();
+
+  const title = t("landing.title");
+  const description = t("landing.description");
+
   return (
     <div
       style={{
@@ -36,7 +32,7 @@ const LandingLema: React.FC<LandingLemaProps> = ({
         }}
       >
         <img
-          src={imageUrl}
+          src={handsUp}
           alt={t("landing.imageAlt")}
           style={{
             width: "100%",
@@ -60,7 +56,7 @@ const LandingLema: React.FC<LandingLemaProps> = ({
           zIndex: 2,
           paddingTop: "4rem",
           paddingBottom: "4rem",
-          ...useGetPadding(),
+          ...padding,
           background:
             "linear-gradient(to right, #000000 0%, #000000 50%, rgba(0, 0, 0, 0.95) 60%, rgba(0, 0, 0, 0.85) 70%, rgba(0, 0, 0, 0.7) 75%, rgba(0, 0, 0, 0.5) 80%, rgba(0, 0, 0, 0.3) 85%, rgba(0, 0, 0, 0.15) 90%, rgba(0, 0, 0, 0.05) 95%, rgba(0, 0, 0, 0) 100%)",
         }}
@@ -73,7 +69,7 @@ const LandingLema: React.FC<LandingLemaProps> = ({
             color: "white",
           }}
         >
-          {title || t("landing.title")}
+          {title}
         </h1>
 
         <p
@@ -85,7 +81,7 @@ const LandingLema: React.FC<LandingLemaProps> = ({
             margin: 0,
           }}
         >
-          {description || t("landing.description")}
+          {description}
         </p>
 
         <Button
