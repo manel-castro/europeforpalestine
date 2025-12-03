@@ -57,8 +57,9 @@ const LandingLema: React.FC = () => {
           paddingTop: "4rem",
           paddingBottom: "4rem",
           ...padding,
+          backgroundColor: "#000000",
           background:
-            "linear-gradient(to right, #000000 0%, #000000 50%, rgba(0, 0, 0, 0.95) 60%, rgba(0, 0, 0, 0.85) 70%, rgba(0, 0, 0, 0.7) 75%, rgba(0, 0, 0, 0.5) 80%, rgba(0, 0, 0, 0.3) 85%, rgba(0, 0, 0, 0.15) 90%, rgba(0, 0, 0, 0.05) 95%, rgba(0, 0, 0, 0) 100%)",
+            "linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,1) calc(50% - 1px), rgba(0,0,0,0.99) 52%, rgba(0,0,0,0.75) 62%, rgba(0,0,0,0.5) 74%, rgba(0,0,0,0.25) 88%, rgba(0,0,0,0) 100%)",
         }}
       >
         <h1
@@ -91,6 +92,19 @@ const LandingLema: React.FC = () => {
         >
           {t("landing.learnMore")}
         </Button>
+        {/* vertical divider at the midpoint to make the boundary visible */}
+        <div
+          style={{
+            position: "absolute",
+            top: 0,
+            bottom: 0,
+            left: "50%",
+            width: "1px",
+            backgroundColor: "rgba(255,255,255,0.06)",
+            zIndex: 3,
+            pointerEvents: "none",
+          }}
+        />
       </div>
     </div>
   );
