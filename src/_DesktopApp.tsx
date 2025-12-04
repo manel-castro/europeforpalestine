@@ -1,27 +1,26 @@
-import React, { useReducer, memo } from "react";
+import React from "react";
 import "./App.css";
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-import { useEffect } from "react";
 import Navbar from "./components/Navbar";
-import LandingLema from "./components/LandingLema";
-import LandingApps from "./components/LandingApps";
-import LandingTeam from "./components/LandingTeam";
-import LandingHowToHelp from "./components/LandingHowToHelp";
+import LandingPage from "./components/LandingPage";
+import AboutUs from "./components/AboutUs";
 import Footer from "./components/Footer";
 
 export const MyContext = React.createContext({});
 
 function DesktopApp(): JSX.Element {
   return (
-    <div style={{ display: "flex", flexDirection: "column" }}>
-      <Navbar />
-      <LandingLema />
-      <LandingApps />
-      <LandingTeam />
-      <LandingHowToHelp />
-      <Footer />
-    </div>
+    <BrowserRouter>
+      <div style={{ display: "flex", flexDirection: "column" }}>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" render={() => <LandingPage />} />
+          <Route path="/about-us" render={() => <AboutUs />} />
+        </Switch>
+        <Footer />
+      </div>
+    </BrowserRouter>
   );
 }
 
