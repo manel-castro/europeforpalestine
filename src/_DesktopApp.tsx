@@ -7,6 +7,8 @@ import Navbar from "./components/Navbar";
 import LandingLema from "./components/LandingLema";
 import LandingApps from "./components/LandingApps";
 import LandingTeam from "./components/LandingTeam";
+import LandingHowToHelp from "./components/LandingHowToHelp";
+import Footer from "./components/Footer";
 
 export const MyContext = React.createContext({});
 
@@ -17,6 +19,8 @@ function DesktopApp(): JSX.Element {
       <LandingLema />
       <LandingApps />
       <LandingTeam />
+      <LandingHowToHelp />
+      <Footer />
     </div>
   );
 }
