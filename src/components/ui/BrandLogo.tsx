@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../../media/images/logo.png";
 import { useWindowSize } from "../../utils/useWindowSize";
+import { Link } from "react-router-dom";
 
 type BrandLogoProps = {
   /** Height of the image in pixels */
@@ -14,13 +15,15 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
   const showText = width === 0 ? true : width >= 700;
 
   return (
-    <div
+    <Link
+      to="/"
       aria-label="brand-logo"
       style={{
         display: "flex",
         alignItems: "center",
         gap: "1rem",
         color: "white",
+        textDecoration: "none",
       }}
     >
       {showText && (
@@ -58,7 +61,7 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
         alt="Europe for Palestine logo"
         style={{ height: imageHeight, width: "auto" }}
       />
-    </div>
+    </Link>
   );
 };
 

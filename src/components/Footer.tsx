@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { useGetPadding } from "../utils/useGetPadding";
 import { useIsWidthLessThan } from "../utils/useWindowSize";
 import linkedinIcon from "../media/images/linkedin-icon.svg";
@@ -27,37 +28,39 @@ const Footer: React.FC = () => {
           gap: isPhone ? "1rem" : "2rem",
         }}
       >
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            gap: "0rem",
-            alignItems: isPhone ? "center" : "flex-start",
-          }}
-        >
+        <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
           <div
             style={{
-              fontFamily: "Gilroy-Black, sans-serif",
-              fontSize: title1Size,
-              lineHeight: 1.2,
-              whiteSpace: isPhone ? "normal" : "nowrap",
-              textAlign: isPhone ? "center" : "left",
+              display: "flex",
+              flexDirection: "column",
+              gap: "0rem",
+              alignItems: isPhone ? "center" : "flex-start",
             }}
           >
-            EUROPE FOR
+            <div
+              style={{
+                fontFamily: "Gilroy-Black, sans-serif",
+                fontSize: title1Size,
+                lineHeight: 1.2,
+                whiteSpace: isPhone ? "normal" : "nowrap",
+                textAlign: isPhone ? "center" : "left",
+              }}
+            >
+              EUROPE FOR
+            </div>
+            <div
+              style={{
+                fontFamily: "Gilroy-Black, sans-serif",
+                fontSize: title2Size,
+                lineHeight: 0.78,
+                marginTop: isPhone ? "-0.2rem" : "-0.6rem",
+                textAlign: isPhone ? "center" : "left",
+              }}
+            >
+              PALESTINE
+            </div>
           </div>
-          <div
-            style={{
-              fontFamily: "Gilroy-Black, sans-serif",
-              fontSize: title2Size,
-              lineHeight: 0.78,
-              marginTop: isPhone ? "-0.2rem" : "-0.6rem",
-              textAlign: isPhone ? "center" : "left",
-            }}
-          >
-            PALESTINE
-          </div>
-        </div>
+        </Link>
 
         <div
           style={{
@@ -78,6 +81,7 @@ const Footer: React.FC = () => {
           >
             Connect
           </div>
+
           <div style={{ display: "flex", gap: "1rem", alignItems: "center" }}>
             <a
               href="https://linkedin.com"
@@ -92,6 +96,7 @@ const Footer: React.FC = () => {
                 style={{ width: 32, height: 32, display: "block" }}
               />
             </a>
+
             <a
               href="https://instagram.com"
               target="_blank"
@@ -105,6 +110,7 @@ const Footer: React.FC = () => {
                 style={{ width: 32, height: 32, display: "block" }}
               />
             </a>
+
             <a
               href="https://x.com"
               target="_blank"
