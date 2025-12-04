@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { useGetPadding } from "../utils/useGetPadding";
+import Text from "./ui/Text";
 
 interface TeamMemberProps {
   imageUrl: string;
@@ -41,28 +42,28 @@ const TeamMember: React.FC<TeamMemberProps> = ({
           }}
         />
       </div>
-      <h3
+      <Text
+        variant="title-h3"
         style={{
           fontSize: "1.3rem",
-          fontWeight: "bold",
-          margin: 0,
           textAlign: "center",
+          margin: 0,
           color: "white",
         }}
       >
         {name}
-      </h3>
-      <p
+      </Text>
+      <Text
+        variant="description"
         style={{
           fontSize: "0.95rem",
           lineHeight: "1.5",
-          color: "#cccccc",
           textAlign: "center",
           margin: 0,
         }}
       >
         {description}
-      </p>
+      </Text>
     </div>
   );
 };
@@ -92,31 +93,31 @@ const LandingTeam: React.FC = () => {
         }}
       >
         {/* Title */}
-        <h2
+        <Text
+            variant="title-h2"
           style={{
             fontSize: "2.5rem",
-            fontWeight: "bold",
             textAlign: "center",
             margin: 0,
             color: "white",
           }}
         >
           {t("team.title")}
-        </h2>
+        </Text>
 
         {/* Description */}
-        <p
+        <Text
+          variant="description"
           style={{
             fontSize: "1.1rem",
             lineHeight: "1.8",
-            color: "#cccccc",
             textAlign: "center",
             maxWidth: "800px",
             margin: 0,
           }}
         >
           {t("team.description")}
-        </p>
+        </Text>
 
         {/* Team Members Grid */}
         <div

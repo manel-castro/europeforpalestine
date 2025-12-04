@@ -8,7 +8,8 @@
   "landing": {
     "title": "Lorem Ipsum Dolor Sit",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "learnMore": "詳細を見る",
+  "learnMore": "詳細を見る",
+  "meetUs": "私たちに会う",
     "imageAlt": "Lorem ipsum placeholder"
   },
   "apps": {

@@ -1,9 +1,10 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import AppStoreBadge from "./AppStoreBadge";
-import PlayStoreBadge from "./PlayStoreBadge";
+import AppStoreBadge from "./ui/AppStoreBadge";
+import PlayStoreBadge from "./ui/PlayStoreBadge";
 import Card from "./ui/Card";
 import { useGetPadding } from "../utils/useGetPadding";
+import Text from "./ui/Text";
 
 interface AppCardProps {
   appName: string;
@@ -27,27 +28,27 @@ const AppCard: React.FC<AppCardProps> = ({
         maxWidth: "500px",
       }}
     >
-      <h3
+      <Text
+        variant="title-h3"
         style={{
           fontSize: "1.8rem",
-          fontWeight: "bold",
           textAlign: "center",
           marginBottom: "1.5rem",
         }}
       >
         {appName}
-      </h3>
-      <p
+      </Text>
+      <Text
+        variant="description"
         style={{
           fontSize: "1rem",
           lineHeight: "1.6",
-          color: "#cccccc",
           textAlign: "left",
           marginBottom: "2rem",
         }}
       >
         {appDescription}
-      </p>
+      </Text>
       <div
         style={{
           display: "flex",
@@ -92,26 +93,23 @@ const LandingApps: React.FC = () => {
             marginBottom: "3rem",
           }}
         >
-          <h2
-            style={{
-              fontSize: "2.5rem",
-              fontWeight: "bold",
-              marginBottom: "1.5rem",
-            }}
+          <Text
+            variant="title-h2"
+            style={{ fontSize: "2.5rem", marginBottom: "1.5rem" }}
           >
             {t("apps.title")}
-          </h2>
-          <p
+          </Text>
+          <Text
+            variant="description"
             style={{
               fontSize: "1.1rem",
               lineHeight: "1.8",
-              color: "#cccccc",
               maxWidth: "800px",
               margin: "0 auto",
             }}
           >
             {t("apps.description")}
-          </p>
+          </Text>
         </div>
 
         {/* Apps Grid Section */}
