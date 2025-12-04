@@ -2,9 +2,12 @@ import React from "react";
 import Button from "./ui/Button";
 import handsUp from "../media/images/hands-up.png";
 import { useGetPadding } from "../utils/useGetPadding";
+import { useIsWidthLessThan } from "../utils/useWindowSize";
 
 const LandingHowToHelp: React.FC = () => {
   const padding = useGetPadding();
+
+  const isPhone = useIsWidthLessThan(700);
 
   return (
     <div
@@ -20,7 +23,7 @@ const LandingHowToHelp: React.FC = () => {
         <section
           style={{
             display: "flex",
-            flexDirection: "row",
+            flexDirection: isPhone ? "column" : "row",
             alignItems: "center",
             justifyContent: "center",
             gap: "2rem",
@@ -33,6 +36,7 @@ const LandingHowToHelp: React.FC = () => {
               flex: "0 0 320px",
               display: "flex",
               justifyContent: "center",
+              order: isPhone ? 2 : 0,
             }}
           >
             <div
@@ -63,6 +67,7 @@ const LandingHowToHelp: React.FC = () => {
               textAlign: "center",
               maxWidth: "720px",
               gap: "1rem",
+              order: 1,
             }}
           >
             <h2
