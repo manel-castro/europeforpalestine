@@ -2,24 +2,14 @@ import React from "react";
 import Button from "../../ui/Button";
 import Text from "../../ui/Text";
 import handsUp from "media/images/hands-up.png";
-import { useGetPadding } from "utils/useGetPadding";
 import { useIsWidthLessThan } from "../../../utils/useWindowSize";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 const LandingHowToHelp: React.FC = () => {
-  const padding = useGetPadding();
-
   const isPhone = useIsWidthLessThan(700);
 
   return (
-    <div
-      style={{
-        backgroundColor: "#1a1a1a",
-        color: "white",
-        paddingTop: "4rem",
-        paddingBottom: "4rem",
-        ...padding,
-      }}
-    >
+    <SectionWrapper>
       <div style={{ maxWidth: "1200px", margin: "0 auto" }}>
         <section
           style={{
@@ -94,7 +84,7 @@ const LandingHowToHelp: React.FC = () => {
           </div>
         </section>
       </div>
-    </div>
+    </SectionWrapper>
   );
 };
 

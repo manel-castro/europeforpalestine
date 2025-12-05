@@ -3,8 +3,9 @@ import { useTranslation } from "react-i18next";
 import AppStoreBadge from "../../ui/AppStoreBadge";
 import PlayStoreBadge from "../../ui/PlayStoreBadge";
 import Card from "../../ui/Card";
-import { useGetPadding } from "utils/useGetPadding";
+
 import Text from "../../ui/Text";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 interface AppCardProps {
   appName: string;
@@ -68,18 +69,8 @@ const AppCard: React.FC<AppCardProps> = ({
 const LandingApps: React.FC = () => {
   const { t } = useTranslation();
 
-  const horizontalPadding = useGetPadding();
-
   return (
-    <div
-      style={{
-        backgroundColor: "#1a1a1a",
-        color: "white",
-        paddingTop: "4rem",
-        paddingBottom: "4rem",
-        ...horizontalPadding,
-      }}
-    >
+    <SectionWrapper>
       <div
         style={{
           maxWidth: "1200px",
@@ -131,7 +122,7 @@ const LandingApps: React.FC = () => {
           />
         </div>
       </div>
-    </div>
+    </SectionWrapper>
   );
 };
 

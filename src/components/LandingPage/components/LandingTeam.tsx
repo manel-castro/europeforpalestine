@@ -1,8 +1,8 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import { useGetPadding } from "utils/useGetPadding";
 import Text from "../../ui/Text";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 interface TeamMemberProps {
   imageUrl: string;
@@ -72,17 +72,8 @@ const TeamMember: React.FC<TeamMemberProps> = ({
 const LandingTeam: React.FC = () => {
   const { t } = useTranslation();
 
-  const horizontalPadding = useGetPadding();
-
   return (
-    <div
-      style={{
-        backgroundColor: "#1a1a1a",
-        paddingTop: "4rem",
-        paddingBottom: "4rem",
-        ...horizontalPadding,
-      }}
-    >
+    <SectionWrapper>
       <div
         style={{
           maxWidth: "1200px",
@@ -193,7 +184,7 @@ const LandingTeam: React.FC = () => {
           </svg>
         </Link>
       </div>
-    </div>
+    </SectionWrapper>
   );
 };
 

@@ -1,12 +1,10 @@
 import React from "react";
 import Text from "../../ui/Text";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import SectionWrapper from "./SectionWrapper";
 import ProfileCard from "./ProfileCard";
 import ProfileCardsContainer from "./ProfileCardsContainer";
 
 const TeamRoles: React.FC = () => {
-  const padding = useGetPadding();
-
   const developers = [
     {
       name: "Alice Johnson",
@@ -59,92 +57,81 @@ const TeamRoles: React.FC = () => {
   ];
 
   return (
-    <section
-      style={{
-        backgroundColor: "#1a1a1a",
-        color: "white",
-        // reduce top padding so the Developers section sits closer to the "Meet the team" title
-        paddingTop: "2rem",
-        paddingBottom: "4rem",
-        ...padding,
-      }}
-    >
-      <div style={{ maxWidth: 1200, margin: "0 auto", textAlign: "center" }}>
-        <div style={{ display: "flex", flexDirection: "column", gap: "4rem" }}>
-          {/* Developers */}
-          <div style={{ textAlign: "center" }}>
-            <Text
-              variant="title-h2"
-              style={{
-                margin: 0,
-                marginBottom: "0.75rem",
-                textAlign: "center",
-              }}
-            >
-              Developers
-            </Text>
-            <ProfileCardsContainer>
-              {developers.map((d) => (
-                <ProfileCard
-                  key={d.name}
-                  imageUrl={d.image}
-                  name={d.name}
-                  title={d.title}
-                />
-              ))}
-            </ProfileCardsContainer>
-          </div>
+    <SectionWrapper paddingTop="2rem" paddingBottom="4rem">
+      <div style={{ display: "flex", flexDirection: "column", gap: "4rem" }}>
+        {/* Developers */}
+        <div style={{ textAlign: "center" }}>
+          <Text
+            variant="title-h2"
+            style={{
+              margin: 0,
+              marginBottom: "0.75rem",
+              textAlign: "center",
+            }}
+          >
+            Developers
+          </Text>
+          <ProfileCardsContainer>
+            {developers.map((d) => (
+              <ProfileCard
+                key={d.name}
+                imageUrl={d.image}
+                name={d.name}
+                title={d.title}
+              />
+            ))}
+          </ProfileCardsContainer>
+        </div>
 
-          {/* Designers */}
-          <div style={{ textAlign: "center" }}>
-            <Text
-              variant="title-h2"
-              style={{
-                margin: 0,
-                marginBottom: "0.75rem",
-                textAlign: "center",
-              }}
-            >
-              Designers
-            </Text>
-            <ProfileCardsContainer>
-              {designers.map((d) => (
-                <ProfileCard
-                  key={d.name}
-                  imageUrl={d.image}
-                  name={d.name}
-                  title={d.title}
-                />
-              ))}
-            </ProfileCardsContainer>
-          </div>
+        {/* Designers */}
+        <div style={{ textAlign: "center" }}>
+          <Text
+            variant="title-h2"
+            style={{
+              margin: 0,
+              marginBottom: "0.75rem",
+              textAlign: "center",
+            }}
+          >
+            Designers
+          </Text>
+          <ProfileCardsContainer>
+            {designers.map((d) => (
+              <ProfileCard
+                key={d.name}
+                imageUrl={d.image}
+                name={d.name}
+                title={d.title}
+              />
+            ))}
+          </ProfileCardsContainer>
+        </div>
 
-          {/* Social media */}
-          <div style={{ textAlign: "center" }}>
-            <Text
-              variant="title-h2"
-              style={{
-                margin: 0,
-                marginBottom: "0.75rem",
-                textAlign: "center",
-              }}
-            >
-              Social media
-            </Text>
-            <ProfileCardsContainer>
-              {social.map((d) => (
-                <ProfileCard
-                  key={d.name}
-                  imageUrl={d.image}
-                  name={d.name}
-                  title={d.title}
-                />
-              ))}
-            </ProfileCardsContainer>
-          </div>
+        {/* Social media */}
+        <div style={{ textAlign: "center" }}>
+          <Text
+            variant="title-h2"
+            style={{
+              margin: 0,
+              marginBottom: "0.75rem",
+              textAlign: "center",
+            }}
+          >
+            Social media
+          </Text>
+          <ProfileCardsContainer>
+            {social.map((d) => (
+              <ProfileCard
+                key={d.name}
+                imageUrl={d.image}
+                name={d.name}
+                title={d.title}
+              />
+            ))}
+          </ProfileCardsContainer>
         </div>
       </div>
-    </section>
+    </SectionWrapper>
   );
 };
 

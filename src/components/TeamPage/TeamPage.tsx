@@ -1,8 +1,10 @@
 import React, { useEffect } from "react";
-import { useGetPadding } from "utils/useGetPadding";
+/* layout handled by section components */
 import TeamAboutUs from "components/TeamPage/components/TeamAboutUs";
 import TeamMeetUs from "components/TeamPage/components/TeamMeetUs";
+import MissionSection from "components/TeamPage/components/MissionSection";
 import TeamRoles from "components/TeamPage/components/TeamRoles";
+import TeamJoinUs from "components/TeamPage/components/TeamJoinUs";
 
 const TeamPage: React.FC = () => {
   useEffect(() => {
@@ -33,11 +35,12 @@ const TeamPage: React.FC = () => {
         justifyContent: "center", // vertically center the page contents
       }}
     >
-      {/* First section: Team / About */}
       <TeamAboutUs />
       <TeamMeetUs />
-      {/* Roles: Developers / Designers / Social media */}
+
       <TeamRoles />
+      <MissionSection />
+      <TeamJoinUs />
     </div>
   );
 };
