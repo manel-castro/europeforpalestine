@@ -1,11 +1,10 @@
 import React from "react";
 import Text from "../../ui/Text";
 import { useGetPadding } from "../../../utils/useGetPadding";
-import { useIsWidthLessThan } from "../../../utils/useWindowSize";
+// keep imports minimal
 
 const TeamAboutUs: React.FC = () => {
   const padding = useGetPadding();
-  const isPhone = useIsWidthLessThan(700);
 
   return (
     <section
@@ -21,7 +20,7 @@ const TeamAboutUs: React.FC = () => {
         style={{
           maxWidth: 1200,
           margin: "0 auto",
-          textAlign: isPhone ? "center" : "left",
+          textAlign: "center",
         }}
       >
         <Text

@@ -75,8 +75,6 @@ const LandingHowToHelp: React.FC = () => {
               variant="title-h2"
               style={{
                 margin: 0,
-                fontSize: "1.8rem",
-                fontWeight: 700,
                 color: "#fff",
               }}
             >

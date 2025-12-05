@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 import { useGetPadding } from "../../../utils/useGetPadding";
 import Text from "../../ui/Text";
 
@@ -147,7 +148,8 @@ const LandingTeam: React.FC = () => {
         </div>
 
         {/* Meet the Full Team Link */}
-        <div
+        <Link
+          to="/about-us#meet-team"
           style={{
             display: "flex",
             alignItems: "center",
@@ -155,12 +157,15 @@ const LandingTeam: React.FC = () => {
             marginTop: "2rem",
             cursor: "pointer",
             transition: "transform 0.2s",
+            textDecoration: "none",
           }}
           onMouseEnter={(e) => {
-            e.currentTarget.style.transform = "translateX(5px)";
+            (e.currentTarget as HTMLAnchorElement).style.transform =
+              "translateX(5px)";
           }}
           onMouseLeave={(e) => {
-            e.currentTarget.style.transform = "translateX(0)";
+            (e.currentTarget as HTMLAnchorElement).style.transform =
+              "translateX(0)";
           }}
         >
           <span
@@ -186,7 +191,7 @@ const LandingTeam: React.FC = () => {
             <line x1="5" y1="12" x2="19" y2="12"></line>
             <polyline points="12 5 19 12 12 19"></polyline>
           </svg>
-        </div>
+        </Link>
       </div>
     </div>
   );

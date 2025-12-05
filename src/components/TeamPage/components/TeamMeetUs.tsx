@@ -1,11 +1,10 @@
 import React from "react";
 import Text from "../../ui/Text";
 import { useGetPadding } from "../../../utils/useGetPadding";
-import { useIsWidthLessThan } from "../../../utils/useWindowSize";
+// keep imports minimal
 
 const TeamMeetUs: React.FC = () => {
   const padding = useGetPadding();
-  const isPhone = useIsWidthLessThan(700);
 
   return (
     <section
@@ -21,10 +20,11 @@ const TeamMeetUs: React.FC = () => {
         style={{
           maxWidth: 1200,
           margin: "0 auto",
-          textAlign: isPhone ? "center" : "left",
+          textAlign: "center",
         }}
       >
         <Text
+          id="meet-team"
           variant="title-h2"
           style={{ fontSize: "2rem", fontWeight: 700, marginBottom: "1rem" }}
         >

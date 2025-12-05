@@ -12,6 +12,7 @@ interface TextProps {
   children: React.ReactNode;
   style?: CSSProperties;
   className?: string;
+  id?: string;
 }
 
 const baseStyles: Record<Variant, CSSProperties> = {
@@ -47,12 +48,18 @@ const baseStyles: Record<Variant, CSSProperties> = {
   },
 };
 
-const Text: React.FC<TextProps> = ({ variant, children, style, className }) => {
+const Text: React.FC<TextProps> = ({
+  variant,
+  children,
+  style,
+  className,
+  id,
+}) => {
   const merged = { ...baseStyles[variant], ...style } as CSSProperties;
 
   if (variant === "title-h1") {
     return (
-      <h1 style={merged} className={className}>
+      <h1 id={id} style={merged} className={className}>
         {children}
       </h1>
     );
@@ -60,7 +67,7 @@ const Text: React.FC<TextProps> = ({ variant, children, style, className }) => {
 
   if (variant === "title-h2") {
     return (
-      <h2 style={merged} className={className}>
+      <h2 id={id} style={merged} className={className}>
         {children}
       </h2>
     );
@@ -68,7 +75,7 @@ const Text: React.FC<TextProps> = ({ variant, children, style, className }) => {
 
   if (variant === "title-h3") {
     return (
-      <h3 style={merged} className={className}>
+      <h3 id={id} style={merged} className={className}>
         {children}
       </h3>
     );
@@ -76,14 +83,14 @@ const Text: React.FC<TextProps> = ({ variant, children, style, className }) => {
 
   if (variant === "title-h4") {
     return (
-      <h4 style={merged} className={className}>
+      <h4 id={id} style={merged} className={className}>
         {children}
       </h4>
     );
   }
 
   return (
-    <p style={merged} className={className}>
+    <p id={id} style={merged} className={className}>
       {children}
     </p>
   );
