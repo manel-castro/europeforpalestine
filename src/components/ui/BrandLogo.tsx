@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../../media/images/logo.png";
-import { useWindowSize } from "../../utils/useWindowSize";
+import logo from "media/images/logo.png";
+import { useWindowSize } from "utils/useWindowSize";
 import { Link } from "react-router-dom";
 
 type BrandLogoProps = {
@@ -17,6 +17,7 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
   return (
     <Link
       to="/"
+      onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
       aria-label="brand-logo"
       style={{
         display: "flex",

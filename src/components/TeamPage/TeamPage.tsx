@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import { useGetPadding } from "../../utils/useGetPadding";
-import TeamAboutUs from "./components/TeamAboutUs";
-import TeamMeetUs from "./components/TeamMeetUs";
-import TeamRoles from "./components/TeamRoles";
+import { useGetPadding } from "utils/useGetPadding";
+import TeamAboutUs from "components/TeamPage/components/TeamAboutUs";
+import TeamMeetUs from "components/TeamPage/components/TeamMeetUs";
+import TeamRoles from "components/TeamPage/components/TeamRoles";
 
 const TeamPage: React.FC = () => {
   useEffect(() => {

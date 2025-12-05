@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import AppStoreBadge from "../../ui/AppStoreBadge";
 import PlayStoreBadge from "../../ui/PlayStoreBadge";
 import Card from "../../ui/Card";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import { useGetPadding } from "utils/useGetPadding";
 import Text from "../../ui/Text";
 
 interface AppCardProps {

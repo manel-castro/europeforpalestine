@@ -2,7 +2,7 @@ import React from "react";
 import Button from "../../ui/Button";
 import Text from "../../ui/Text";
 import handsUp from "media/images/hands-up.png";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import { useGetPadding } from "utils/useGetPadding";
 import { useIsWidthLessThan } from "../../../utils/useWindowSize";
 
 const LandingHowToHelp: React.FC = () => {

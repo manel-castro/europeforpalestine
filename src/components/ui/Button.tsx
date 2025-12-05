@@ -1,5 +1,5 @@
 import React from "react";
-import { useIsWidthLessThan } from "../../utils/useWindowSize";
+import { useIsWidthLessThan } from "utils/useWindowSize";
 
 // Color palette
 export const colors = {

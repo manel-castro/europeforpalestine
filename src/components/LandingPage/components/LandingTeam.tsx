@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import { useGetPadding } from "utils/useGetPadding";
 import Text from "../../ui/Text";
 
 interface TeamMemberProps {

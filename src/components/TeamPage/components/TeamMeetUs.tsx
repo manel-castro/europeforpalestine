@@ -1,6 +1,6 @@
 import React from "react";
 import Text from "../../ui/Text";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import { useGetPadding } from "utils/useGetPadding";
 // keep imports minimal
 
 const TeamMeetUs: React.FC = () => {

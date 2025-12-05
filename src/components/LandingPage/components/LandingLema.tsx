@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import Button from "../../ui/Button";
 import Text from "../../ui/Text";
-import { useGetPadding } from "../../../utils/useGetPadding";
+import { useGetPadding } from "utils/useGetPadding";
 import handsUp from "media/images/hands-up.png";
 
 const LandingLema: React.FC = () => {
