@@ -1,4 +1,5 @@
 import React from "react";
+import { useIsWidthLessThan } from "../../utils/useWindowSize";
 
 // Color palette
 export const colors = {
@@ -36,6 +37,8 @@ const Button: React.FC<ButtonProps> = ({
   ...props
 }) => {
   const baseColor = colors[color];
+
+  const isPhone = useIsWidthLessThan(700);
 
   // Size configurations
   const sizes = {
@@ -85,6 +88,13 @@ const Button: React.FC<ButtonProps> = ({
     }
   };
 
+  const resolvedSizeKey = (() => {
+    // on phone, increase size: small->medium, medium->large, large->large
+    if (!isPhone) return size;
+    if (size === "small") return "medium" as const;
+    return "large" as const;
+  })();
+
   const buttonStyles: React.CSSProperties = {
     ...getVariantStyles(),
     borderRadius: "50px",
@@ -92,7 +102,7 @@ const Button: React.FC<ButtonProps> = ({
     fontWeight: 500,
     transition: "all 0.3s ease",
     width: fullWidth ? "100%" : "auto",
-    ...sizes[size],
+    ...sizes[resolvedSizeKey],
     ...style,
   };
 

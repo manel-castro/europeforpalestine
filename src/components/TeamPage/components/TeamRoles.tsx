@@ -2,6 +2,7 @@ import React from "react";
 import Text from "../../ui/Text";
 import { useGetPadding } from "../../../utils/useGetPadding";
 import ProfileCard from "./ProfileCard";
+import ProfileCardsContainer from "./ProfileCardsContainer";
 
 const TeamRoles: React.FC = () => {
   const padding = useGetPadding();
@@ -17,7 +18,7 @@ const TeamRoles: React.FC = () => {
       name: "Mohamed Ali",
       title: "Backend Engineer",
       image:
-        "https://images.unsplash.com/photo-1531123414780-f5f3c3a3d2f8?w=800&q=80",
+        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80",
     },
     {
       name: "Sara Lee",
@@ -38,7 +39,7 @@ const TeamRoles: React.FC = () => {
       name: "Tom Becker",
       title: "UX Researcher",
       image:
-        "https://images.unsplash.com/photo-1545996124-1b6b1c4b9f3b?w=800&q=80",
+        "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=800&q=80",
     },
   ];
 
@@ -69,9 +70,7 @@ const TeamRoles: React.FC = () => {
       }}
     >
       <div style={{ maxWidth: 1200, margin: "0 auto", textAlign: "center" }}>
-        <div
-          style={{ display: "flex", flexDirection: "column", gap: "4rem" }}
-        >
+        <div style={{ display: "flex", flexDirection: "column", gap: "4rem" }}>
           {/* Developers */}
           <div style={{ textAlign: "center" }}>
             <Text
@@ -84,14 +83,7 @@ const TeamRoles: React.FC = () => {
             >
               Developers
             </Text>
-            <div
-              style={{
-                display: "flex",
-                gap: "1rem",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
+            <ProfileCardsContainer>
               {developers.map((d) => (
                 <ProfileCard
                   key={d.name}
@@ -100,7 +92,7 @@ const TeamRoles: React.FC = () => {
                   title={d.title}
                 />
               ))}
-            </div>
+            </ProfileCardsContainer>
           </div>
 
           {/* Designers */}
@@ -115,14 +107,7 @@ const TeamRoles: React.FC = () => {
             >
               Designers
             </Text>
-            <div
-              style={{
-                display: "flex",
-                gap: "1rem",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
+            <ProfileCardsContainer>
               {designers.map((d) => (
                 <ProfileCard
                   key={d.name}
@@ -131,7 +116,7 @@ const TeamRoles: React.FC = () => {
                   title={d.title}
                 />
               ))}
-            </div>
+            </ProfileCardsContainer>
           </div>
 
           {/* Social media */}
@@ -146,14 +131,7 @@ const TeamRoles: React.FC = () => {
             >
               Social media
             </Text>
-            <div
-              style={{
-                display: "flex",
-                gap: "1rem",
-                flexWrap: "wrap",
-                justifyContent: "center",
-              }}
-            >
+            <ProfileCardsContainer>
               {social.map((d) => (
                 <ProfileCard
                   key={d.name}
@@ -162,7 +140,7 @@ const TeamRoles: React.FC = () => {
                   title={d.title}
                 />
               ))}
-            </div>
+            </ProfileCardsContainer>
           </div>
         </div>
       </div>
