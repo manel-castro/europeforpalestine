@@ -1,9 +1,9 @@
 import React from "react";
-import Button from "./ui/Button";
-import Text from "./ui/Text";
-import handsUp from "../media/images/hands-up.png";
-import { useGetPadding } from "../utils/useGetPadding";
-import { useIsWidthLessThan } from "../utils/useWindowSize";
+import Button from "../../ui/Button";
+import Text from "../../ui/Text";
+import handsUp from "media/images/hands-up.png";
+import { useGetPadding } from "../../../utils/useGetPadding";
+import { useIsWidthLessThan } from "../../../utils/useWindowSize";
 
 const LandingHowToHelp: React.FC = () => {
   const padding = useGetPadding();
@@ -73,7 +73,12 @@ const LandingHowToHelp: React.FC = () => {
           >
             <Text
               variant="title-h2"
-              style={{ margin: 0, fontSize: "1.8rem", fontWeight: 700, color: "#fff" }}
+              style={{
+                margin: 0,
+                fontSize: "1.8rem",
+                fontWeight: 700,
+                color: "#fff",
+              }}
             >
               How to help?
             </Text>

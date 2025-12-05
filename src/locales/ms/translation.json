@@ -8,8 +8,8 @@
   "landing": {
     "title": "Lorem Ipsum Dolor Sit",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  "learnMore": "Ketahui lebih lanjut",
-  "meetUs": "Temui kami",
+    "learnMore": "Ketahui lebih lanjut",
+    "meetUs": "Temui kami",
     "imageAlt": "Lorem ipsum placeholder"
   },
   "apps": {

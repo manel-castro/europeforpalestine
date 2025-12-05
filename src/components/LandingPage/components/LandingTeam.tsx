@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { useGetPadding } from "../utils/useGetPadding";
-import Text from "./ui/Text";
+import { useGetPadding } from "../../../utils/useGetPadding";
+import Text from "../../ui/Text";
 
 interface TeamMemberProps {
   imageUrl: string;
@@ -94,7 +94,7 @@ const LandingTeam: React.FC = () => {
       >
         {/* Title */}
         <Text
-            variant="title-h2"
+          variant="title-h2"
           style={{
             fontSize: "2.5rem",
             textAlign: "center",

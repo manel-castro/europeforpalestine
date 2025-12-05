@@ -3,8 +3,8 @@ import "./App.css";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
-import LandingPage from "./components/LandingPage";
-import AboutUs from "./components/AboutUs";
+import LandingPage from "./components/LandingPage/LandingPage";
+import AboutUs from "./components/TeamPage/TeamPage";
 import Footer from "./components/Footer";
 
 export const MyContext = React.createContext({});

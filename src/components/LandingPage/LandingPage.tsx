@@ -1,8 +1,8 @@
 import React from "react";
-import LandingLema from "./LandingLema";
-import LandingApps from "./LandingApps";
-import LandingTeam from "./LandingTeam";
-import LandingHowToHelp from "./LandingHowToHelp";
+import LandingLema from "./components/LandingLema";
+import LandingApps from "./components/LandingApps";
+import LandingTeam from "./components/LandingTeam";
+import LandingHowToHelp from "./components/LandingHowToHelp";
 
 const LandingPage: React.FC = () => {
   return (

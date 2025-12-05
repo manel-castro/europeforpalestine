@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import LanguageSwitcher from "./LanguageSwitcher";
+import LanguageSwitcher from "./ui/LanguageSwitcher";
 import Button from "./ui/Button";
 import BrandLogo from "./ui/BrandLogo";
 import { useGetPadding } from "../utils/useGetPadding";

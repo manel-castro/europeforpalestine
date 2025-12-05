@@ -1,10 +1,9 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import Button from "./ui/Button";
-import { Link } from "react-router-dom";
-import Text from "./ui/Text";
-import { useGetPadding } from "../utils/useGetPadding";
-import handsUp from "../media/images/hands-up.png";
+import Button from "../../ui/Button";
+import Text from "../../ui/Text";
+import { useGetPadding } from "../../../utils/useGetPadding";
+import handsUp from "media/images/hands-up.png";
 
 const LandingLema: React.FC = () => {
   const { t } = useTranslation();
@@ -64,7 +63,7 @@ const LandingLema: React.FC = () => {
         }}
       >
         <Text
-            variant="title-h1"
+          variant="title-h1"
           style={{ fontSize: "2.5rem", fontWeight: "bold", margin: 0 }}
         >
           {title}
@@ -77,11 +76,18 @@ const LandingLema: React.FC = () => {
           {description}
         </Text>
 
-        <Link to="/about-us" style={{ alignSelf: "flex-start", textDecoration: "none" }}>
-          <Button variant="primary" color="palestine" style={{ alignSelf: "flex-start" }}>
+        <a
+          href="/about-us"
+          style={{ alignSelf: "flex-start", textDecoration: "none" }}
+        >
+          <Button
+            variant="primary"
+            color="palestine"
+            style={{ alignSelf: "flex-start" }}
+          >
             {t("landing.meetUs")}
           </Button>
-        </Link>
+        </a>
       </div>
     </div>
   );
