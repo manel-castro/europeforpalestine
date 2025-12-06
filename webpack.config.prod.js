@@ -27,6 +27,19 @@ module.exports = {
   },
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx"],
+    alias: {
+      components: path.resolve(__dirname, "src/components"),
+      "@components": path.resolve(__dirname, "src/components"),
+      utils: path.resolve(__dirname, "src/utils"),
+      "@utils": path.resolve(__dirname, "src/utils"),
+      media: path.resolve(__dirname, "src/media"),
+      "@media": path.resolve(__dirname, "src/media"),
+      ui: path.resolve(__dirname, "src/components/ui"),
+      "@ui": path.resolve(__dirname, "src/components/ui"),
+      src: path.resolve(__dirname, "src"),
+      "@src": path.resolve(__dirname, "src"),
+    },
+    modules: [path.resolve(__dirname, "src"), "node_modules"],
   },
   plugins: [
     new ESLintPlugin(),
@@ -43,8 +56,7 @@ module.exports = {
       template: "src/index.html",
       favicon: "src/media/favicon2.png",
       templateParameters: {
-        foo:
-          "<script>window.__REACT_DEVTOOLS_GLOBAL_HOOK__.inject = function () {}</script>",
+        foo: "<script>window.__REACT_DEVTOOLS_GLOBAL_HOOK__.inject = function () {}</script>",
       },
 
       minify: {

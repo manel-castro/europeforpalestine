@@ -1,24 +1,15 @@
 import React from "react";
-import Button from "./ui/Button";
-import handsUp from "../media/images/hands-up.png";
-import { useGetPadding } from "../utils/useGetPadding";
-import { useIsWidthLessThan } from "../utils/useWindowSize";
+import Button from "../../ui/Button";
+import Text from "../../ui/Text";
+import handsUp from "media/images/hands-up.png";
+import { useIsWidthLessThan } from "../../../utils/useWindowSize";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 const LandingHowToHelp: React.FC = () => {
-  const padding = useGetPadding();
-
   const isPhone = useIsWidthLessThan(700);
 
   return (
-    <div
-      style={{
-        backgroundColor: "#1a1a1a",
-        color: "white",
-        paddingTop: "4rem",
-        paddingBottom: "4rem",
-        ...padding,
-      }}
-    >
+    <SectionWrapper>
       <div style={{ maxWidth: "1200px", margin: "0 auto" }}>
         <section
           style={{
@@ -70,23 +61,22 @@ const LandingHowToHelp: React.FC = () => {
               order: 1,
             }}
           >
-            <h2
+            <Text
+              variant="title-h2"
               style={{
                 margin: 0,
-                fontSize: "1.8rem",
-                fontWeight: 700,
                 color: "#fff",
               }}
             >
               How to help?
-            </h2>
+            </Text>
 
-            <p style={{ margin: 0, color: "#cccccc", lineHeight: 1.6 }}>
+            <Text variant="description" style={{ margin: 0 }}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               aliquet, odio at commodo gravida, urna nisl fermentum mauris, sit
               amet facilisis neque nisl in nunc. Curabitur non justo vitae nibh
               posuere convallis. Sed a ex id ligula tristique malesuada.
-            </p>
+            </Text>
 
             <Button variant="primary" color="palestine">
               I want to donate
@@ -94,7 +84,7 @@ const LandingHowToHelp: React.FC = () => {
           </div>
         </section>
       </div>
-    </div>
+    </SectionWrapper>
   );
 };
 

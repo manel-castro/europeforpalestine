@@ -1,12 +1,13 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import Button from "./ui/Button";
-import { useGetPadding } from "../utils/useGetPadding";
-import handsUp from "../media/images/hands-up.png";
+import Button from "../../ui/Button";
+import Text from "../../ui/Text";
+
+import handsUp from "media/images/hands-up.png";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 const LandingLema: React.FC = () => {
   const { t } = useTranslation();
-  const padding = useGetPadding();
 
   const title = t("landing.title");
   const description = t("landing.description");
@@ -54,43 +55,53 @@ const LandingLema: React.FC = () => {
           justifyContent: "center",
           gap: "1.5rem",
           zIndex: 2,
-          paddingTop: "4rem",
-          paddingBottom: "4rem",
-          ...padding,
           background:
             "linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0.99) 52%, rgba(0,0,0,0.95) 58%, rgba(0,0,0,0.5) 74%, rgba(0,0,0,0.25) 88%, rgba(0,0,0,0) 100%)",
         }}
       >
-        <h1
-          style={{
-            fontSize: "2.5rem",
-            fontWeight: "bold",
-            margin: 0,
-            color: "white",
-          }}
+        <SectionWrapper
+          backgroundColor="transparent"
+          paddingTop="0"
+          paddingBottom="0"
+          maxWidth={1200}
         >
-          {title}
-        </h1>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "flex-start",
+              textAlign: "left",
+              width: "100%",
+            }}
+          >
+            <Text
+              variant="title-h1"
+              style={{ fontSize: "2.5rem", fontWeight: "bold", margin: 0 }}
+            >
+              {title}
+            </Text>
 
-        <p
-          style={{
-            fontSize: "1.1rem",
-            lineHeight: "1.6",
-            color: "#cccccc",
-            maxWidth: "400px",
-            margin: 0,
-          }}
-        >
-          {description}
-        </p>
+            <Text
+              variant="description"
+              style={{
+                fontSize: "1.1rem",
+                maxWidth: "400px",
+                margin: "0.5rem 0 0 0",
+              }}
+            >
+              {description}
+            </Text>
 
-        <Button
-          variant="primary"
-          color="palestine"
-          style={{ alignSelf: "flex-start" }}
-        >
-          {t("landing.learnMore")}
-        </Button>
+            <a
+              href="/about-us"
+              style={{ marginTop: "1rem", textDecoration: "none" }}
+            >
+              <Button variant="primary" color="palestine">
+                {t("landing.meetUs")}
+              </Button>
+            </a>
+          </div>
+        </SectionWrapper>
       </div>
     </div>
   );

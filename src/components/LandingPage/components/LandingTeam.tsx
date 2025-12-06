@@ -1,6 +1,8 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { useGetPadding } from "../utils/useGetPadding";
+import { Link } from "react-router-dom";
+import Text from "../../ui/Text";
+import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
 interface TeamMemberProps {
   imageUrl: string;
@@ -41,28 +43,28 @@ const TeamMember: React.FC<TeamMemberProps> = ({
           }}
         />
       </div>
-      <h3
+      <Text
+        variant="title-h3"
         style={{
           fontSize: "1.3rem",
-          fontWeight: "bold",
-          margin: 0,
           textAlign: "center",
+          margin: 0,
           color: "white",
         }}
       >
         {name}
-      </h3>
-      <p
+      </Text>
+      <Text
+        variant="description"
         style={{
           fontSize: "0.95rem",
           lineHeight: "1.5",
-          color: "#cccccc",
           textAlign: "center",
           margin: 0,
         }}
       >
         {description}
-      </p>
+      </Text>
     </div>
   );
 };
@@ -70,17 +72,8 @@ const TeamMember: React.FC<TeamMemberProps> = ({
 const LandingTeam: React.FC = () => {
   const { t } = useTranslation();
 
-  const horizontalPadding = useGetPadding();
-
   return (
-    <div
-      style={{
-        backgroundColor: "#1a1a1a",
-        paddingTop: "4rem",
-        paddingBottom: "4rem",
-        ...horizontalPadding,
-      }}
-    >
+    <SectionWrapper>
       <div
         style={{
           maxWidth: "1200px",
@@ -92,31 +85,31 @@ const LandingTeam: React.FC = () => {
         }}
       >
         {/* Title */}
-        <h2
+        <Text
+          variant="title-h2"
           style={{
             fontSize: "2.5rem",
-            fontWeight: "bold",
             textAlign: "center",
             margin: 0,
             color: "white",
           }}
         >
           {t("team.title")}
-        </h2>
+        </Text>
 
         {/* Description */}
-        <p
+        <Text
+          variant="description"
           style={{
             fontSize: "1.1rem",
             lineHeight: "1.8",
-            color: "#cccccc",
             textAlign: "center",
             maxWidth: "800px",
             margin: 0,
           }}
         >
           {t("team.description")}
-        </p>
+        </Text>
 
         {/* Team Members Grid */}
         <div
@@ -146,7 +139,8 @@ const LandingTeam: React.FC = () => {
         </div>
 
         {/* Meet the Full Team Link */}
-        <div
+        <Link
+          to="/about-us#meet-team"
           style={{
             display: "flex",
             alignItems: "center",
@@ -154,12 +148,15 @@ const LandingTeam: React.FC = () => {
             marginTop: "2rem",
             cursor: "pointer",
             transition: "transform 0.2s",
+            textDecoration: "none",
           }}
           onMouseEnter={(e) => {
-            e.currentTarget.style.transform = "translateX(5px)";
+            (e.currentTarget as HTMLAnchorElement).style.transform =
+              "translateX(5px)";
           }}
           onMouseLeave={(e) => {
-            e.currentTarget.style.transform = "translateX(0)";
+            (e.currentTarget as HTMLAnchorElement).style.transform =
+              "translateX(0)";
           }}
         >
           <span
@@ -185,9 +182,9 @@ const LandingTeam: React.FC = () => {
             <line x1="5" y1="12" x2="19" y2="12"></line>
             <polyline points="12 5 19 12 12 19"></polyline>
           </svg>
-        </div>
+        </Link>
       </div>
-    </div>
+    </SectionWrapper>
   );
 };
 

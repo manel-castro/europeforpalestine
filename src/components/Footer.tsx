@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { useGetPadding } from "../utils/useGetPadding";
-import { useIsWidthLessThan } from "../utils/useWindowSize";
-import linkedinIcon from "../media/images/linkedin-icon.svg";
-import instagramIcon from "../media/images/instagram-icon.svg";
-import xIcon from "../media/images/x-icon.svg";
+import { useGetPadding } from "utils/useGetPadding";
+import { useIsWidthLessThan } from "utils/useWindowSize";
+import linkedinIcon from "media/images/linkedin-icon.svg";
+import instagramIcon from "media/images/instagram-icon.svg";
+import xIcon from "media/images/x-icon.svg";
 
 const Footer: React.FC = () => {
   const padding = useGetPadding();
@@ -28,7 +28,11 @@ const Footer: React.FC = () => {
           gap: isPhone ? "1rem" : "2rem",
         }}
       >
-        <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
+        <Link
+          to="/"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          style={{ textDecoration: "none", color: "inherit" }}
+        >
           <div
             style={{
               display: "flex",

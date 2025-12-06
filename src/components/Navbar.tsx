@@ -1,10 +1,10 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import LanguageSwitcher from "./LanguageSwitcher";
-import Button from "./ui/Button";
-import BrandLogo from "./ui/BrandLogo";
-import { useGetPadding } from "../utils/useGetPadding";
-import { useWindowSize } from "../utils/useWindowSize";
+import LanguageSwitcher from "components/ui/LanguageSwitcher";
+import Button from "components/ui/Button";
+import BrandLogo from "components/ui/BrandLogo";
+import { useGetPadding } from "utils/useGetPadding";
+import { useWindowSize } from "utils/useWindowSize";
 
 const Navbar: React.FC = () => {
   const { t } = useTranslation();

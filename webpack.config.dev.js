@@ -21,6 +21,19 @@ module.exports = {
   },
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx"],
+    alias: {
+      components: path.resolve(__dirname, "src/components"),
+      "@components": path.resolve(__dirname, "src/components"),
+      utils: path.resolve(__dirname, "src/utils"),
+      "@utils": path.resolve(__dirname, "src/utils"),
+      media: path.resolve(__dirname, "src/media"),
+      "@media": path.resolve(__dirname, "src/media"),
+      ui: path.resolve(__dirname, "src/components/ui"),
+      "@ui": path.resolve(__dirname, "src/components/ui"),
+      src: path.resolve(__dirname, "src"),
+      "@src": path.resolve(__dirname, "src"),
+    },
+    modules: [path.resolve(__dirname, "src"), "node_modules"],
   },
   devServer: {
     stats: "minimal",
