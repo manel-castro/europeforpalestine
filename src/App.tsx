@@ -20,7 +20,7 @@ function _App() {
 
   return (
     // <>{Loading ? <LoadingLogo /> : <>{ActiveModule && <ActiveModule />}</>}</>
-    <>{ActiveModule && <ActiveModule />}</>
+    <>{ActiveModule && <ActiveModule />}a</>
   );
 }
 
