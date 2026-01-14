@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Com ajudar?"
+  },
+  "welcome": "Benvingut",
+  "description": "Europa per Palestina",
+  "landing": {
+    "title": "Cada cèntim compta",
+    "description": "Ajustar acuradament la nostra llista de la compra ajuda a construir un món on les organitzacions respectin els principis dels drets humans i altres valors fonamentals de la nostra societat.",
+    "learnMore": "Més informació",
+    "meetUs": "Coneix-nos",
+    "databasesTitle": "Les nostres bases de dades",
+    "databasesDescription": "Tota la informació disponible sobre marques i empreses es basa en el nostre estudi independent i en cap cas estem relacionats amb altres organitzacions. Així mateix, no col·laborem de cap manera amb cap de les marques i empreses llistades a les nostres aplicacions. L'objectiu de les dades que recopilem és ajudar els consumidors a prendre decisions informades.",
+    "howToHelpTitle": "Com ajudar",
+    "howToHelpDescription": "Amb la teva ajuda cobrim els costos dels servidors, campanyes de difusió i altres despeses. Ajuda ara a EuropeForPalestine.",
+     "imageAlt": "Marcador de posició",
+    "newsletterTitle": "Subscriu-te al nostre butlletí",
+    "newsletterDescription": "Subscriu-te al nostre butlletí per rebre actualitzacions, dades interessants sobre marques i més.",
+    "newsletterPlaceholderName": "El teu nom",
+    "newsletterPlaceholderEmail": "el teu correu electrònic",
+    "newsletterSending": "Enviant...",
+    "newsletterThankYou": "Gràcies — comprova el teu correu electrònic.",
+    "newsletterError": "S'ha produït un error. Torna-ho a intentar més tard."
+  },
+  "apps": {
+    "title": "Les nostres aplicacions",
+    "description": "Descobreix les nostres eines mòbils per identificar marques, fer seguiment de l'impacte social i gestionar tiquets.",
+    "appName": "Nom de l'aplicació",
+    "appDescription": "consumer-list.com és una aplicació mòbil que facilita identificar quines marques i empreses estan incloses a les nostres bases de dades. Simplement utilitza la barra de cerca per trobar qualsevol marca que estiguis comprant.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent està pensada com una eina per al seguiment de despeses i la conscienciació sobre l'impacte social associat a aquest consum, així com per al registre dels tiquets de compra per a devolucions.",
+    "availableOnAppStore": "Disponible a l'App Store",
+    "availableOnPlayStore": "Disponible a Play Store"
+  },
+  "buttons": {
+    "donateNow": "Dona ara 5€"
+  },
+  "lema": {
+    "title": "Lema",
+    "description": "Europe for Palestine és un projecte sense cap mena d'afiliació a partits polítics ni a corporacions privades. Som simplement un grup de persones que durant massa temps han estat veient amb impotència la violació sistèmica dels drets humans que pateix el poble palestí des de fa dècades. Aquest és el nostre vincle comú i el motiu principal de la nostra ambició de contribuir a una formació mínima en drets humans justos a tot el món."
+  },
+  "team": {
+    "title": "Sobre nosaltres",
+    "description": "Construïm eines digitals que t'ajuden a fer responsables les empreses, a fer el seguiment del suport als drets palestins i a prendre decisions informades. Utilitzem la tecnologia i l'acció col·lectiva per canviar com les comunitats participen en la defensa. El nostre objectiu és fer que la transparència sigui fàcil per a tothom i enfortir les veus que impulsen el canvi.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Cofundador i desenvolupador en cap"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Cofundadora i dissenyadora de producte"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Responsable de comunitat"
+    },
+    "meetFullTeam": "Coneix l'equip complet"
+  }
+}

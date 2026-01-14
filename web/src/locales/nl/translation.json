@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hoe te helpen?"
+  },
+  "welcome": "Welkom",
+  "description": "Europa voor Palestina",
+  "landing": {
+    "title": "Elke cent telt",
+    "description": "Het zorgvuldig aanpassen van onze aankoopkeuzes helpt een wereld op te bouwen waarin organisaties de mensenrechtenprincipes en andere fundamentele waarden van onze samenleving respecteren.",
+    "learnMore": "Meer informatie",
+    "meetUs": "Bekijk onze databases",
+    "databasesTitle": "Onze databases",
+    "databasesDescription": "Alle beschikbare informatie over merken en bedrijven is gebaseerd op ons eigen onafhankelijke onderzoek en in geen geval zijn we gelieerd aan andere organisaties. Evenzo werken we op geen enkele manier samen met de merken en bedrijven die in onze apps worden vermeld. Het doel van de gegevens die we verzamelen is om consumenten te helpen geïnformeerde beslissingen te nemen.",
+    "howToHelpTitle": "Hoe helpen",
+    "howToHelpDescription": "Met uw hulp dekken we serverkosten, outreach-campagnes en andere uitgaven. Help nu EuropeForPalestine.",
+    "imageAlt": "Plaatsaanduiding",
+    "newsletterTitle": "Abonneer je op onze nieuwsbrief",
+    "newsletterDescription": "Abonneer je op onze nieuwsbrief voor updates, interessante gegevens over merken en meer.",
+    "newsletterPlaceholderName": "Je naam",
+    "newsletterPlaceholderEmail": "je e-mail",
+    "newsletterSending": "Verzenden...",
+    "newsletterThankYou": "Dank je — controleer je e-mail.",
+    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens."
+  },
+  "apps": {
+    "title": "Onze apps",
+    "description": "Ontdek onze mobiele tools om merken te identificeren, sociale impact te volgen en bonnetjes te beheren.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com is een mobiele app waarmee je eenvoudig kunt identificeren welke merken en bedrijven zijn opgenomen in onze databases. Het is zo simpel als het gebruik van de zoekbalk om elke merknaam te vinden die je momenteel koopt.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent is bedoeld als een tool om uitgaven bij te houden en bewustzijn te creëren over de sociale impact van die consumptie, evenals het registreren van aankoopbewijzen voor retouren.",
+    "availableOnAppStore": "Beschikbaar in de App Store",
+    "availableOnPlayStore": "Beschikbaar op Play Store"
+  },
+  "buttons": {
+    "donateNow": "Doneer nu 5€",
+    "subscribeNow": "Abonneer nu"
+  },
+  "lema": {
+    "title": "Leus",
+    "description": "Europe for Palestine is een project zonder enige vorm van affiliatie met politieke partijen of private ondernemingen. We zijn simpelweg een groep mensen die al te lang machteloos toekijken naar de systematische schending van de mensenrechten die het Palestijnse volk al decennialang ondergaat. Dit is onze verbindende band en de voornaamste reden van onze ambitie om bij te dragen aan een minimale vorming in rechtvaardige mensenrechten wereldwijd."
+  },
+  "team": {
+    "title": "Over ons",
+    "description": "We proberen invloed uit te oefenen op mensenrechten door het maken van technologische toepassingen en maatschappelijke voorlichting; we maken burgerlijke sociale actie toegankelijk via informatie zodat ieder individu zijn dagelijkse beslissingen kan afstemmen op zijn eigen principes en idealen.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Mede-oprichter & Lead Developer"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Mede-oprichter & Productontwerper"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community Manager"
+    },
+    "meetFullTeam": "Ontmoet het volledige team"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Comment aider?"
+  },
+  "welcome": "Bienvenue",
+  "description": "Europe pour la Palestine",
+  "landing": {
+    "title": "Chaque centime compte",
+    "description": "Ajuster soigneusement nos choix d'achat aide à construire un monde où les organisations respectent les principes des droits humains et les autres valeurs fondamentales de notre société.",
+    "learnMore": "En savoir plus",
+    "meetUs": "Consultez nos bases de données",
+    "databasesTitle": "Nos bases de données",
+    "databasesDescription": "Toutes les informations disponibles sur les marques et les entreprises sont basées sur nos propres recherches indépendantes et, en aucun cas, nous ne sommes liés à d'autres organisations. De même, nous ne collaborons en aucune manière avec les marques et entreprises répertoriées dans nos applications. L'objectif des données que nous collectons est d'aider les consommateurs à prendre des décisions éclairées.",
+    "howToHelpTitle": "Comment aider",
+    "howToHelpDescription": "Grâce à votre aide, nous couvrons les coûts des serveurs, les campagnes de sensibilisation et d'autres dépenses. Aidez dès maintenant EuropeForPalestine.",
+    "imageAlt": "Espace réservé",
+    "newsletterTitle": "Abonnez-vous à notre newsletter",
+    "newsletterDescription": "Abonnez-vous à notre newsletter pour recevoir des mises à jour, des données intéressantes sur les marques et plus encore.",
+    "newsletterPlaceholderName": "Votre nom",
+    "newsletterPlaceholderEmail": "votre adresse e-mail",
+    "newsletterSending": "Envoi...",
+    "newsletterThankYou": "Merci — veuillez vérifier votre e-mail.",
+    "newsletterError": "Une erreur s'est produite. Réessayez plus tard."
+  },
+  "apps": {
+    "title": "Nos applications",
+    "description": "Découvrez nos outils mobiles pour identifier les marques, suivre l'impact social et gérer les reçus.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com est une application mobile qui permet d'identifier facilement quelles marques et entreprises sont incluses dans nos bases de données. Il suffit d'utiliser la barre de recherche pour trouver le nom de n'importe quelle marque que vous achetez actuellement.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent est conçu comme un outil de suivi des dépenses et de sensibilisation à l'impact social associé à cette consommation, ainsi que pour l'enregistrement des tickets d'achat pour les retours.",
+    "availableOnAppStore": "Disponible sur l'App Store",
+    "availableOnPlayStore": "Disponible sur Play Store"
+  },
+  "buttons": {
+    "donateNow": "Faites un don maintenant 5€"
+  },
+  "buttons": {
+    "subscribeNow": "S'abonner"
+  },
+  "lema": {
+    "title": "Devise",
+    "description": "Europe for Palestine est un projet sans aucune affiliation à des partis politiques ni à des entreprises privées. Nous sommes simplement un groupe de personnes qui depuis trop longtemps assistent, impuissantes, à la violation systématique des droits humains subie par le peuple palestinien depuis des décennies. C'est notre lien commun et la raison principale de notre ambition de contribuer à une formation minimale aux droits humains justes dans le monde entier."
+  },
+  "team": {
+    "title": "À propos de nous",
+    "description": "Nous cherchons à avoir un impact sur les droits humains en créant des applications technologiques et en menant des actions de sensibilisation sociale ; nous rendons l'action sociale citoyenne accessible grâce à l'information afin que chaque individu puisse aligner ses décisions quotidiennes sur ses propres principes et idéaux.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Co-fondateur et Développeur Principal"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Co-fondatrice et Designer Produit"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Gestionnaire de Communauté"
+    },
+    "meetFullTeam": "Rencontrez toute l'équipe"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hur kan man hjälpa?"
+  },
+  "welcome": "Välkommen",
+  "description": "Europa för Palestina",
+  "landing": {
+    "title": "Varje cent räknas",
+    "description": "Att noggrant justera våra inköpsval hjälper till att bygga en värld där organisationer respekterar principerna för mänskliga rättigheter och andra grundläggande värderingar i vårt samhälle.",
+    "learnMore": "Läs mer",
+    "meetUs": "Kolla våra databaser",
+    "databasesTitle": "Våra databaser",
+    "databasesDescription": "All tillgänglig information om varumärken och företag baseras på vår egen oberoende forskning och under inga omständigheter är vi knutna till andra organisationer. På samma sätt samarbetar vi inte på något sätt med de varumärken och företag som listas i våra applikationer. Syftet med de data vi samlar in är att hjälpa konsumenter att fatta välgrundade beslut.",
+     "imageAlt": "Platshållarbild",
+    "newsletterTitle": "Prenumerera på vårt nyhetsbrev",
+    "newsletterDescription": "Prenumerera på vårt nyhetsbrev för att få uppdateringar, intressanta uppgifter om varumärken och mer.",
+    "newsletterPlaceholderName": "Ditt namn",
+    "newsletterPlaceholderEmail": "din e-post",
+    "newsletterSending": "Skickar...",
+    "newsletterThankYou": "Tack — kontrollera din e-post.",
+    "newsletterError": "Ett fel uppstod. Försök igen senare."
+  },
+  "apps": {
+    "title": "Våra appar",
+    "description": "Upptäck våra mobila verktyg för att identifiera varumärken, följa social påverkan och hantera kvitton.",
+    "appName": "Appnamn",
+    "appDescription": "consumer-list.com är en mobilapp som gör det enkelt att se vilka varumärken och företag som ingår i våra databaser. Använd sökfältet för att hitta ett varumärke du köper.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent är utformat som ett verktyg för att spåra utgifter och öka medvetenheten om den sociala påverkan kopplad till den konsumtionen, samt för att registrera kvitton för returer.",
+    "availableOnAppStore": "Tillgänglig på App Store",
+    "availableOnPlayStore": "Tillgänglig på Play Store"
+  },
+  "buttons": {
+    "donateNow": "Donera nu 5€"
+  },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine är ett projekt utan någon anknytning till politiska partier eller privata företag. Vi är helt enkelt en grupp människor som länge har betraktat den systematiska kränkningen av det palestinska folkets mänskliga rättigheter med maktlöshet. Detta är vår förbindelse och huvudorsaken till vår ambition att bidra till en grundläggande utbildning om rättvisa mänskliga rättigheter i hela världen."
+  },
+  "team": {
+    "title": "Om oss",
+    "description": "Vi försöker påverka mänskliga rättigheter genom att skapa tekniska applikationer och samhällsinformation; vi gör medborgerligt socialt handlande tillgängligt genom information så att varje individ kan anpassa sina vardagliga beslut efter sina egna principer och ideal.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Medgrundare och ledande utvecklare"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Medgrundare och produktdesigner"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community Manager"
+    },
+    "meetFullTeam": "Möt hela teamet"
+  }
+}

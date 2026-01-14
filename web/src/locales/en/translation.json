@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "How to help?"
+  },
+  "welcome": "Welcome",
+  "description": "Europe for Palestine",
+  "landing": {
+    "title": "Every cent counts",
+    "description": "Carefully adjusting our shopping choices helps build a world where organizations respect human rights principles and other fundamental values of our society.",
+    "learnMore": "Learn more",
+    "meetUs": "Check our databases",
+    "databasesTitle": "Our databases",
+    "databasesDescription": "All available information about brands and companies is based on our own independent research and under no circumstances are we linked to other organizations. Likewise, we do not collaborate in any way with any of the brands and companies listed in our applications. The purpose of the data we collect is to help consumers make informed decisions.",
+    "howToHelpTitle": "How to help",
+    "howToHelpDescription": "With your help we cover server costs, outreach campaigns and other expenses. Help EuropeForPalestine now.",
+    "imageAlt": "Placeholder image",
+    "newsletterTitle": "Subscribe to our newsletter",
+    "newsletterDescription": "Subscribe to our newsletter to get updates, interesting data about brands, and more.",
+    "newsletterPlaceholderName": "Your name",
+    "newsletterPlaceholderEmail": "you@example.com",
+    "newsletterSending": "Sending...",
+    "newsletterThankYou": "Thank you — please check your email.",
+    "newsletterError": "There was an error. Try again later."
+  },
+  "apps": {
+    "title": "Our apps",
+    "description": "Discover our mobile tools to identify brands, track social impact, and manage receipts.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com is a mobile app that makes it easy to identify which brands and companies are included in our databases. It's as simple as using the search bar to find any brand name you are currently buying.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent is designed as a spending-tracking and awareness tool about the social impact associated with that consumption, as well as a receipt tracker for returns.",
+    "availableOnAppStore": "Available on App Store",
+    "availableOnPlayStore": "Available on Play Store"
+  },
+  "buttons": {
+    "donateNow": "Donate now 5€",
+    "subscribeNow": "Subscribe now"
+  },
+  "lema": {
+    "title": "Motto",
+    "description": "Europe for Palestine is a project with no affiliation to political parties or private corporations. We are simply a group of people who have long watched with helplessness the systematic violation of the human rights of the Palestinian people for decades. This is our bond and the main reason for our ambition to contribute to a minimal education on fair human rights worldwide."
+  },
+  "team": {
+    "title": "About us",
+    "description": "We aim to impact human rights by creating technological applications and social outreach; we make civic social action accessible through information so that each individual can align their everyday decisions with their own principles and ideals.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Co-founder & Lead Developer"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Co-founder & Product Designer"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community Manager"
+    },
+    "meetFullTeam": "Meet the full team"
+  }
+}
