@@ -6,23 +6,31 @@
   "welcome": "欢迎",
   "description": "欧洲支持巴勒斯坦",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "每一分钱都重要",
+    "description": "通过谨慎调整我们的购物选择，有助于构建一个世界，在那里组织尊重人权原则和我们社会的其他基本价值。",
     "learnMore": "了解更多",
-    "meetUs": "认识我们",
-    "imageAlt": "Lorem ipsum placeholder"
+      "meetUs": "查看我们的数据库",
+      "databasesTitle": "我们的数据库",
+      "databasesDescription": "所有关于品牌和公司的可用信息均基于我们自己的独立研究，并且在任何情况下我们都不与其他组织有联系。同样，我们也不以任何方式与列在我们应用程序中的任何品牌和公司合作。我们收集这些数据的目的是帮助消费者做出明智的决策。",
+    "imageAlt": "占位符图像"
   },
   "apps": {
     "title": "我们的应用",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "应用名称",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "发现我们的移动工具，用于识别品牌、跟踪社会影响并管理收据。",
+    "appName": "consumer-list.com",
+    "appDescription": "",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent 被設計為一款支出追蹤和提高對該消費相關社會影響認識的工具，同時可用於記錄購買小票以便退貨。",
     "availableOnAppStore": "在App Store上可用",
     "availableOnPlayStore": "在Play Store上可用"
   },
+    "lema": {
+      "title": "格言",
+      "description": "Europe for Palestine 是一个不隶属于任何政党或私人企业的项目。我们只是一个普通群体，多年来无力目睹巴勒斯坦人民长期遭受的系统性人权侵害。这是我们的联系纽带，也是我们致力于为全球提供基本、公正的人权教育的主要动力。"
+    },
   "team": {
     "title": "关于我们",
-    "description": "我们构建数字工具，帮助你让企业承担责任、追踪对巴勒斯坦权利的支持并做出明智的选择。我们运用技术与集体行动，改变社区参与倡导的方式。我们的目标是让透明度对每个人都变得简单，并强化推动变革的声音。",
+    "description": "我们努力通过创建技术应用和社会传播对人权产生影响；我们通过信息让公民社会行动更易获得，以便每个人能使其日常决策与自身的原则与理想保持一致。",
     "member1": {
       "name": "John Doe",
       "description": "联合创始人兼首席开发者"

@@ -6,23 +6,31 @@
   "welcome": "환영합니다",
   "description": "팔레스타인을 위한 유럽",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "한 푼 한 푼이 소중합니다",
+    "description": "장보기 선택을 신중하게 조정하면 조직이 인권의 원칙과 우리 사회의 다른 기본 가치를 존중하는 세상을 만드는 데 도움이 됩니다.",
     "learnMore": "자세히 알아보기",
     "meetUs": "만나보세요",
-    "imageAlt": "Lorem ipsum placeholder"
+    "databasesTitle": "우리의 데이터베이스",
+    "databasesDescription": "브랜드와 회사에 대한 모든 사용 가능한 정보는 우리의 독립적인 연구를 기반으로 하며 어떠한 경우에도 다른 조직과 연관되어 있지 않습니다. 또한 우리는 애플리케이션에 나열된 브랜드 및 회사와 어떠한 형태로도 협력하지 않습니다. 우리가 수집하는 데이터의 목적은 소비자가 정보에 입각한 결정을 내리는 데 도움을 주는 것입니다.",
+    "imageAlt": "자리 표시자 이미지"
   },
   "apps": {
     "title": "우리의 앱",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "앱 이름",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "브랜드를 식별하고 사회적 영향을 추적하며 영수증을 관리하는 모바일 도구를 확인하세요.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com은(는) 우리 데이터베이스에 포함된 브랜드와 회사를 쉽게 식별할 수 있게 해주는 모바일 앱입니다. 검색창을 사용하여 현재 구매 중인 브랜드 이름을 찾기만 하면 됩니다.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent는 지출을 추적하고 해당 소비와 관련된 사회적 영향에 대한 인식을 높이기 위한 도구로 설계되었으며, 반품을 위한 영수증 기록 기능도 제공합니다.",
     "availableOnAppStore": "App Store에서 사용 가능",
     "availableOnPlayStore": "Play Store에서 사용 가능"
   },
+    "lema": {
+      "title": "슬로건",
+      "description": "Europe for Palestine는 어떤 정당이나 민간 기업과도 관련이 없는 프로젝트입니다. 우리는 단지 수십 년 동안 팔레스타인 사람들의 인권이 체계적으로 침해되는 것을 무력하게 지켜봐 온 사람들의 모임일 뿐입니다. 이것이 우리의 연대이며 공정한 인권에 대한 최소한의 교육에 기여하려는 우리의 주요 동기입니다."
+    },
   "team": {
     "title": "우리에 대해",
-    "description": "우리는 기업의 책임을 묻고, 팔레스타인 인권에 대한 지지를 추적하며, 정보에 입각한 선택을 할 수 있도록 돕는 디지털 도구를 만듭니다. 기술과 집단적 행동을 활용하여 지역사회가 옹호 활동에 참여하는 방식을 바꾸고자 합니다. 우리의 목표는 모든 사람에게 투명성을 쉽게 만들고 변화를 촉구하는 목소리를 강화하는 것입니다.",
+    "description": "우리는 기술적 애플리케이션 개발과 사회적 홍보를 통해 인권에 영향을 미치고자 합니다; 정보를 통해 시민의 사회적 행동을 접근 가능하게 하여 각 개인이 일상적인 결정들을 자신의 원칙과 이상에 맞출 수 있도록 합니다.",
     "member1": {
       "name": "John Doe",
       "description": "공동 창립자 및 수석 개발자"

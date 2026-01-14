@@ -6,23 +6,31 @@
   "welcome": "ברוכים הבאים",
   "description": "אירופה למען פלסטין",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "כל סנט חשוב",
+    "description": "כוונון זהיר של בחירות הקנייה שלנו מסייע לבניית עולם שבו ארגונים מכבדים את עקרונות זכויות האדם וערכים יסודיים אחרים בחברתנו.",
     "learnMore": "למידע נוסף",
-    "meetUs": "פגשו אותנו",
-    "imageAlt": "Lorem ipsum placeholder"
+    "meetUs": "בדוק את מסדי הנתונים שלנו",
+    "databasesTitle": "מסדי הנתונים שלנו",
+    "databasesDescription": "כל המידע הזמין על מותגים וחברות מבוסס על המחקר העצמאי שלנו ואיננו, בשום פנים ואופן, קשורים לארגונים אחרים. כמו כן, איננו משתפים פעולה בכל צורה שהיא עם מותגים וחברות המופיעים באפליקציות שלנו. מטרת הנתונים שאנו אוספים היא לסייע לצרכנים לקבל החלטות מושכלות.",
+    "imageAlt": "מחוון מיקום"
   },
   "apps": {
     "title": "האפליקציות שלנו",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "description": "גלה את הכלים הניידים שלנו לזיהוי מותגים, מעקב אחרי השפעה חברתית וניהול קבלות.",
     "appName": "שם האפליקציה",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "appDescription": "consumer-list.com הוא יישום נייד שמקל על זיהוי אילו מותגים וחברות נכללים בבסיסי הנתונים שלנו. פשוט השתמש בשורת החיפוש כדי למצוא כל שם מותג שאתה רוכש כעת.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent היא כלי שנועדה למעקב אחר הוצאות ולהגברת המודעות להשפעה החברתית הקשורה לצריכה זו, וכן לרישום קבלות רכישה לצורך החזרים.",
     "availableOnAppStore": "זמין ב-App Store",
     "availableOnPlayStore": "זמין ב-Play Store"
   },
+  "lema": {
+    "title": "סלוגן",
+    "description": "Europe for Palestine הוא פרויקט שאינו קשור למפלגות פוליטיות או לחברות פרטיות. אנחנו פשוט קבוצת אנשים שצפו במשך עשורים בהפרות השיטתיות של זכויות האדם של העם הפלסטיני בתחושת חוסר אונים. זהו הקשר שלנו והסיבה העיקרית לשאיפתנו לתרום להדרכה בסיסית של זכויות אדם הוגנות ברחבי העולם."
+  },
   "team": {
     "title": "עלינו",
-    "description": "אנחנו בונים כלים דיגיטליים שעוזרים להפוך חברות לאחריות, לעקוב אחר התמיכה בזכויות הפלסטינים ולקבל החלטות מושכלות. אנחנו משתמשים בטכנולוגיה ובפעולה קולקטיבית כדי לשנות את האופן שבו קהילות משתתפות בקידום מאבקים. המטרה שלנו היא להנגיש שקיפות לכולם ולחזק את הקולות שמקדמים שינוי.",
+    "description": "אנו שואפים להשפיע על זכויות האדם דרך יצירת יישומים טכנולוגיים והסברה חברתית; אנחנו מאפשרים את הפעולה החברתית האזרחית באמצעות מידע כדי שכל אדם יוכל ליישר את החלטותיו היומיומיות לפי עקרונותיו ואידיאלים שלו.",
     "member1": {
       "name": "John Doe",
       "description": "מייסד שותף ומפתח ראשי"

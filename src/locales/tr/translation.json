@@ -6,23 +6,31 @@
   "welcome": "Hoş geldiniz",
   "description": "Filistin için Avrupa",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Her sent önemlidir",
+    "description": "Alışveriş listemizi dikkatle ayarlamak, kuruluşların insan hakları ilkelerine ve toplumumuzun diğer temel değerlerine saygı göstermesine yardımcı olur.",
     "learnMore": "Daha fazla bilgi edinin",
-    "meetUs": "Bizi tanıyın",
-    "imageAlt": "Lorem ipsum placeholder"
+      "meetUs": "Veritabanlarımızı kontrol edin",
+      "databasesTitle": "Veritabanlarımız",
+      "databasesDescription": "Markalar ve şirketlerle ilgili mevcut tüm bilgiler kendi bağımsız araştırmamıza dayanmaktadır ve hiçbir koşulda başka kuruluşlarla bağlantılı değiliz. Ayrıca, uygulamalarımızda listelenen markalar ve şirketlerle hiçbir şekilde işbirliği yapmıyoruz. Topladığımız verilerin amacı tüketicilerin bilinçli kararlar almasına yardımcı olmaktır.",
+    "imageAlt": "Yer tutucu"
   },
   "apps": {
     "title": "Uygulamalarımız",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "Uygulama adı",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Markaları tanımlamaya, sosyal etkiyi takip etmeye ve fişleri yönetmeye yarayan mobil araçlarımızı keşfedin.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com, veritabanlarımızda yer alan hangi marka ve şirketlerin olduğunu kolayca belirlemenizi sağlayan bir mobil uygulamadır. Satın aldığınız herhangi bir marka adını bulmak için arama çubuğunu kullanmanız yeterlidir.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent, harcamaların takibi ve bu tüketimin sosyal etkisi hakkında farkındalık yaratma amacıyla tasarlanmış bir araçtır; ayrıca iadeler için fiş kaydı yapma imkanı sunar.",
     "availableOnAppStore": "App Store'da mevcut",
     "availableOnPlayStore": "Play Store'da mevcut"
   },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine siyasi partilerle veya özel şirketlerle herhangi bir bağa sahip olmayan bir projedir. Biz sadece onlarca yıldır Filistin halkının insan haklarının sistematik olarak ihlal edilmesini çaresizlikle izleyen bir grup insanız. Bu bizim bağımız ve adil insan hakları konusunda asgari bir eğitim sağlamaya yönelik amacımızın ana nedenidir."
+  },
   "team": {
     "title": "Hakkımızda",
-    "description": "Kurumları hesap verebilir kılmaya, Filistin haklarına yönelik desteği takip etmeye ve bilinçli tercih yapmanıza yardımcı olan dijital araçlar geliştiriyoruz. Toplulukların savunuculuk faaliyetlerine katılım biçimini değiştirmek için teknoloji ve kolektif eylem kullanıyoruz. Amacımız şeffaflığı herkes için kolaylaştırmak ve değişim isteyen sesleri güçlendirmektir.",
+    "description": "İnsan hakları üzerinde etki yaratmayı, teknolojik uygulamalar ve sosyal farkındalık çalışmaları yoluyla hedefliyoruz; her bireyin günlük kararlarını kendi ilkeleri ve idealleri doğrultusunda hizalayabilmesi için sosyal eylemi bilgi aracılığıyla erişilebilir kılıyoruz.",
     "member1": {
       "name": "John Doe",
       "description": "Kurucu ortak ve baş geliştirici"

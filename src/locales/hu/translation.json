@@ -6,23 +6,31 @@
   "welcome": "Üdvözöljük",
   "description": "Európa Palesztináért",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Minden cent számít",
+    "description": "Azáltal, hogy gondosan igazítjuk vásárlási döntéseinket, segítünk egy olyan világ felépítésében, ahol a szervezetek tiszteletben tartják az emberi jogok elveit és társadalmunk más alapvető értékeit.",
     "learnMore": "Tudj meg többet",
-    "meetUs": "Ismerj meg minket",
-    "imageAlt": "Lorem ipsum placeholder"
+    "meetUs": "Ellenőrizze adatbázisainkat",
+    "databasesTitle": "Adatbázisaink",
+    "databasesDescription": "Minden elérhető információ a márkákról és vállalatokról a saját független kutatásunkon alapul, és semmilyen körülmények között nem vagyunk kapcsolatban más szervezetekkel. Hasonlóképpen semmilyen módon nem működünk együtt azokkal a márkákkal és vállalatokkal, amelyek szerepelnek az alkalmazásainkban. A begyűjtött adatok célja, hogy segítsék a fogyasztókat a megalapozott döntések meghozatalában.",
+    "imageAlt": "Helyőrző"
   },
   "apps": {
     "title": "Alkalmazásaink",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "Alkalmazás neve",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Fedezze fel mobileszközeinket a márkák azonosítására, a társadalmi hatás nyomon követésére és a bizonylatok kezelésére.",
+    "appName": "consumer-list.com",
+    "appDescription": "A consumer-list.com egy mobilalkalmazás, amely megkönnyíti annak azonosítását, hogy mely márkák és vállalatok szerepelnek az adatbázisainkban. Csak használd a keresősávot, hogy megtaláld bármely márkanévét, amelyet éppen vásárolsz.",
+    "app2Name": "Transparent",
+    "app2Description": "A Transparent egy olyan eszköz, amely a kiadások nyomon követésére és az ezzel a fogyasztással kapcsolatos társadalmi hatások tudatosítására szolgál, valamint vásárlási bizonylatok rögzítésére visszatérések esetén.",
     "availableOnAppStore": "Elérhető az App Store-ban",
     "availableOnPlayStore": "Elérhető a Play Store-ban"
   },
+  "lema": {
+    "title": "Szlogen",
+    "description": "A Europe for Palestine egy olyan projekt, amely nem áll kapcsolatban politikai pártokkal vagy magánvállalatokkal. Csak egy olyan embercsoport vagyunk, akik hosszú ideje tehetetlenül nézik a palesztin nép emberi jogainak rendszerszintű megsértését. Ez a kapocs köztünk, és fő oka annak, hogy ambíciónk hozzájárulni a méltányos emberi jogok alapvető oktatásához világszerte."
+  },
   "team": {
     "title": "Rólunk",
-    "description": "Digitális eszközöket fejlesztünk, amelyek segítenek a vállalatok elszámoltathatóságában, nyomon követik a palesztin jogok iránti támogatást és lehetővé teszik a megalapozott döntéseket. Technológiát és kollektív cselekvést használunk annak érdekében, hogy megváltoztassuk, hogyan vesznek részt a közösségek a társadalmi érdekérvényesítésben. Célunk, hogy a transzparenciát mindenki számára egyszerűvé tegyük, és megerősítsük azokat a hangokat, amelyek a változásért dolgoznak.",
+    "description": "Arra törekszünk, hogy hatással legyünk az emberi jogokra technológiai alkalmazások létrehozásával és társadalmi tájékoztatással; információ révén tesszük hozzáférhetővé a polgári társadalmi cselekvést, hogy minden egyén napi döntéseit saját elveihez és eszméihez igazíthassa.",
     "member1": {
       "name": "John Doe",
       "description": "Társalapító és vezető fejlesztő"

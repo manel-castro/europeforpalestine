@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import AppStoreBadge from "../../ui/AppStoreBadge";
 import PlayStoreBadge from "../../ui/PlayStoreBadge";
+import WebBadge from "../../ui/WebBadge";
 import Card from "../../ui/Card";
 
 import Text from "../../ui/Text";
@@ -12,6 +13,10 @@ interface AppCardProps {
   appDescription: string;
   appStoreUrl?: string;
   playStoreUrl?: string;
+  webUrl?: string;
+  showWeb?: boolean;
+  showAppStore?: boolean;
+  showPlayStore?: boolean;
 }
 
 const AppCard: React.FC<AppCardProps> = ({
@@ -19,6 +24,10 @@ const AppCard: React.FC<AppCardProps> = ({
   appDescription,
   appStoreUrl,
   playStoreUrl,
+  webUrl,
+  showWeb = false,
+  showAppStore = true,
+  showPlayStore = true,
 }) => {
   return (
     <Card
@@ -59,8 +68,9 @@ const AppCard: React.FC<AppCardProps> = ({
           flexWrap: "wrap",
         }}
       >
-        <AppStoreBadge url={appStoreUrl} />
-        <PlayStoreBadge url={playStoreUrl} />
+        {showAppStore && <AppStoreBadge url={appStoreUrl} />}
+        {showPlayStore && <PlayStoreBadge url={playStoreUrl} />}
+        {showWeb && <WebBadge url={webUrl} />}
       </div>
     </Card>
   );
@@ -90,17 +100,6 @@ const LandingApps: React.FC = () => {
           >
             {t("apps.title")}
           </Text>
-          <Text
-            variant="description"
-            style={{
-              fontSize: "1.1rem",
-              lineHeight: "1.8",
-              maxWidth: "800px",
-              margin: "0 auto",
-            }}
-          >
-            {t("apps.description")}
-          </Text>
         </div>
 
         {/* Apps Grid Section */}
@@ -115,10 +114,23 @@ const LandingApps: React.FC = () => {
           <AppCard
             appName={t("apps.appName")}
             appDescription={t("apps.appDescription")}
+            showWeb
+            showAppStore={false}
+            showPlayStore={false}
+            webUrl={"https://consumer-list.com"}
           />
           <AppCard
-            appName={t("apps.appName")}
-            appDescription={t("apps.appDescription")}
+            appName={t("apps.app2Name")}
+            appDescription={t("apps.app2Description")}
+            showWeb={false}
+            showAppStore
+            appStoreUrl={
+              "https://apps.apple.com/es/app/transparent/id6740002727?l=en-GB"
+            }
+            playStoreUrl={
+              "https://play.google.com/store/apps/details?id=com.transparente"
+            }
+            showPlayStore
           />
         </div>
       </div>

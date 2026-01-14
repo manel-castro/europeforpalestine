@@ -6,19 +6,27 @@
   "welcome": "Benvingut",
   "description": "Europa per Palestina",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Cada cèntim compta",
+    "description": "Ajustar acuradament la nostra llista de la compra ajuda a construir un món on les organitzacions respectin els principis dels drets humans i altres valors fonamentals de la nostra societat.",
     "learnMore": "Més informació",
     "meetUs": "Coneix-nos",
-    "imageAlt": "Lorem ipsum placeholder"
+      "databasesTitle": "Les nostres bases de dades",
+      "databasesDescription": "Tota la informació disponible sobre marques i empreses es basa en el nostre estudi independent i en cap cas estem relacionats amb altres organitzacions. Així mateix, no col·laborem de cap manera amb cap de les marques i empreses llistades a les nostres aplicacions. L'objectiu de les dades que recopilem és ajudar els consumidors a prendre decisions informades.",
+    "imageAlt": "Marcador de posició"
   },
   "apps": {
     "title": "Les nostres aplicacions",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "description": "Descobreix les nostres eines mòbils per identificar marques, fer seguiment de l'impacte social i gestionar tiquets.",
     "appName": "Nom de l'aplicació",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "appDescription": "consumer-list.com és una aplicació mòbil que facilita identificar quines marques i empreses estan incloses a les nostres bases de dades. Simplement utilitza la barra de cerca per trobar qualsevol marca que estiguis comprant.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent està pensada com una eina per al seguiment de despeses i la conscienciació sobre l'impacte social associat a aquest consum, així com per al registre dels tiquets de compra per a devolucions.",
     "availableOnAppStore": "Disponible a l'App Store",
     "availableOnPlayStore": "Disponible a Play Store"
+  },
+  "lema": {
+    "title": "Lema",
+    "description": "Europe for Palestine és un projecte sense cap mena d'afiliació a partits polítics ni a corporacions privades. Som simplement un grup de persones que durant massa temps han estat veient amb impotència la violació sistèmica dels drets humans que pateix el poble palestí des de fa dècades. Aquest és el nostre vincle comú i el motiu principal de la nostra ambició de contribuir a una formació mínima en drets humans justos a tot el món."
   },
   "team": {
     "title": "Sobre nosaltres",

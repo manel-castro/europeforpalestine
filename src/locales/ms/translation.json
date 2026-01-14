@@ -6,23 +6,31 @@
   "welcome": "Selamat datang",
   "description": "Eropah untuk Palestin",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Setiap sen bermakna",
+    "description": "Melaraskan pilihan pembelian kami dengan berhati-hati membantu membina dunia di mana organisasi menghormati prinsip hak asasi manusia dan nilai asas lain masyarakat kita.",
     "learnMore": "Ketahui lebih lanjut",
-    "meetUs": "Temui kami",
-    "imageAlt": "Lorem ipsum placeholder"
+    "meetUs": "Periksa pangkalan data kami",
+      "databasesTitle": "Pangkalan data kami",
+      "databasesDescription": "Semua maklumat yang tersedia mengenai jenama dan syarikat adalah berasaskan kajian bebas kami sendiri dan dalam apa jua keadaan kami tidak berkaitan dengan organisasi lain. Begitu juga, kami tidak bekerjasama dalam apa jua cara dengan mana-mana jenama dan syarikat yang disenaraikan dalam aplikasi kami. Tujuan data yang kami kumpulkan adalah untuk membantu pengguna membuat keputusan yang bijak.",
+    "imageAlt": "Tempat letak"
   },
   "apps": {
     "title": "Aplikasi kami",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "Nama aplikasi",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Temui alat mudah alih kami untuk mengenal pasti jenama, mengesan impak sosial, dan mengurus resit.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com ialah aplikasi mudah alih yang memudahkan mengenal pasti jenama dan syarikat yang termasuk dalam pangkalan data kami. Cukup gunakan bar carian untuk mencari mana-mana nama jenama yang anda sedang beli sekarang.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent direka sebagai alat untuk menjejak perbelanjaan dan meningkatkan kesedaran tentang impak sosial yang berkaitan dengan penggunaan tersebut, serta untuk merekodkan resit pembelian untuk pemulangan.",
     "availableOnAppStore": "Tersedia di App Store",
     "availableOnPlayStore": "Tersedia di Play Store"
   },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine adalah projek yang tidak mempunyai kaitan dengan mana-mana parti politik atau syarikat swasta. Kami hanyalah sekumpulan orang yang lama melihat, dengan rasa tidak berdaya, pelanggaran sistematik hak asasi manusia yang dialami oleh rakyat Palestin sejak berdekad-dekad. Inilah ikatan kami dan sebab utama cita-cita kami untuk menyumbang kepada pendidikan asas mengenai hak asasi manusia yang adil di seluruh dunia."
+  },
   "team": {
     "title": "Tentang kami",
-    "description": "Kami membina alat digital yang membantu anda menahan pihak korporat bertanggungjawab, menjejaki sokongan terhadap hak-hak Palestin dan membuat pilihan yang bermaklumat. Kami menggunakan teknologi dan tindakan kolektif untuk mengubah bagaimana komuniti mengambil bahagian dalam advokasi. Matlamat kami adalah menjadikan ketelusan mudah untuk semua orang dan menguatkan suara yang mendorong perubahan.",
+    "description": "Kami berusaha memberi impak kepada hak asasi manusia melalui penciptaan aplikasi teknologi dan penyuluhan sosial; kami menjadikan tindakan sosial kebangsaan dapat diakses melalui maklumat supaya setiap individu dapat menyelaraskan keputusan harian mereka dengan prinsip dan ideal mereka sendiri.",
     "member1": {
       "name": "John Doe",
       "description": "Pengasas bersama & Ketua Pembangun"

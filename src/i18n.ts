@@ -88,9 +88,13 @@ i18n
       escapeValue: false, // React already escapes values
     },
 
+    // Explicit list of supported languages (helps detection and routing)
+    supportedLngs: Object.keys(resources),
+    load: "languageOnly",
+
     detection: {
-      // Order and from where user language should be detected
-      order: ["querystring", "cookie", "localStorage", "navigator", "htmlTag"],
+      // Prioritize browser navigator language first
+      order: ["navigator", "querystring", "localStorage", "cookie", "htmlTag"],
 
       // Keys or params to lookup language from
       lookupQuerystring: "lng",
@@ -101,5 +105,17 @@ i18n
       caches: ["localStorage", "cookie"],
     },
   });
+
+// If detection somehow doesn't pick a language, explicitly use the browser language
+if (typeof window !== "undefined") {
+  const detected =
+    i18n.language || (window.navigator && window.navigator.language);
+  if (detected) {
+    const short = detected.split("-")[0];
+    if (short && Object.prototype.hasOwnProperty.call(resources, short)) {
+      i18n.changeLanguage(short);
+    }
+  }
+}
 
 export default i18n;

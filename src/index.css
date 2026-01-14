@@ -30,7 +30,7 @@ body {
 
 @font-face {
   font-family: "Gilroy-Black";
-  src: local("Gilroy-Black.ttf"),
+  src: local("Gilroy-Black"),
     url("./media/fonts/Gilroy-Black.ttf") format("truetype");
 }
 

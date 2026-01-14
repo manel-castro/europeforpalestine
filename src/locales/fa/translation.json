@@ -6,22 +6,31 @@
   "welcome": "خوش آمدید",
   "description": "اروپا برای فلسطین",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "هر سنت مهم است",
+    "description": "تنظیم دقیق فهرست خرید ما به ساختن دنیایی کمک می‌کند که در آن سازمان‌ها اصول حقوق بشر و سایر ارزش‌های بنیادی جامعهٔ ما را محترم بشمارند.",
     "learnMore": "بیشتر بدانید",
-    "imageAlt": "Lorem ipsum placeholder"
+      "meetUs": "از پایگاه‌های داده ما دیدن کنید",
+      "databasesTitle": "پایگاه داده‌های ما",
+      "databasesDescription": "تمام اطلاعات موجود درباره برندها و شرکت‌ها مبتنی بر مطالعه مستقل خود ما است و در هیچ شرایطی ما به سازمان‌های دیگر وابسته نیستیم. همچنین ما به هیچ شکلی با هیچ یک از برندها و شرکت‌های فهرست‌شده در برنامه‌های خود همکاری نمی‌کنیم. هدف داده‌هایی که جمع‌آوری می‌کنیم این است که به مصرف‌کنندگان کمک کنیم تا تصمیمات آگاهانه‌ای بگیرند.",
+    "imageAlt": "نماد نگهدارنده"
   },
   "apps": {
     "title": "اپلیکیشن های ما",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-    "appName": "نام اپلیکیشن",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "ابزارهای موبایل ما را برای شناسایی برندها، دنبال‌کردن اثرات اجتماعی و مدیریت رسیدها بیابید.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com یک اپلیکیشن موبایل است که به‌راحتی امکان شناسایی اینکه کدام برندها و شرکت‌ها در پایگاه‌داده‌های ما گنجانده شده‌اند را فراهم می‌کند. به سادگی از نوار جستجو برای پیدا کردن هر نام برندی که در حال حاضر خرید می‌کنید استفاده کنید.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent یک ابزار برای ردیابی هزینه‌ها و افزایش آگاهی در مورد تأثیر اجتماعی مرتبط با آن مصرف است و همچنین امکان ثبت رسیدها برای بازگشت کالاها را فراهم می‌کند.",
     "availableOnAppStore": "در App Store موجود است",
     "availableOnPlayStore": "در Play Store موجود است"
   },
+  "lema": {
+    "title": "شعار",
+    "description": "Europe for Palestine یک پروژه بدون وابستگی به احزاب سیاسی یا شرکت‌های خصوصی است. ما صرفاً گروهی از افرادی هستیم که مدت‌هاست با ناتوانی شاهد نقض سیستماتیک حقوق بشر مردم فلسطین بوده‌ایم. این پیوند ما است و دلیل اصلی انگیزه ما برای کمک به آموزش حداقلی حقوق بشر عادلانه در سراسر جهان است."
+  },
   "team": {
     "title": "درباره ما",
-    "description": "ما ابزارهای دیجیتالی می‌سازیم که به شما کمک می‌کنند شرکت‌ها را پاسخگو نگه دارید، حمایت از حقوق فلسطینیان را رصد کنید و انتخاب‌های آگاهانه‌ای انجام دهید. ما از فناوری و اقدام جمعی برای تغییر نحوه مشارکت جوامع در پیشبرد مطالبات استفاده می‌کنیم. هدف ما این است که شفافیت را برای همه ساده کنیم و صداهایی را که خواهان تغییر هستند تقویت کنیم.",
+    "description": "ما تلاش می‌کنیم از طریق ایجاد برنامه‌های فناوری و اطلاع‌رسانی اجتماعی بر حقوق بشر تأثیر بگذاریم؛ با ارائه اطلاعات، اقدام اجتماعی شهروندی را در دسترس قرار می‌دهیم تا هر فرد بتواند تصمیمات روزمره‌اش را با اصول و آرمان‌های خود هماهنگ کند.",
     "member1": {
       "name": "John Doe",
       "description": "هم‌بنیان‌گذار و توسعه‌دهنده ارشد"

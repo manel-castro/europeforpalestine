@@ -6,23 +6,31 @@
   "welcome": "Velkommen",
   "description": "Europa for Palæstina",
   "landing": {
-    "title": "Lorem Ipsum Dolor Sit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Hver cent tæller",
+    "description": "At justere vores indkøbsliste omhyggeligt hjælper med at bygge en verden, hvor organisationer respekterer menneskerettighedsprincipperne og andre grundlæggende værdier i vores samfund.",
     "learnMore": "Lær mere",
-    "meetUs": "Mød os",
-    "imageAlt": "Lorem ipsum placeholder"
+    "meetUs": "Tjek vores databaser",
+    "databasesTitle": "Vores databaser",
+    "databasesDescription": "Alle tilgængelige oplysninger om mærker og virksomheder er baseret på vores egen uafhængige undersøgelse, og vi er under ingen omstændigheder knyttet til andre organisationer. Ligeledes samarbejder vi ikke på nogen måde med de mærker og virksomheder, der er anført i vores applikationer. Formålet med de data, vi indsamler, er at hjælpe forbrugere med at træffe informerede beslutninger.",
+    "imageAlt": "Pladsholder"
   },
   "apps": {
     "title": "Vores apps",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "description": "Opdag vores mobilværktøjer til at identificere brands, følge social indflydelse og administrere kvitteringer.",
     "appName": "App-navn",
-    "appDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "appDescription": "consumer-list.com er en mobilapp, der gør det nemt at se, hvilke mærker og virksomheder der er med i vores databaser. Brug blot søgefeltet for at finde et mærke, du køber.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent er designet som et værktøj til at spore forbrug og øge bevidstheden om den sociale indvirkning forbundet med dette forbrug samt til registrering af kvitteringer ved returneringer.",
     "availableOnAppStore": "Tilgængelig på App Store",
     "availableOnPlayStore": "Tilgængelig på Play Store"
   },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine er et projekt uden tilknytning til politiske partier eller private virksomheder. Vi er blot en gruppe mennesker, der i lang tid magtesløst har været vidne til den systematiske overtrædelse af palæstinensiske folks menneskerettigheder gennem årtier. Dette er vores bånd og hovedårsagen til vores ambition om at bidrage til en grundlæggende uddannelse i retfærdige menneskerettigheder på verdensplan."
+  },
   "team": {
     "title": "Om os",
-    "description": "Vi bygger digitale værktøjer, der hjælper dig med at holde virksomheder ansvarlige, spore støtte til palæstinensiske rettigheder og træffe informerede valg. Vi bruger teknologi og kollektiv handling til at ændre, hvordan samfund deltager i fortalervirksomhed. Vores mål er at gøre gennemsigtighed let for alle og styrke de stemmer, der arbejder for forandring.",
+    "description": "Vi forsøger at have indflydelse på menneskerettigheder gennem udvikling af teknologiske applikationer og social oplysning; vi gør borgerdreven social handling tilgængelig gennem information, så hver enkelt kan tilpasse sine daglige beslutninger til egne principper og idealer.",
     "member1": {
       "name": "John Doe",
       "description": "Medstifter og førende udvikler"
