@@ -14,7 +14,14 @@
     "databasesDescription": "Markalar ve şirketlerle ilgili mevcut tüm bilgiler kendi bağımsız araştırmamıza dayanmaktadır ve hiçbir koşulda başka kuruluşlarla bağlantılı değiliz. Ayrıca, uygulamalarımızda listelenen markalar ve şirketlerle hiçbir şekilde işbirliği yapmıyoruz. Topladığımız verilerin amacı tüketicilerin bilinçli kararlar almasına yardımcı olmaktır.",
     "howToHelpTitle": "Nasıl yardım edilir",
     "howToHelpDescription": "Yardımınızla sunucu maliyetlerini, farkındalık kampanyalarını ve diğer giderleri karşılıyoruz. Şimdi EuropeForPalestine'e yardım edin.",
-    "imageAlt": "Yer tutucu"
+    "imageAlt": "Yer tutucu",
+    "newsletterTitle": "Bültenimize abone olun",
+    "newsletterDescription": "Bültenimize abone olun; güncellemeler, markalar hakkında ilginç veriler ve daha fazlasını alın.",
+    "newsletterPlaceholderName": "Adınız",
+    "newsletterPlaceholderEmail": "e-posta adresiniz",
+    "newsletterSending": "Gönderiliyor...",
+    "newsletterThankYou": "Teşekkürler — lütfen e-postanızı kontrol edin.",
+    "newsletterError": "Bir hata oluştu. Daha sonra tekrar deneyin."
   },
   "apps": {
     "title": "Uygulamalarımız",
@@ -27,7 +34,8 @@
     "availableOnPlayStore": "Play Store'da mevcut"
   },
   "buttons": {
-    "donateNow": "Şimdi bağışla 5€"
+    "donateNow": "Şimdi bağışla 5€",
+    "subscribeNow": "Hemen abone ol"
   },
   "lema": {
     "title": "Slogan",

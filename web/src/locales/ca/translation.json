@@ -14,7 +14,14 @@
     "databasesDescription": "Tota la informació disponible sobre marques i empreses es basa en el nostre estudi independent i en cap cas estem relacionats amb altres organitzacions. Així mateix, no col·laborem de cap manera amb cap de les marques i empreses llistades a les nostres aplicacions. L'objectiu de les dades que recopilem és ajudar els consumidors a prendre decisions informades.",
     "howToHelpTitle": "Com ajudar",
     "howToHelpDescription": "Amb la teva ajuda cobrim els costos dels servidors, campanyes de difusió i altres despeses. Ajuda ara a EuropeForPalestine.",
-    "imageAlt": "Marcador de posició"
+     "imageAlt": "Marcador de posició",
+    "newsletterTitle": "Subscriu-te al nostre butlletí",
+    "newsletterDescription": "Subscriu-te al nostre butlletí per rebre actualitzacions, dades interessants sobre marques i més.",
+    "newsletterPlaceholderName": "El teu nom",
+    "newsletterPlaceholderEmail": "el teu correu electrònic",
+    "newsletterSending": "Enviant...",
+    "newsletterThankYou": "Gràcies — comprova el teu correu electrònic.",
+    "newsletterError": "S'ha produït un error. Torna-ho a intentar més tard."
   },
   "apps": {
     "title": "Les nostres aplicacions",

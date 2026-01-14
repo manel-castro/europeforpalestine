@@ -14,7 +14,14 @@
     "databasesDescription": "Semua informasi yang tersedia tentang merek dan perusahaan didasarkan pada penelitian independen kami sendiri dan dalam keadaan apa pun kami tidak terkait dengan organisasi lain. Demikian juga, kami tidak berkolaborasi dengan cara apa pun dengan merek dan perusahaan yang tercantum dalam aplikasi kami. Tujuan data yang kami kumpulkan adalah membantu konsumen membuat keputusan yang tepat.",
     "howToHelpTitle": "Bagaimana membantu",
     "howToHelpDescription": "Dengan bantuan Anda kami menutupi biaya server, kampanye penyuluhan dan biaya lain. Bantu EuropeForPalestine sekarang.",
-    "imageAlt": "Placeholder"
+    "imageAlt": "Placeholder",
+    "newsletterTitle": "Berlangganan newsletter kami",
+    "newsletterDescription": "Berlangganan newsletter kami untuk mendapatkan pembaruan, data menarik tentang merek, dan lainnya.",
+    "newsletterPlaceholderName": "Nama Anda",
+    "newsletterPlaceholderEmail": "email Anda",
+    "newsletterSending": "Mengirim...",
+    "newsletterThankYou": "Terima kasih — silakan periksa email Anda.",
+    "newsletterError": "Terjadi kesalahan. Coba lagi nanti."
   },
   "apps": {
     "title": "Aplikasi kami",

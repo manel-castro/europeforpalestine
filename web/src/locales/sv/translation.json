@@ -12,7 +12,14 @@
     "meetUs": "Kolla våra databaser",
     "databasesTitle": "Våra databaser",
     "databasesDescription": "All tillgänglig information om varumärken och företag baseras på vår egen oberoende forskning och under inga omständigheter är vi knutna till andra organisationer. På samma sätt samarbetar vi inte på något sätt med de varumärken och företag som listas i våra applikationer. Syftet med de data vi samlar in är att hjälpa konsumenter att fatta välgrundade beslut.",
-    "imageAlt": "Platshållare"
+     "imageAlt": "Platshållarbild",
+    "newsletterTitle": "Prenumerera på vårt nyhetsbrev",
+    "newsletterDescription": "Prenumerera på vårt nyhetsbrev för att få uppdateringar, intressanta uppgifter om varumärken och mer.",
+    "newsletterPlaceholderName": "Ditt namn",
+    "newsletterPlaceholderEmail": "din e-post",
+    "newsletterSending": "Skickar...",
+    "newsletterThankYou": "Tack — kontrollera din e-post.",
+    "newsletterError": "Ett fel uppstod. Försök igen senare."
   },
   "apps": {
     "title": "Våra appar",

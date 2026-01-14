@@ -14,7 +14,14 @@
     "databasesDescription": "Semua maklumat yang tersedia mengenai jenama dan syarikat adalah berasaskan kajian bebas kami sendiri dan dalam apa jua keadaan kami tidak berkaitan dengan organisasi lain. Begitu juga, kami tidak bekerjasama dalam apa jua cara dengan mana-mana jenama dan syarikat yang disenaraikan dalam aplikasi kami. Tujuan data yang kami kumpulkan adalah untuk membantu pengguna membuat keputusan yang bijak.",
     "howToHelpTitle": "Bagaimana membantu",
     "howToHelpDescription": "Dengan bantuan anda kami menampung kos pelayan, kempen jangkauan dan perbelanjaan lain. Bantu EuropeForPalestine sekarang.",
-    "imageAlt": "Tempat letak"
+     "imageAlt": "Imej tempat letak",
+    "newsletterTitle": "Langganlah surat berita kami",
+    "newsletterDescription": "Langgan surat berita kami untuk mendapatkan kemas kini, data menarik tentang jenama dan banyak lagi.",
+    "newsletterPlaceholderName": "Nama anda",
+    "newsletterPlaceholderEmail": "emel anda",
+    "newsletterSending": "Menghantar...",
+    "newsletterThankYou": "Terima kasih — sila semak emel anda.",
+    "newsletterError": "Terjadi ralat. Sila cuba lagi kemudian."
   },
   "apps": {
     "title": "Aplikasi kami",

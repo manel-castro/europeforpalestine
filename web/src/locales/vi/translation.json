@@ -16,7 +16,14 @@
     "meetUs": "Gặp chúng tôi",
     "databasesTitle": "Cơ sở dữ liệu của chúng tôi",
     "databasesDescription": "Tất cả thông tin có sẵn về các thương hiệu và công ty đều dựa trên nghiên cứu độc lập của chính chúng tôi và trong bất kỳ trường hợp nào chúng tôi không liên kết với các tổ chức khác. Tương tự, chúng tôi không hợp tác dưới bất kỳ hình thức nào với bất kỳ thương hiệu hoặc công ty nào được liệt kê trong ứng dụng của chúng tôi. Mục tiêu của dữ liệu chúng tôi thu thập là giúp người tiêu dùng đưa ra quyết định thông minh.",
-    "imageAlt": "Hình ảnh giữ chỗ"
+    "imageAlt": "Hình ảnh giữ chỗ",
+    "newsletterTitle": "Đăng ký nhận bản tin của chúng tôi",
+    "newsletterDescription": "Đăng ký nhận bản tin của chúng tôi để nhận cập nhật, dữ liệu thú vị về các thương hiệu và nhiều hơn nữa.",
+    "newsletterPlaceholderName": "Tên của bạn",
+    "newsletterPlaceholderEmail": "email của bạn",
+    "newsletterSending": "Đang gửi...",
+    "newsletterThankYou": "Cảm ơn — vui lòng kiểm tra email của bạn.",
+    "newsletterError": "Đã xảy ra lỗi. Vui lòng thử lại sau."
   },
   "apps": {
     "title": "Ứng dụng của chúng tôi",

@@ -14,7 +14,14 @@
     "databasesDescription": "Alle verfügbaren Informationen zu Marken und Unternehmen basieren auf unserer eigenen unabhängigen Untersuchung und stehen in keinem Zusammenhang mit anderen Organisationen. Ebenso arbeiten wir in keiner Form mit den in unseren Anwendungen aufgeführten Marken und Unternehmen zusammen. Ziel der von uns gesammelten Daten ist es, Verbrauchern zu helfen, fundierte Entscheidungen zu treffen.",
     "howToHelpTitle": "Wie helfen",
     "howToHelpDescription": "Mit Ihrer Hilfe decken wir Serverkosten, Outreach-Kampagnen und andere Ausgaben ab. Helfen Sie jetzt EuropeForPalestine.",
-    "imageAlt": "Platzhalter"
+    "imageAlt": "Platzhalter",
+    "newsletterTitle": "Abonniere unseren Newsletter",
+    "newsletterDescription": "Abonniere unseren Newsletter, um Updates, interessante Daten zu Marken und mehr zu erhalten.",
+    "newsletterPlaceholderName": "Dein Name",
+    "newsletterPlaceholderEmail": "deine E-Mail",
+    "newsletterSending": "Senden...",
+    "newsletterThankYou": "Danke — bitte überprüfe deine E-Mail.",
+    "newsletterError": "Es ist ein Fehler aufgetreten. Versuch es später noch einmal."
   },
   "apps": {
     "title": "Unsere Apps",
@@ -28,6 +35,9 @@
   },
   "buttons": {
     "donateNow": "Jetzt spenden 5€"
+  },
+  "buttons": {
+    "subscribeNow": "Jetzt abonnieren"
   },
   "lema": {
     "title": "Leitwort",

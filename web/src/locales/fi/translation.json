@@ -12,7 +12,14 @@
     "meetUs": "Tarkista tietokantamme",
     "databasesTitle": "Tietokantamme",
     "databasesDescription": "Kaikki saatavilla oleva tieto tuotemerkeistä ja yrityksistä perustuu omaan riippumattomaan tutkimukseemme, emmekä missään olosuhteissa ole yhteydessä muihin organisaatioihin. Emme myöskään tee yhteistyötä millään tavalla sovelluksissamme lueteltujen tuotemerkkien ja yritysten kanssa. Keräämämme tietojen tavoitteena on auttaa kuluttajia tekemään perusteltuja päätöksiä.",
-    "imageAlt": "Paikkamerkki"
+    "imageAlt": "Paikkamerkki",
+    "newsletterTitle": "Tilaa uutiskirjeemme",
+    "newsletterDescription": "Tilaa uutiskirjeemme saadaksesi päivityksiä, mielenkiintoisia tietoja brändeistä ja lisää.",
+    "newsletterPlaceholderName": "Nimesi",
+    "newsletterPlaceholderEmail": "sähköpostiosoitteesi",
+    "newsletterSending": "Lähetetään...",
+    "newsletterThankYou": "Kiitos — tarkista sähköpostisi.",
+    "newsletterError": "Tapahtui virhe. Yritä uudelleen myöhemmin."
   },
   "apps": {
     "title": "Sovelluksemme",

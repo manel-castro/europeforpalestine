@@ -12,7 +12,14 @@
     "meetUs": "Zkontrolujte naše databáze",
     "databasesTitle": "Naše databáze",
     "databasesDescription": "Veškeré dostupné informace o značkách a společnostech jsou založeny na našem vlastním nezávislém zkoumání a za žádných okolností nejsme spojeni s jinými organizacemi. Stejně tak s žádným ze značek a společností uvedených v našich aplikacích nijak nespolupracujeme. Cílem dat, která shromažďujeme, je pomoci spotřebitelům činit informovaná rozhodnutí.",
-    "imageAlt": "Zástupný symbol"
+     "imageAlt": "Zástupný symbol",
+    "newsletterTitle": "Odebírejte náš newsletter",
+    "newsletterDescription": "Odebírejte náš newsletter a získejte aktualizace, zajímavá data o značkách a další.",
+    "newsletterPlaceholderName": "Vaše jméno",
+    "newsletterPlaceholderEmail": "váš e-mail",
+    "newsletterSending": "Odesílání...",
+    "newsletterThankYou": "Děkujeme — zkontrolujte svůj e-mail.",
+    "newsletterError": "Došlo k chybě. Zkuste to znovu později."
   },
   "apps": {
     "title": "Naše aplikace",

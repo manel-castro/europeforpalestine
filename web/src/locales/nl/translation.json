@@ -14,7 +14,14 @@
     "databasesDescription": "Alle beschikbare informatie over merken en bedrijven is gebaseerd op ons eigen onafhankelijke onderzoek en in geen geval zijn we gelieerd aan andere organisaties. Evenzo werken we op geen enkele manier samen met de merken en bedrijven die in onze apps worden vermeld. Het doel van de gegevens die we verzamelen is om consumenten te helpen geïnformeerde beslissingen te nemen.",
     "howToHelpTitle": "Hoe helpen",
     "howToHelpDescription": "Met uw hulp dekken we serverkosten, outreach-campagnes en andere uitgaven. Help nu EuropeForPalestine.",
-    "imageAlt": "Plaatsaanduiding"
+    "imageAlt": "Plaatsaanduiding",
+    "newsletterTitle": "Abonneer je op onze nieuwsbrief",
+    "newsletterDescription": "Abonneer je op onze nieuwsbrief voor updates, interessante gegevens over merken en meer.",
+    "newsletterPlaceholderName": "Je naam",
+    "newsletterPlaceholderEmail": "je e-mail",
+    "newsletterSending": "Verzenden...",
+    "newsletterThankYou": "Dank je — controleer je e-mail.",
+    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens."
   },
   "apps": {
     "title": "Onze apps",
@@ -27,7 +34,8 @@
     "availableOnPlayStore": "Beschikbaar op Play Store"
   },
   "buttons": {
-    "donateNow": "Doneer nu 5€"
+    "donateNow": "Doneer nu 5€",
+    "subscribeNow": "Abonneer nu"
   },
   "lema": {
     "title": "Leus",

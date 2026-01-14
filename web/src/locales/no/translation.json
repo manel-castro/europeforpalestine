@@ -16,7 +16,14 @@
     "meetUs": "Sjekk våre databaser",
     "databasesTitle": "Våre databaser",
     "databasesDescription": "All tilgjengelig informasjon om merker og selskaper er basert på vår egen uavhengige forskning, og vi er under ingen omstendigheter knyttet til andre organisasjoner. På samme måte samarbeider vi ikke på noen måte med merkene og selskapene som er listet i appene våre. Formålet med dataene vi samler inn er å hjelpe forbrukere med å ta informerte beslutninger.",
-    "imageAlt": "Plassholder"
+      "imageAlt": "Plassholderbilde",
+      "newsletterTitle": "Abonner deg på nyhetsbrevet vårt",
+      "newsletterDescription": "Abonner på nyhetsbrevet vårt for å få oppdateringer, interessante data om merker og mer.",
+      "newsletterPlaceholderName": "Ditt navn",
+      "newsletterPlaceholderEmail": "din e-post",
+      "newsletterSending": "Sender...",
+      "newsletterThankYou": "Takk — vennligst sjekk e-posten din.",
+      "newsletterError": "Det oppstod en feil. Prøv igjen senere."
   },
   "apps": {
     "title": "Våre apper",

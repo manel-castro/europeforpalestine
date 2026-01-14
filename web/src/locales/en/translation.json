@@ -14,7 +14,14 @@
     "databasesDescription": "All available information about brands and companies is based on our own independent research and under no circumstances are we linked to other organizations. Likewise, we do not collaborate in any way with any of the brands and companies listed in our applications. The purpose of the data we collect is to help consumers make informed decisions.",
     "howToHelpTitle": "How to help",
     "howToHelpDescription": "With your help we cover server costs, outreach campaigns and other expenses. Help EuropeForPalestine now.",
-    "imageAlt": "Placeholder image"
+    "imageAlt": "Placeholder image",
+    "newsletterTitle": "Subscribe to our newsletter",
+    "newsletterDescription": "Subscribe to our newsletter to get updates, interesting data about brands, and more.",
+    "newsletterPlaceholderName": "Your name",
+    "newsletterPlaceholderEmail": "you@example.com",
+    "newsletterSending": "Sending...",
+    "newsletterThankYou": "Thank you — please check your email.",
+    "newsletterError": "There was an error. Try again later."
   },
   "apps": {
     "title": "Our apps",
@@ -27,7 +34,8 @@
     "availableOnPlayStore": "Available on Play Store"
   },
   "buttons": {
-    "donateNow": "Donate now 5€"
+    "donateNow": "Donate now 5€",
+    "subscribeNow": "Subscribe now"
   },
   "lema": {
     "title": "Motto",

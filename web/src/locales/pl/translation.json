@@ -14,7 +14,14 @@
     "databasesDescription": "Wszystkie dostępne informacje o markach i firmach opierają się na naszych niezależnych badaniach i w żadnym wypadku nie jesteśmy powiązani z innymi organizacjami. Podobnie nie współpracujemy w żaden sposób z markami i firmami wymienionymi w naszych aplikacjach. Celem zbieranych danych jest pomoc konsumentom w podejmowaniu świadomych decyzji.",
     "howToHelpTitle": "Jak pomóc",
     "howToHelpDescription": "Dzięki Twojej pomocy pokrywamy koszty serwerów, kampanii informacyjnych i inne wydatki. Pomóż EuropeForPalestine teraz.",
-    "imageAlt": "Miejsce zastępcze"
+    "imageAlt": "Miejsce zastępcze",
+    "newsletterTitle": "Subscribe to our newsletter",
+    "newsletterDescription": "Subskrybuj nasz newsletter, aby otrzymywać aktualizacje, interesujące dane o markach i więcej.",
+    "newsletterPlaceholderName": "Twoje imię",
+    "newsletterPlaceholderEmail": "twój e-mail",
+    "newsletterSending": "Wysyłanie...",
+    "newsletterThankYou": "Dziękujemy — sprawdź swoją skrzynkę e-mail.",
+    "newsletterError": "Wystąpił błąd. Spróbuj ponownie później."
   },
   "apps": {
     "title": "Nasze aplikacje",

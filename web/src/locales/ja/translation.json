@@ -16,7 +16,14 @@
     "meetUs": "私たちに会う",
     "databasesTitle": "私たちのデータベース",
     "databasesDescription": "ブランドや企業に関するすべての利用可能な情報は、私たち自身の独立した調査に基づいており、いかなる場合も他の組織とは関係がありません。同様に、当団体はアプリに記載されているブランドや企業と一切協力していません。収集するデータの目的は、消費者が情報に基づいた意思決定を行えるよう支援することです。",
-    "imageAlt": "プレースホルダー画像"
+    "imageAlt": "プレースホルダー画像",
+    "newsletterTitle": "ニュースレターを購読する",
+    "newsletterDescription": "ニュースレターを購読すると、更新情報やブランドに関する興味深いデータなどを受け取れます。",
+    "newsletterPlaceholderName": "お名前",
+    "newsletterPlaceholderEmail": "メールアドレス",
+    "newsletterSending": "送信中...",
+    "newsletterThankYou": "ありがとうございます — メールを確認してください。",
+    "newsletterError": "エラーが発生しました。後でもう一度お試しください。"
   },
   "apps": {
     "title": "私たちのアプリ",

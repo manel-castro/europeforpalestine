@@ -12,7 +12,14 @@
     "meetUs": "만나보세요",
     "databasesTitle": "우리의 데이터베이스",
     "databasesDescription": "브랜드와 회사에 대한 모든 사용 가능한 정보는 우리의 독립적인 연구를 기반으로 하며 어떠한 경우에도 다른 조직과 연관되어 있지 않습니다. 또한 우리는 애플리케이션에 나열된 브랜드 및 회사와 어떠한 형태로도 협력하지 않습니다. 우리가 수집하는 데이터의 목적은 소비자가 정보에 입각한 결정을 내리는 데 도움을 주는 것입니다.",
-    "imageAlt": "자리 표시자 이미지"
+    "imageAlt": "자리 표시자 이미지",
+    "newsletterTitle": "뉴스레터 구독하기",
+    "newsletterDescription": "뉴스레터를 구독하시면 업데이트, 브랜드에 대한 흥미로운 데이터 등을 받아보실 수 있습니다.",
+    "newsletterPlaceholderName": "이름",
+    "newsletterPlaceholderEmail": "이메일 주소",
+    "newsletterSending": "전송 중...",
+    "newsletterThankYou": "감사합니다 — 이메일을 확인해주세요.",
+    "newsletterError": "오류가 발생했습니다. 나중에 다시 시도하세요."
   },
   "apps": {
     "title": "우리의 앱",

@@ -12,7 +12,14 @@
     "meetUs": "Verifică bazele noastre de date",
     "databasesTitle": "Baza noastră de date",
     "databasesDescription": "Toate informațiile disponibile despre mărci și companii se bazează pe propriul nostru studiu independent și în niciun caz nu suntem legați de alte organizații. De asemenea, nu colaborăm în niciun fel cu nicio marcă sau companie listată în aplicațiile noastre. Scopul datelor pe care le colectăm este de a ajuta consumatorii să ia decizii informate.",
-    "imageAlt": "Loc rezervat"
+    "imageAlt": "Loc rezervat",
+    "newsletterTitle": "Abonează-te la newsletterul nostru",
+    "newsletterDescription": "Abonează-te la newsletterul nostru pentru a primi actualizări, date interesante despre branduri și altele.",
+    "newsletterPlaceholderName": "Numele tău",
+    "newsletterPlaceholderEmail": "adresa ta de email",
+    "newsletterSending": "Se trimite...",
+    "newsletterThankYou": "Mulțumim — verifică-ți e-mailul.",
+    "newsletterError": "A apărut o eroare. Încearcă din nou mai târziu."
   },
   "apps": {
     "title": "Aplicațiile noastre",

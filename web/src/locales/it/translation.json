@@ -14,7 +14,14 @@
     "databasesDescription": "Tutte le informazioni disponibili su marchi e aziende si basano sul nostro studio indipendente e in nessun caso siamo collegati ad altre organizzazioni. Inoltre non collaboriamo in alcun modo con nessuno dei marchi e delle aziende elencate nelle nostre applicazioni. L'obiettivo dei dati che raccogliamo è aiutare i consumatori a prendere decisioni informate.",
     "howToHelpTitle": "Come aiutare",
     "howToHelpDescription": "Con il tuo aiuto copriamo i costi dei server, le campagne di sensibilizzazione e altre spese. Aiuta ora EuropeForPalestine.",
-    "imageAlt": "Segnaposto"
+    "imageAlt": "Segnaposto",
+    "newsletterTitle": "Iscriviti alla nostra newsletter",
+    "newsletterDescription": "Iscriviti alla nostra newsletter per ricevere aggiornamenti, dati interessanti sui marchi e altro ancora.",
+    "newsletterPlaceholderName": "Il tuo nome",
+    "newsletterPlaceholderEmail": "la tua email",
+    "newsletterSending": "Invio...",
+    "newsletterThankYou": "Grazie — controlla la tua email.",
+    "newsletterError": "Si è verificato un errore. Riprova più tardi."
   },
   "apps": {
     "title": "Le nostre app",
@@ -27,7 +34,8 @@
     "availableOnPlayStore": "Disponibile su Play Store"
   },
   "buttons": {
-    "donateNow": "Dona ora 5€"
+    "donateNow": "Dona ora 5€",
+    "subscribeNow": "Iscriviti ora"
   },
   "lema": {
     "title": "Motto",
