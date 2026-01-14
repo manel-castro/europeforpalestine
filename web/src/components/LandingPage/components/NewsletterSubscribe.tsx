@@ -34,10 +34,11 @@ const NewsletterSubscribe: React.FC = () => {
         setName("");
       } else {
         const body = await res.json().catch(() => null);
-        setStatus((body && body.error) || "error");
+        const errMsg = (body && (body.error || body.message)) || `HTTP ${res.status}`;
+        setStatus(errMsg);
       }
     } catch (err) {
-      setStatus("error");
+      setStatus((err as Error).message || "error");
     }
   };
 
@@ -53,56 +54,63 @@ const NewsletterSubscribe: React.FC = () => {
           {t("landing.newsletterDescription")}
         </Text>
 
-        <form
-          onSubmit={submit}
-          style={{
-            display: "flex",
-            gap: "0.5rem",
-            justifyContent: "center",
-            marginTop: "1rem",
-            flexWrap: "wrap",
-          }}
-        >
-          <input
-            aria-label={t("landing.newsletterPlaceholderName")}
-            placeholder={t("landing.newsletterPlaceholderName")}
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-            style={{
-              padding: "0.5rem",
-              minWidth: 200,
-              borderRadius: 4,
-              border: "1px solid rgba(255,255,255,0.08)",
-              background: "#2a2a2a",
-              color: "#fff",
-            }}
-          />
-          <input
-            aria-label={t("landing.newsletterPlaceholderEmail")}
-            placeholder={t("landing.newsletterPlaceholderEmail")}
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            style={{
-              padding: "0.5rem",
-              minWidth: 260,
-              borderRadius: 4,
-              border: "1px solid rgba(255,255,255,0.08)",
-              background: "#2a2a2a",
-              color: "#fff",
-            }}
-          />
-          <Button type="submit" variant="primary" color="palestine">
-            {t("buttons.subscribeNow")}
-          </Button>
-        </form>
+        {status !== "ok" ? (
+          <>
+            <form
+              onSubmit={submit}
+              style={{
+                display: "flex",
+                gap: "0.5rem",
+                justifyContent: "center",
+                marginTop: "1rem",
+                flexWrap: "wrap",
+              }}
+            >
+              <input
+                aria-label={t("landing.newsletterPlaceholderName")}
+                placeholder={t("landing.newsletterPlaceholderName")}
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                style={{
+                  padding: "0.5rem",
+                  minWidth: 200,
+                  borderRadius: 4,
+                  border: "1px solid rgba(255,255,255,0.08)",
+                  background: "#2a2a2a",
+                  color: "#fff",
+                }}
+              />
+              <input
+                aria-label={t("landing.newsletterPlaceholderEmail")}
+                placeholder={t("landing.newsletterPlaceholderEmail")}
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                style={{
+                  padding: "0.5rem",
+                  minWidth: 260,
+                  borderRadius: 4,
+                  border: "1px solid rgba(255,255,255,0.08)",
+                  background: "#2a2a2a",
+                  color: "#fff",
+                }}
+              />
+              <Button type="submit" variant="primary" color="palestine">
+                {t("buttons.subscribeNow")}
+              </Button>
+            </form>
 
-        <div style={{ marginTop: 12 }}>
-          {status === "loading" && <Text>{t("landing.newsletterSending")}</Text>}
-          {status === "ok" && <Text>{t("landing.newsletterThankYou")}</Text>}
-          {status === "error" && (
-            <Text>{t("landing.newsletterError")}</Text>
-          )}
-        </div>
+            <div style={{ marginTop: 12 }}>
+              {status === "loading" && <Text>{t("landing.newsletterSending")}</Text>}
+              {status && status !== "loading" && status !== "ok" && (
+                <Text style={{ color: "#ffb3b3" }}>{status}</Text>
+              )}
+            </div>
+          </>
+        ) : (
+          <div style={{ marginTop: 12 }}>
+            <Text>{t("landing.newsletterThankYou")}</Text>
+          </div>
+        )}
       </div>
     </SectionWrapper>
   );

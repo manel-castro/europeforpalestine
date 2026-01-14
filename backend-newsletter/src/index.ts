@@ -33,9 +33,13 @@ app.post("/subscribe", async (req, res) => {
         "LISTMONK_API_USER is not set in the newsletter backend. Set LISTMONK_API_USER to a valid listmonk API user."
       );
     }
+
+    console.log("dbg2 email: ", parse.data.email.trim());
+    console.log("dbg2 name: ", parse.data.name?.trim());
+
     const result = await createSubscriber({
-      email: parse.data.email,
-      name: parse.data.name,
+      email: parse.data.email.trim(),
+      name: parse.data.name?.trim(),
     });
     return res.json({ ok: true, result });
   } catch (err: any) {

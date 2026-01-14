@@ -27,14 +27,9 @@ export async function createSubscriber(payload: SubscriberPayload) {
   console.log("dbg1 apiKey: ", apiKey);
 
   const body = {
-    subscribers: [
-      {
-        email: payload.email,
-        name: payload.name || "",
-        active: payload.active === undefined ? true : payload.active,
-        lists: payload.lists || [],
-      },
-    ],
+    email: payload.email,
+    name: payload.name || "",
+    status: "enabled",
   };
 
   try {
