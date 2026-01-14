@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Hvordan hjelpe?"
+  },
+  "welcome": "Velkommen",
+  "description": "Europa for Palestina",
+  "landing": {
+    "title": "Hver cent teller",
+    "description": "Å justere våre innkjøpsvalg nøye hjelper til med å bygge en verden der organisasjoner respekterer prinsippene for menneskerettigheter og andre grunnleggende verdier i samfunnet vårt.",
+    "lema": {
+      "title": "Slagord",
+      "description": "Europe for Palestine er et prosjekt uten noen tilknytning til politiske partier eller private selskaper. Vi er rett og slett en gruppe mennesker som i lang tid har sett maktesløst på de systematiske bruddene på menneskerettighetene til det palestinske folket gjennom flere tiår. Dette er vårt bånd og hovedårsaken til vår ambisjon om å bidra til en grunnleggende opplæring i rettferdige menneskerettigheter over hele verden."
+    },
+    "learnMore": "Lær mer",
+    "meetUs": "Sjekk våre databaser",
+    "databasesTitle": "Våre databaser",
+    "databasesDescription": "All tilgjengelig informasjon om merker og selskaper er basert på vår egen uavhengige forskning, og vi er under ingen omstendigheter knyttet til andre organisasjoner. På samme måte samarbeider vi ikke på noen måte med merkene og selskapene som er listet i appene våre. Formålet med dataene vi samler inn er å hjelpe forbrukere med å ta informerte beslutninger.",
+    "imageAlt": "Plassholder"
+  },
+  "apps": {
+    "title": "Våre apper",
+    "description": "Oppdag våre mobile verktøy for å identifisere merker, spore sosial påvirkning og håndtere kvitteringer.",
+    "appName": "Appnavn",
+    "appDescription": "consumer-list.com er en mobilapp som gjør det enkelt å se hvilke merker og selskaper som er inkludert i databasene våre. Bruk søkefeltet for å finne et merke du kjøper.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent er designet som et verktøy for å spore forbruk og øke bevisstheten om de sosiale konsekvensene knyttet til dette forbruket, samt for å registrere kvitteringer ved retur.",
+    "availableOnAppStore": "Tilgjengelig på App Store",
+    "availableOnPlayStore": "Tilgjengelig på Play Store"
+  },
+  "buttons": {
+    "donateNow": "Doner nå 5€"
+  },
+  "team": {
+    "title": "Om oss",
+    "description": "Vi forsøker å påvirke menneskerettighetene gjennom utvikling av teknologiske applikasjoner og sosial opplysning; vi gjør borgerrettet sosial handling tilgjengelig gjennom informasjon slik at hver enkelt kan tilpasse sine daglige beslutninger til sine egne prinsipper og idealer.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Medgrunnlegger og ledende utvikler"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Medgrunnlegger og produktdesigner"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Fellesskapsansvarlig"
+    },
+    "meetFullTeam": "Møt hele teamet"
+  }
+}

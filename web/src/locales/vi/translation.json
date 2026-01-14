@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Làm thế nào để giúp đỡ?"
+  },
+  "welcome": "Chào mừng",
+
+  "lema": {
+    "title": "Khẩu hiệu",
+    "description": "Europe for Palestine là một dự án không liên kết với bất kỳ đảng chính trị hay tập đoàn tư nhân nào. Chúng tôi chỉ là một nhóm người đã lâu chứng kiến một cách bất lực việc vi phạm có hệ thống các quyền con người của người Palestine trong nhiều thập kỷ. Đây là sự liên kết của chúng tôi và là lý do chính cho khát vọng đóng góp vào giáo dục tối thiểu về quyền con người công bằng trên toàn thế giới."
+  },
+  "landing": {
+    "title": "Mỗi xu đều quan trọng",
+    "description": "Điều chỉnh cẩn thận các lựa chọn mua sắm của chúng ta giúp xây dựng một thế giới nơi các tổ chức tôn trọng các nguyên tắc nhân quyền và các giá trị cơ bản khác của xã hội chúng ta.",
+    "learnMore": "Tìm hiểu thêm",
+    "meetUs": "Gặp chúng tôi",
+    "databasesTitle": "Cơ sở dữ liệu của chúng tôi",
+    "databasesDescription": "Tất cả thông tin có sẵn về các thương hiệu và công ty đều dựa trên nghiên cứu độc lập của chính chúng tôi và trong bất kỳ trường hợp nào chúng tôi không liên kết với các tổ chức khác. Tương tự, chúng tôi không hợp tác dưới bất kỳ hình thức nào với bất kỳ thương hiệu hoặc công ty nào được liệt kê trong ứng dụng của chúng tôi. Mục tiêu của dữ liệu chúng tôi thu thập là giúp người tiêu dùng đưa ra quyết định thông minh.",
+    "imageAlt": "Hình ảnh giữ chỗ"
+  },
+  "apps": {
+    "title": "Ứng dụng của chúng tôi",
+    "description": "Khám phá công cụ di động của chúng tôi để xác định thương hiệu, theo dõi tác động xã hội và quản lý hóa đơn.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com là một ứng dụng di động cho phép xác định một cách dễ dàng những thương hiệu và công ty nào được bao gồm trong cơ sở dữ liệu của chúng tôi. Chỉ cần sử dụng thanh tìm kiếm để tìm tên bất kỳ thương hiệu nào bạn đang mua hiện tại.",
+    "availableOnAppStore": "Có sẵn trên App Store",
+    "availableOnPlayStore": "Có sẵn trên Play Store"
+  },
+  "buttons": {
+    "donateNow": "Quyên góp ngay 5€"
+  },
+  "team": {
+    "title": "Về chúng tôi",
+    "description": "Chúng tôi cố gắng tác động đến quyền con người thông qua việc tạo ra các ứng dụng công nghệ và tuyên truyền xã hội; chúng tôi làm cho hành động xã hội công dân trở nên dễ tiếp cận thông qua thông tin để mỗi cá nhân có thể điều chỉnh các quyết định hàng ngày theo nguyên tắc và lý tưởng của riêng mình.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Đồng sáng lập & Trưởng phòng phát triển"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Đồng sáng lập & Nhà thiết kế sản phẩm"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Quản lý cộng đồng"
+    },
+    "meetFullTeam": "Gặp toàn bộ nhóm"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Miten auttaa?"
+  },
+  "welcome": "Tervetuloa",
+  "description": "Eurooppa Palestiinalle",
+  "landing": {
+    "title": "Jokainen sentti merkitsee",
+    "description": "Harkiten tekemämme ostovalintojen säätäminen auttaa rakentamaan maailmaa, jossa organisaatiot kunnioittavat ihmisoikeusperiaatteita ja muita yhteiskuntamme perustavanlaatuisia arvoja.",
+    "learnMore": "Lue lisää",
+    "meetUs": "Tarkista tietokantamme",
+    "databasesTitle": "Tietokantamme",
+    "databasesDescription": "Kaikki saatavilla oleva tieto tuotemerkeistä ja yrityksistä perustuu omaan riippumattomaan tutkimukseemme, emmekä missään olosuhteissa ole yhteydessä muihin organisaatioihin. Emme myöskään tee yhteistyötä millään tavalla sovelluksissamme lueteltujen tuotemerkkien ja yritysten kanssa. Keräämämme tietojen tavoitteena on auttaa kuluttajia tekemään perusteltuja päätöksiä.",
+    "imageAlt": "Paikkamerkki"
+  },
+  "apps": {
+    "title": "Sovelluksemme",
+    "description": "Tutustu mobiilityökaluihimme, joilla tunnistat tuotemerkit, seuraat sosiaalista vaikutusta ja hallitset kuitteja.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com on mobiilisovellus, jolla voit helposti tunnistaa, mitkä brändit ja yritykset sisältyvät tietokantoihimme. Käytä hakupalkkia löytääksesi minkä tahansa merkin nimen, jota olet parhaillaan ostamassa.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent on suunniteltu kulutusseurannan työkaluksi ja tietoisuuden lisäämiseksi kulutuksen aiheuttamista sosiaalisista vaikutuksista sekä kuittien kirjaamiseen palautuksia varten.",
+    "availableOnAppStore": "Saatavilla App Storessa",
+    "availableOnPlayStore": "Saatavilla Play Storessa"
+  },
+  "buttons": {
+    "donateNow": "Lahjoita nyt 5€"
+  },
+  "lema": {
+    "title": "Iskulause",
+    "description": "Europe for Palestine on hanke, jolla ei ole yhteyksiä poliittisiin puolueisiin tai yksityisiin yrityksiin. Olemme yksinkertaisesti joukko ihmisiä, jotka ovat pitkään nähneet voimattomina palestiinalaisten ihmisoikeuksien järjestelmällisen loukkaamisen. Tämä on siteemme ja keskeinen syy pyrkimykseemme edistää vähintäänkin perusopetusta oikeudenmukaisista ihmisoikeuksista maailmanlaajuisesti."
+  },
+  "team": {
+    "title": "Tietoa meistä",
+    "description": "Tavoitteenamme on vaikuttaa ihmisoikeuksiin luomalla teknologisia sovelluksia ja tekemällä yhteiskunnallista tiedotustyötä; teemme kansalaislähtöisen sosiaalisen toiminnan saavutettavaksi tiedon avulla, jotta jokainen voi linjata arkipäivän päätöksensä omien periaatteidensa ja ihanteidensa mukaisesti.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Perustaja ja johtava kehittäjä"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Perustaja ja tuotesuunnittelija"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Yhteisömanageri"
+    },
+    "meetFullTeam": "Tapaa koko tiimi"
+  }
+}

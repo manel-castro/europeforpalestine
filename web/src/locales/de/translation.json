@@ -1,0 +1,53 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Wie kann ich helfen?"
+  },
+  "welcome": "Willkommen",
+  "description": "Europa für Palästina",
+  "landing": {
+    "title": "Jeder Cent zählt",
+    "description": "Wenn wir unsere Einkaufsauswahl sorgfältig anpassen, tragen wir dazu bei, eine Welt aufzubauen, in der Organisationen die Grundsätze der Menschenrechte und andere grundlegende Werte unserer Gesellschaft respektieren.",
+    "learnMore": "Mehr erfahren",
+    "meetUs": "Sieh dir unsere Datenbanken an",
+    "databasesTitle": "Unsere Datenbanken",
+    "databasesDescription": "Alle verfügbaren Informationen zu Marken und Unternehmen basieren auf unserer eigenen unabhängigen Untersuchung und stehen in keinem Zusammenhang mit anderen Organisationen. Ebenso arbeiten wir in keiner Form mit den in unseren Anwendungen aufgeführten Marken und Unternehmen zusammen. Ziel der von uns gesammelten Daten ist es, Verbrauchern zu helfen, fundierte Entscheidungen zu treffen.",
+    "howToHelpTitle": "Wie helfen",
+    "howToHelpDescription": "Mit Ihrer Hilfe decken wir Serverkosten, Outreach-Kampagnen und andere Ausgaben ab. Helfen Sie jetzt EuropeForPalestine.",
+    "imageAlt": "Platzhalter"
+  },
+  "apps": {
+    "title": "Unsere Apps",
+    "description": "Entdecken Sie unsere mobilen Tools, um Marken zu identifizieren, soziale Auswirkungen nachzuverfolgen und Quittungen zu verwalten.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com ist eine mobile App, mit der sich leicht erkennen lässt, welche Marken und Unternehmen in unseren Datenbanken enthalten sind. Es genügt, die Suchleiste zu verwenden, um jeden Markennamen zu finden, den Sie derzeit kaufen.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent ist als Tool zur Verfolgung der Ausgaben und zur Sensibilisierung für die sozialen Auswirkungen dieses Konsums konzipiert, sowie zur Erfassung von Kaufbelegen für Rücksendungen.",
+    "availableOnAppStore": "Im App Store verfügbar",
+    "availableOnPlayStore": "Bei Play Store verfügbar"
+  },
+  "buttons": {
+    "donateNow": "Jetzt spenden 5€"
+  },
+  "lema": {
+    "title": "Leitwort",
+    "description": "Europe for Palestine ist ein Projekt ohne jegliche Zugehörigkeit zu politischen Parteien oder privaten Konzernen. Wir sind einfach eine Gruppe von Menschen, die schon zu lange machtlos die systematische Verletzung der Menschenrechte beobachten, die das palästinensische Volk seit Jahrzehnten erleidet. Dies ist unsere Verbindung und der Hauptgrund für unseren Ehrgeiz, zu einer minimalen Ausbildung in gerechten Menschenrechten weltweit beizutragen."
+  },
+  "team": {
+    "title": "Über uns",
+    "description": "Wir versuchen, die Menschenrechte durch die Entwicklung technologischer Anwendungen und soziale Öffentlichkeitsarbeit zu beeinflussen; wir machen bürgerschaftliches Engagement durch Information zugänglich, damit sich jede Person in ihren täglichen Entscheidungen an ihren eigenen Prinzipien und Idealen orientieren kann.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Mitgründer & Leitender Entwickler"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Mitgründerin & Produktdesignerin"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community-Manager"
+    },
+    "meetFullTeam": "Das gesamte Team kennenlernen"
+  }
+}

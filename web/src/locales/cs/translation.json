@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Jak pomoci?"
+  },
+  "welcome": "Vítejte",
+  "description": "Evropa pro Palestinu",
+  "landing": {
+    "title": "Každý cent se počítá",
+    "description": "Úprava našeho nákupního seznamu s rozmyslem pomáhá budovat svět, ve kterém organizace respektují zásady lidských práv a další základní hodnoty naší společnosti.",
+    "learnMore": "Zjistit více",
+    "meetUs": "Zkontrolujte naše databáze",
+    "databasesTitle": "Naše databáze",
+    "databasesDescription": "Veškeré dostupné informace o značkách a společnostech jsou založeny na našem vlastním nezávislém zkoumání a za žádných okolností nejsme spojeni s jinými organizacemi. Stejně tak s žádným ze značek a společností uvedených v našich aplikacích nijak nespolupracujeme. Cílem dat, která shromažďujeme, je pomoci spotřebitelům činit informovaná rozhodnutí.",
+    "imageAlt": "Zástupný symbol"
+  },
+  "apps": {
+    "title": "Naše aplikace",
+    "description": "Objevte naše mobilní nástroje pro identifikaci značek, sledování sociálního dopadu a správu účtenek.",
+    "appName": "Název aplikace",
+    "appDescription": "consumer-list.com je mobilní aplikace, která usnadňuje zjistit, které značky a firmy jsou zahrnuty v našich databázích. Stačí použít vyhledávací pole k nalezení jakéhokoli názvu značky, který právě kupujete.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent je navržen jako nástroj pro sledování výdajů a zvyšování povědomí o sociálním dopadu spojeném s touto spotřebou, stejně jako pro zaznamenávání účtenek pro vrácení.",
+    "availableOnAppStore": "K dispozici v App Store",
+    "availableOnPlayStore": "K dispozici v Play Store"
+  },
+  "buttons": {
+    "donateNow": "Darujte nyní 5€"
+  },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine je projekt bez připojení k politickým stranám nebo soukromým korporacím. Jsme prostě skupina lidí, kteří dlouho bezmocně pozorovali systematické porušování lidských práv palestinského lidu. To je naše pouto a hlavní důvod naší snahy přispět k minimálnímu vzdělávání o spravedlivých lidských právech po celém světě."
+  },
+  "team": {
+    "title": "O nás",
+    "description": "Snažíme se ovlivnit dodržování lidských práv vytvářením technologických aplikací a prostřednictvím společenské osvěty; zpřístupňujeme občanské sociální akce pomocí informací tak, aby si každý jednotlivec mohl sladit svá každodenní rozhodnutí se svými vlastními principy a ideály.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Spoluzakladatel a hlavní vývojář"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Spoluzakladatelka a produktová designérka"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Manažer komunity"
+    },
+    "meetFullTeam": "Seznamte se s celým týmem"
+  }
+}
