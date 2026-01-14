@@ -15,7 +15,7 @@ const LandingPage: React.FC = () => {
       <LandingLema2 />
       <LandingTeam />
       <LandingHowToHelp />
-      <NewsletterSubscribe />
+      {/* <NewsletterSubscribe /> */}
       <LandingDatabases />
     </div>
   );
