@@ -19,7 +19,22 @@
     "newsletterPlaceholderEmail": "az e-mail címed",
     "newsletterSending": "Küldés...",
     "newsletterThankYou": "Köszönjük — kérjük, ellenőrizd az emailed.",
-    "newsletterError": "Hiba történt. Próbáld újra később."
+    "newsletterError": "Hiba történt. Próbáld újra később.",
+    "faq": {
+      "title": "Gyakran ismételt kérdések (FAQ)",
+      "q1": {"question": "Politikai projekt-e az Europe for Palestine?", "answer": "Nem. Az Europe for Palestine nem áll kapcsolatban politikai pártokkal vagy kormányzati szervekkel. Önkéntesek által működtetett, független projekt, amely az emberi jogok védelmére és információs, tudatosságnövelő technológiai eszközök létrehozására összpontosít."},
+      "q2": {"question": "Mi pontosan a consumer-list.com?", "answer": "A consumer-list.com egy webes alkalmazás, amely megjeleníti azon vállalatok listáit, amelyek be vannak jegyezve a nyilvános adatbázisainkba."},
+      "q3": {"question": "Miért nem magyarázzátok el, miért szerepel egy cég a listán?", "answer": "A félreértések és a lehetséges rágalmazási ügyek elkerülése érdekében adatbázisaink csupán azt jelzik, hogy egy vállalat szerepel egy adott listán, anélkül, hogy egyéni vádakat ismételnének."},
+      "q4": {"question": "Honnan származnak az adatok?", "answer": "Nyilvános és ellenőrzött forrásokból. Nem mindig tudunk linkelni forrásokat, mert ha azok rágalmazó anyagot tartalmaznának oldalain, az károsíthatná szervezetünket. Készek vagyunk új adatforrásokat megvitatni a manel@europeforpalestine.com címen."},
+      "q5": {"question": "Garantáljátok, hogy az információk teljesen pontosak és mindig naprakészek?", "answer": "Nem. Nem lehet abszolút pontosságot vagy azonnali frissítéseket garantálni. Szintén nem garantáljuk az adatbázisok teljességét. Egyes cégek több adatbázisban is megjelenhetnek, mint amennyit jelenleg lefedünk."},
+      "q6": {"question": "Mi történik, ha egy cég megváltoztatja gyakorlatát?", "answer": "A frissítések új információforrások rendelkezésre állásától és ellenőrzésétől függnek."},
+      "q7": {"question": "A consumer-list.com kiváltja a felhasználó személyes ítéletét?", "answer": "Nem. Ez egy információs eszköz; a végső döntés mindig a felhasználóé."},
+      "q8": {"question": "Mi az a Transparent?", "answer": "A Transparent egy költségkövető eszköz, amellyel beolvashatod a vásárlási blokkot, hogy elérd az összes funkciót (anélkül, hogy minden terméket manuálisan rögzítenél). A Transparent információt ad minden termék társadalmi hatásáról, és egyszerű költségkövetőt valamint blokkfotó-adatbázist kínál (egy blokkfotó gyakran érvényes visszatérítéshez)."},
+      "q9": {"question": "Ki áll a projekt mögött?", "answer": "Egy önkéntesekből álló csapat, különböző háttérrel technológiában, kommunikációban, stratégiában és jogban. Nézd meg a Rólunk oldalt."},
+      "q10": {"question": "Hogyan finanszírozzák a projektet?", "answer": "Önkéntes hozzájárulásokon keresztül, amelyek a technológiai eszközök fejlesztésére és karbantartására szolgálnak. Lásd: Hogyan segíthetsz."}
+    },
+    "transparencyTitle": "Átláthatóság és határok",
+    "transparencyDescription": "A Europe for Palestine egy független projekt, amelyet önkéntesek működtetnek, és nincs kapcsolatban politikai pártokkal vagy magánvállalatokkal. Munkánkat önkéntes adományok finanszírozzák, amelyek a létrehozott technológiai eszközök fejlesztésére, karbantartására és fejlesztésére, valamint a felelős működés biztosításához szükséges költségek fedezésére szolgálnak. Az erőforrások felhasználásának átláthatósága a projekt alapvető elköteleződése; kérdéseidet a manel@europeforpalestine.com címre küldheted.\n\nHasonlóképpen nem garantáljuk az összegyűjtött információk teljes pontosságát vagy azonnali frissítését. Nyilvános és ellenőrzött forrásokból dolgozunk, és mindig a gondos felülvizsgálatot és jogi védelmet részesítjük előnyben a gyorsasággal vagy az átfogó jellemmel szemben.\n\nÚgy gondoljuk, hogy az átláthatóság nem lehetőség ígérése a lehetetlen bizonyosságoknak, hanem az információk gyors és könnyen hozzáférhető módon történő biztosítása a felhasználók számára."
   },
   "apps": {
     "title": "Alkalmazásaink",

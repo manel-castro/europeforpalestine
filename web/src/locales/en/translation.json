@@ -21,7 +21,53 @@
     "newsletterPlaceholderEmail": "you@example.com",
     "newsletterSending": "Sending...",
     "newsletterThankYou": "Thank you — please check your email.",
-    "newsletterError": "There was an error. Try again later."
+    "newsletterError": "There was an error. Try again later.",
+    "transparencyTitle": "Transparency and limits",
+    "transparencyDescription": "Europe for Palestine is an independent project run by volunteers with no affiliation to political parties or private corporations. Our work is funded through voluntary contributions for development, maintenance and improvement of the tools we create, and to cover the costs required to ensure their responsible operation. Transparency in the use of resources is a core commitment of the project; you can send your questions to manel@europeforpalestine.com\n\nSimilarly, we do not guarantee absolute accuracy or immediate updates of all collected information. We work with data from public and verified sources, and we always prioritize careful review and legal protection over speed or exhaustiveness.\n\nWe believe transparency is not about promising impossible certainties, but about making available information quickly and accessibly to users."
+    ,
+    "faq": {
+      "title": "Frequently asked questions (FAQ)",
+      "q1": {
+        "question": "Is Europe for Palestine a political project?",
+        "answer": "No. Europe for Palestine is not affiliated with political parties or government organizations. It is an independent project run by volunteers, focused on defending human rights and building informational and awareness-raising technological tools."
+      },
+      "q2": {
+        "question": "What exactly is consumer-list.com?",
+        "answer": "consumer-list.com is a web application that displays lists of companies included in our public databases."
+      },
+      "q3": {
+        "question": "Why don't you explain why a company appears on a list?",
+        "answer": "To avoid misinterpretations and potential defamation issues, our databases only indicate a company's inclusion in a specific list without reproducing individual accusations."
+      },
+      "q4": {
+        "question": "Where do the data come from?",
+        "answer": "From public and verified sources. We cannot always link sources because, if they were defaming on their site, that act would compromise our organization. We are available to discuss new data sources by contacting manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Do you guarantee the information is completely accurate and always up to date?",
+        "answer": "No. It is not possible to guarantee absolute accuracy or immediate updates. We also cannot guarantee completeness of the databases. Some companies may appear in more databases than we currently cover."
+      },
+      "q6": {
+        "question": "What happens if a company changes its practices?",
+        "answer": "Updates depend on the availability and review of new information sources."
+      },
+      "q7": {
+        "question": "Does consumer-list.com replace the user's personal judgment?",
+        "answer": "No. It is an informational tool; the final decision always rests with the user."
+      },
+      "q8": {
+        "question": "What is Transparent?",
+        "answer": "Transparent is an expense tracker that lets you scan a purchase receipt to access all tracker features (avoiding manual entry of each product). Transparent provides information about each product's social impact and offers a simple expense tracker and a database of receipt photos (a receipt photo is often valid for a product refund)."
+      },
+      "q9": {
+        "question": "Who is behind the project?",
+        "answer": "A team of volunteers with diverse backgrounds in technology, communications, strategy and law. See the About us page."
+      },
+      "q10": {
+        "question": "How is the project funded?",
+        "answer": "Through voluntary contributions aimed at developing and maintaining the technological tools. See How to Help."
+      }
+    }
   },
   "apps": {
     "title": "Our apps",

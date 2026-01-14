@@ -21,7 +21,22 @@
     "newsletterPlaceholderEmail": "la tua email",
     "newsletterSending": "Invio...",
     "newsletterThankYou": "Grazie — controlla la tua email.",
-    "newsletterError": "Si è verificato un errore. Riprova più tardi."
+    "newsletterError": "Si è verificato un errore. Riprova più tardi.",
+    "transparencyTitle": "Trasparenza e limiti",
+    "transparencyDescription": "Europe for Palestine è un progetto indipendente guidato da volontari, senza affiliazioni a partiti politici o a società private. Il nostro lavoro è finanziato attraverso contributi volontari destinati allo sviluppo, alla manutenzione e al miglioramento degli strumenti tecnologici che creiamo, nonché ai costi necessari per garantirne il funzionamento responsabile. La trasparenza nell'uso delle risorse è un impegno centrale del progetto; puoi inviare le tue domande a manel@europeforpalestine.com\n\nAllo stesso modo, non garantiamo l'assoluta veridicità né l'immediato aggiornamento di tutte le informazioni raccolte. Lavoriamo con dati provenienti da fonti pubbliche e verificate e diamo sempre priorità a una revisione accurata e alla tutela legale rispetto alla rapidità o all'esaurienza.\n\nCrediamo che la trasparenza non consista nel promettere certezze impossibili, ma nel mettere le informazioni disponibili rapidamente e in modo accessibile nelle mani degli utenti.",
+    "faq": {
+      "title": "Domande frequenti (FAQ)",
+      "q1": { "question": "Europe for Palestine è un progetto politico?", "answer": "No. Europe for Palestine non è affiliato a partiti politici né a organizzazioni governative. È un progetto indipendente, portato avanti da volontari e focalizzato sulla difesa dei diritti umani e sullo sviluppo di strumenti tecnologici informativi e di sensibilizzazione." },
+      "q2": { "question": "Che cos'è esattamente consumer-list.com?", "answer": "consumer-list.com è un'applicazione web che mostra elenchi di aziende incluse nelle nostre banche dati pubbliche." },
+      "q3": { "question": "Perché non viene spiegato il motivo per cui un'azienda appare nella lista?", "answer": "Per evitare interpretazioni errate e potenziali situazioni di diffamazione, le nostre banche dati si limitano a indicare l'inclusione di un'azienda in una lista specifica senza riprodurre accuse individuali." },
+      "q4": { "question": "Da dove provengono i dati?", "answer": "Da fonti pubbliche e verificate. Non possiamo sempre collegare le fonti perché, se diffamassero sul loro sito, ciò comprometterebbe la nostra organizzazione. Siamo disponibili a discutere nuove fonti di dati contattando manel@europeforpalestine.com." },
+      "q5": { "question": "Garantite che le informazioni siano completamente veritiere e sempre aggiornate?", "answer": "No. Non è possibile garantire un'accuratezza assoluta né aggiornamenti immediati. Inoltre non possiamo garantire la completezza delle banche dati. Alcune aziende potrebbero comparire in più banche dati di quelle attualmente coperte." },
+      "q6": { "question": "Cosa succede se un'azienda cambia le sue pratiche?", "answer": "Gli aggiornamenti dipendono dalla disponibilità e dalla revisione di nuove fonti di informazione." },
+      "q7": { "question": "consumer-list.com sostituisce il giudizio personale dell'utente?", "answer": "No. È uno strumento informativo; la decisione finale spetta sempre all'utente." },
+      "q8": { "question": "Cos'è Transparent?", "answer": "Transparent è un tracker delle spese che permette di scansionare lo scontrino per ottenere tutte le funzionalità del tracker (senza inserimento manuale di ogni prodotto). Transparent fornisce informazioni sull'impatto sociale di ogni prodotto e offre un semplice tracker delle spese e un database di foto degli scontrini (una foto di uno scontrino è spesso valida per un rimborso)." },
+      "q9": { "question": "Chi c'è dietro il progetto?", "answer": "Un team di volontari con profili diversi in tecnologia, comunicazione, strategia e ambito legale. Vedi la pagina Chi siamo." },
+      "q10": { "question": "Come è finanziato il progetto?", "answer": "Attraverso contributi volontari destinati allo sviluppo e alla manutenzione degli strumenti tecnologici. Vedi Come aiutare." }
+    }
   },
   "apps": {
     "title": "Le nostre app",

@@ -93,7 +93,9 @@ const LandingLema: React.FC = () => {
             </Text>
 
             <a
-              href="/about-us"
+              href="https://consumer-list.com"
+              target="_blank"
+              rel="noopener noreferrer"
               style={{ marginTop: "1rem", textDecoration: "none" }}
             >
               <Button variant="primary" color="palestine">

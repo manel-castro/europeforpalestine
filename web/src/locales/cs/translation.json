@@ -19,7 +19,22 @@
     "newsletterPlaceholderEmail": "váš e-mail",
     "newsletterSending": "Odesílání...",
     "newsletterThankYou": "Děkujeme — zkontrolujte svůj e-mail.",
-    "newsletterError": "Došlo k chybě. Zkuste to znovu později."
+    "newsletterError": "Došlo k chybě. Zkuste to znovu později.",
+    "transparencyTitle": "Transparentnost a limity",
+    "transparencyDescription": "Europe for Palestine je nezávislý projekt provozovaný dobrovolníky bez vazeb na politické strany nebo soukromé korporace. Naši činnost financují dobrovolné příspěvky na vývoj, údržbu a zlepšování nástrojů, které vytváříme, a na pokrytí nákladů nezbytných k zajištění jejich odpovědného provozu. Transparentnost v používání zdrojů je základním závazkem projektu; své dotazy můžete poslat na manel@europeforpalestine.com\n\nStejně tak negarantujeme absolutní přesnost nebo okamžité aktualizace všech shromážděných informací. Pracujeme s daty z veřejných a ověřených zdrojů a vždy upřednostňujeme pečlivé přezkoumání a právní ochranu před rychlostí nebo vyčerpávajícností.\n\nVěříme, že transparentnost není o slibování nemožných jistot, ale o rychlém a dostupném zpřístupnění informací uživatelům.",
+    "faq": {
+      "title": "Často kladené otázky (FAQ)",
+      "q1": {"question": "Je Europe for Palestine politický projekt?", "answer": "Ne. Europe for Palestine není spojeno s politickými stranami nebo vládními organizacemi. Je to nezávislý projekt provozovaný dobrovolníky, zaměřený na obranu lidských práv a vytváření informačních a osvětových technologických nástrojů."},
+      "q2": {"question": "Co přesně je consumer-list.com?", "answer": "consumer-list.com je webová aplikace, která zobrazuje seznamy společností zahrnutých v našich veřejných databázích."},
+      "q3": {"question": "Proč nevysvětlujete, proč je společnost na seznamu?", "answer": "Abychom se vyhnuli nedorozuměním a možným případům pomluvy, naše databáze pouze uvádějí zařazení společnosti do konkrétního seznamu, aniž by reprodukovaly jednotlivá obvinění."},
+      "q4": {"question": "Odkud data pocházejí?", "answer": "Z veřejných a ověřených zdrojů. Nemůžeme vždy odkazovat na zdroje, protože pokud by obsahovaly pomlouvačné materiály, mohlo by to poškodit naši organizaci. Jsme k dispozici k diskusi o nových zdrojích dat na manel@europeforpalestine.com."},
+      "q5": {"question": "Zaručujete, že informace jsou zcela přesné a vždy aktuální?", "answer": "Ne. Není možné zaručit absolutní přesnost nebo okamžité aktualizace. Také negarantujeme úplnost databází. Některé společnosti se mohou objevit ve více databázích, než které v současné době pokrýváme."},
+      "q6": {"question": "Co se stane, když společnost změní své postupy?", "answer": "Aktualizace závisí na dostupnosti a kontrole nových zdrojů informací."},
+      "q7": {"question": "Nahrazuje consumer-list.com osobní úsudek uživatele?", "answer": "Ne. Je to informační nástroj; konečné rozhodnutí je vždy na uživateli."},
+      "q8": {"question": "Co je Transparent?", "answer": "Transparent je nástroj pro sledování výdajů, který umožňuje naskenovat účtenku a získat tak všechny funkce sledování (bez ručního zadávání každého produktu). Transparent poskytuje informace o společenském dopadu každého produktu a nabízí jednoduchý sledovač výdajů a databázi fotografií účtenek (fotografie účtenky je často platná pro vrácení produktu)."},
+      "q9": {"question": "Kdo stojí za projektem?", "answer": "Tým dobrovolníků s různorodým zázemím v technologii, komunikaci, strategii a právu. Viz stránka O nás."},
+      "q10": {"question": "Jak je projekt financován?", "answer": "Prostřednictvím dobrovolných příspěvků určených na vývoj a údržbu technologických nástrojů. Viz Jak pomoci."}
+    }
   },
   "apps": {
     "title": "Naše aplikace",

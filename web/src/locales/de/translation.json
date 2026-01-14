@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "deine E-Mail",
     "newsletterSending": "Senden...",
     "newsletterThankYou": "Danke — bitte überprüfe deine E-Mail.",
-    "newsletterError": "Es ist ein Fehler aufgetreten. Versuch es später noch einmal."
+    "newsletterError": "Es gab einen Fehler. Bitte versuche es später erneut.",
+    "transparencyTitle": "Transparenz und grenzen",
+    "faq": {
+      "title": "Häufige Fragen (FAQ)",
+      "q1": {
+        "question": "Ist Europe for Palestine ein politisches Projekt?",
+        "answer": "Nein. Europe for Palestine ist nicht mit politischen Parteien oder Regierungsorganisationen verbunden. Es ist ein unabhängiges Projekt, das von Freiwilligen betrieben wird und sich auf die Verteidigung der Menschenrechte sowie die Entwicklung informativer technologischer Werkzeuge konzentriert."
+      },
+      "q2": {
+        "question": "Was ist genau consumer-list.com?",
+        "answer": "consumer-list.com ist eine Webanwendung, die Listen von Unternehmen anzeigt, die in unseren öffentlichen Datenbanken aufgeführt sind."
+      },
+      "q3": {
+        "question": "Warum wird nicht erklärt, warum ein Unternehmen auf der Liste steht?",
+        "answer": "Um Fehlinterpretationen und mögliche Verleumdungsfälle zu vermeiden, beschränken sich unsere Datenbanken darauf, die Aufnahme eines Unternehmens in eine bestimmte Liste anzuzeigen, ohne einzelne Anschuldigungen zu reproduzieren."
+      },
+      "q4": {
+        "question": "Woher stammen die Daten?",
+        "answer": "Aus öffentlichen und verifizierten Quellen. Wir können nicht immer Quellen verlinken, da deren Inhalte, wenn sie verleumderisch wären, unsere Organisation belasten könnten. Wir sind verfügbar, um neue Datenquellen zu besprechen: manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garantieren Sie, dass die Informationen vollständig korrekt und stets auf dem neuesten Stand sind?",
+        "answer": "Nein. Es ist nicht möglich, absolute Genauigkeit oder sofortige Aktualisierungen zu garantieren. Ebenso können wir nicht die Vollständigkeit der Datenbanken garantieren. Einige Unternehmen können in mehr Datenbanken erscheinen, als wir derzeit abdecken."
+      },
+      "q6": {
+        "question": "Was passiert, wenn ein Unternehmen seine Praktiken ändert?",
+        "answer": "Aktualisierungen hängen von der Verfügbarkeit und Prüfung neuer Informationsquellen ab."
+      },
+      "q7": {
+        "question": "Ersetzt consumer-list.com das persönliche Urteil des Nutzers?",
+        "answer": "Nein. Es ist ein Informationswerkzeug; die endgültige Entscheidung liegt stets beim Nutzer."
+      },
+      "q8": {
+        "question": "Was ist Transparent?",
+        "answer": "Transparent ist ein Ausgaben-Tracker, mit dem Sie einfach den Kaufbeleg scannen können, um alle Funktionen des Trackers zu nutzen (ohne manuelle Eingabe jedes Produkts). Transparent bietet Informationen über die gesellschaftlichen Auswirkungen jedes Produkts und stellt einen einfachen Ausgaben-Tracker sowie eine Datenbank von Belegfotos bereit (ein Foto eines Belegs ist oft für eine Rückerstattung gültig)."
+      },
+      "q9": {
+        "question": "Wer steht hinter dem Projekt?",
+        "answer": "Ein Team von Freiwilligen mit unterschiedlichen Profilen in Technologie, Kommunikation, Strategie und Recht. Siehe Seite Über uns."
+      },
+      "q10": {
+        "question": "Wie wird das Projekt finanziert?",
+        "answer": "Durch freiwillige Beiträge zur Entwicklung und Wartung der technologischen Werkzeuge. Siehe Wie helfen."
+      }
+    },
+    "transparencyDescription": "Europe for Palestine ist ein unabhängiges Projekt, das von Freiwilligen betrieben wird und keine Verbindung zu politischen Parteien oder privaten Unternehmen hat. Unsere Arbeit wird durch freiwillige Beiträge finanziert, die der Entwicklung, Wartung und Verbesserung der von uns geschaffenen technologischen Werkzeuge sowie den Kosten dienen, die für ihren verantwortungsvollen Betrieb erforderlich sind. Transparenz bei der Verwendung von Ressourcen ist ein zentrales Anliegen des Projekts; Sie können Ihre Fragen an manel@europeforpalestine.com senden.\n\nEbenso garantieren wir nicht die absolute Richtigkeit oder die sofortige Aktualisierung aller gesammelten Informationen. Wir arbeiten mit Daten aus öffentlichen und überprüften Quellen und priorisieren stets sorgfältige Prüfung und rechtlichen Schutz gegenüber Schnelligkeit oder Vollständigkeit.\n\nWir glauben, dass Transparenz nicht darin besteht, unmögliche Gewissheiten zu versprechen, sondern die verfügbaren Informationen schnell und zugänglich in die Hände der Nutzer zu legen."
   },
   "apps": {
     "title": "Unsere Apps",

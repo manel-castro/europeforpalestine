@@ -21,7 +21,53 @@
     "newsletterPlaceholderEmail": "tu correo electrónico",
     "newsletterSending": "Enviando...",
     "newsletterThankYou": "Gracias — por favor revisa tu correo electrónico.",
-    "newsletterError": "Hubo un error. Inténtalo de nuevo más tarde."
+    "newsletterError": "Hubo un error. Inténtalo de nuevo más tarde.",
+    "transparencyTitle": "Transparencia y límites",
+    "transparencyDescription": "Europe for Palestine es un proyecto independiente, impulsado por personas voluntarias y sin afiliación a partidos políticos ni a corporaciones privadas. Nuestro trabajo se financia a través de aportaciones voluntarias destinadas al desarrollo, mantenimiento y mejora de las herramientas tecnológicas que creamos, así como a los costes necesarios para garantizar su funcionamiento responsable. La transparencia en el uso de los recursos es un compromiso central del proyecto; puedes enviar tus preguntas a manel@europeforpalestine.com\n\nDel mismo modo, no garantizamos la veracidad absoluta ni la actualización inmediata de toda la información recopilada. Trabajamos con datos procedentes de fuentes públicas y contrastadas, y priorizamos siempre la revisión cuidadosa y la protección legal frente a la rapidez o la exhaustividad.\n\nCreemos que la transparencia no consiste en prometer certezas imposibles, sino en poner la información disponible de forma rápida y accesible en manos de los usuarios."
+      ,
+      "faq": {
+        "title": "Preguntas frecuentes (FAQ)",
+        "q1": {
+          "question": "¿Europe for Palestine es un proyecto político?",
+          "answer": "No. Europe for Palestine no está afiliado a partidos políticos ni a organizaciones gubernamentales. Es un proyecto independiente, impulsado por personas voluntarias, centrado en la defensa de los derechos humanos y en el desarrollo de herramientas tecnológicas con fines informativos y de concienciación."
+        },
+        "q2": {
+          "question": "¿Qué es exactamente consumer-list.com?",
+          "answer": "consumer-list.com es una aplicación web que muestra listas de empresas incluidas en nuestras bases de datos públicas."
+        },
+        "q3": {
+          "question": "¿Por qué no se explica el motivo por el que una empresa aparece en la lista?",
+          "answer": "Para evitar interpretaciones erróneas y posibles situaciones de difamación, nuestras bases de datos se limitan a indicar la inclusión de una empresa en una lista concreta sin reproducir acusaciones individuales."
+        },
+        "q4": {
+          "question": "¿De dónde proceden los datos?",
+          "answer": "De fuentes públicas y contrastadas. No podemos vincular fuentes ya que si ellos estuvieran difamando en su web su delito contaminaría nuestra organización. Estamos disponibles para discutir sobre nuevas fuentes de datos poniéndose en contacto con manel@europeforpalestine.com."
+        },
+        "q5": {
+          "question": "¿Garantizáis que la información sea completamente veraz y esté siempre actualizada?",
+          "answer": "No. No es posible garantizar una veracidad absoluta ni una actualización inmediata. Así mismo tampoco garantizamos la completud de las bases de datos. Hay empresas que pueden aparecer en más bases de datos de las que actualmente se contempla."
+        },
+        "q6": {
+          "question": "¿Qué ocurre si una empresa cambia sus prácticas?",
+          "answer": "Las actualizaciones dependen de la disponibilidad y revisión de nuevas fuentes de información."
+        },
+        "q7": {
+          "question": "¿consumer-list.com sustituye al criterio personal del usuario?",
+          "answer": "No. Es una herramienta informativa; la decisión final corresponde siempre al usuario."
+        },
+        "q8": {
+          "question": "¿Qué es Transparent?",
+          "answer": "Transparent es un seguidor de gastos con la ventaja de que solo basta con escanear el ticket de compra para obtener toda la funcionalidad del seguidor de gastos (omitiendo introducción de datos manual sobre cada producto). Transparent ofrece información sobre cada producto relativo a su impacto en la sociedad, así como ofrecer la funcionalidad de un sencillo seguidor de gastos y base de datos de fotos de tickets de compra (una foto de un ticket suele ser valida para un reembolso de producto)."
+        },
+        "q9": {
+          "question": "¿Quién está detrás del proyecto?",
+          "answer": "Un equipo de personas voluntarias con perfiles diversos en tecnología, comunicación, estrategia y ámbito legal. Ver página Sobre nosotros."
+        },
+        "q10": {
+          "question": "¿Cómo se financia el proyecto?",
+          "answer": "Mediante aportaciones voluntarias destinadas al desarrollo y mantenimiento de las herramientas tecnológicas. Ver Cómo ayudar."
+        }
+      }
   },
   "apps": {
     "title": "Nuestras aplicaciones",

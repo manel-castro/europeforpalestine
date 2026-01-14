@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "seu e-mail",
     "newsletterSending": "Enviando...",
     "newsletterThankYou": "Obrigado — por favor verifique seu e-mail.",
-    "newsletterError": "Ocorreu um erro. Tente novamente mais tarde."
+    "newsletterError": "Ocorreu um erro. Tente novamente mais tarde.",
+    "transparencyTitle": "Transparência e limites",
+    "faq": {
+      "title": "Perguntas frequentes (FAQ)",
+      "q1": {
+        "question": "Europe for Palestine é um projeto político?",
+        "answer": "Não. Europe for Palestine não está afiliado a partidos políticos nem a organizações governamentais. É um projeto independente, conduzido por voluntários, focado na defesa dos direitos humanos e no desenvolvimento de ferramentas tecnológicas informativas e de sensibilização."
+      },
+      "q2": {
+        "question": "O que exatamente é o consumer-list.com?",
+        "answer": "consumer-list.com é uma aplicação web que mostra listas de empresas incluídas nas nossas bases de dados públicas."
+      },
+      "q3": {
+        "question": "Por que não se explica o motivo pelo qual uma empresa aparece na lista?",
+        "answer": "Para evitar interpretações erradas e possíveis situações de difamação, as nossas bases de dados limitam-se a indicar a inclusão de uma empresa numa lista concreta sem reproduzir acusações individuais."
+      },
+      "q4": {
+        "question": "De onde provêm os dados?",
+        "answer": "De fontes públicas e verificadas. Não podemos vincular as fontes porque, se elas estivessem a difamar no seu site, tal ato poderia comprometer a nossa organização. Estamos disponíveis para discutir novas fontes de dados através de manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garantem que a informação é completamente verdadeira e está sempre atualizada?",
+        "answer": "Não. Não é possível garantir a veracidade absoluta nem atualizações imediatas. Também não garantimos a completude das bases de dados. Há empresas que podem aparecer em mais bases de dados do que as que atualmente cobrimos."
+      },
+      "q6": {
+        "question": "O que acontece se uma empresa mudar as suas práticas?",
+        "answer": "As atualizações dependem da disponibilidade e da revisão de novas fontes de informação."
+      },
+      "q7": {
+        "question": "O consumer-list.com substitui o critério pessoal do utilizador?",
+        "answer": "Não. É uma ferramenta informativa; a decisão final cabe sempre ao utilizador."
+      },
+      "q8": {
+        "question": "O que é o Transparent?",
+        "answer": "Transparent é um rastreador de despesas que permite simplesmente digitalizar o talão de compra para aceder a todas as funcionalidades do rastreador (evitando a inserção manual de cada produto). O Transparent fornece informações sobre o impacto social de cada produto e oferece a funcionalidade de um simples rastreador de despesas e uma base de dados de fotos de talões (uma foto de um talão é frequentemente válida para um reembolso)."
+      },
+      "q9": {
+        "question": "Quem está por trás do projeto?",
+        "answer": "Uma equipa de voluntários com perfis diversos em tecnologia, comunicação, estratégia e âmbito jurídico. Ver página Sobre nós."
+      },
+      "q10": {
+        "question": "Como é financiado o projeto?",
+        "answer": "Através de contribuições voluntárias destinadas ao desenvolvimento e manutenção das ferramentas tecnológicas. Ver Como ajudar."
+      }
+    },
+    "transparencyDescription": "Europe for Palestine é um projeto independente, impulsionado por voluntários e sem afiliação a partidos políticos ou corporações privadas. Nosso trabalho é financiado por contribuições voluntárias destinadas ao desenvolvimento, manutenção e melhoria das ferramentas tecnológicas que criamos, bem como aos custos necessários para garantir seu funcionamento responsável. A transparência no uso dos recursos é um compromisso central do projeto; você pode enviar suas perguntas para manel@europeforpalestine.com\n\nDa mesma forma, não garantimos a veracidade absoluta nem a atualização imediata de todas as informações coletadas. Trabalhamos com dados procedentes de fontes públicas e verificadas, e priorizamos sempre a revisão cuidadosa e a proteção legal em vez da rapidez ou da exaustividade.\n\nAcreditamos que a transparência não consiste em prometer certezas impossíveis, mas em colocar a informação disponível de forma rápida e acessível nas mãos dos usuários."
   },
   "apps": {
     "title": "Nossos aplicativos",

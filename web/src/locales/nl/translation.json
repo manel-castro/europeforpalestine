@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "je e-mail",
     "newsletterSending": "Verzenden...",
     "newsletterThankYou": "Dank je — controleer je e-mail.",
-    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens."
+    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens.",
+    "transparencyTitle": "Transparantie en grenzen",
+    "faq": {
+      "title": "Veelgestelde vragen (FAQ)",
+      "q1": {
+        "question": "Is Europe for Palestine een politiek project?",
+        "answer": "Nee. Europe for Palestine is niet verbonden aan politieke partijen of overheidsorganisaties. Het is een onafhankelijk project dat door vrijwilligers wordt uitgevoerd en zich richt op de verdediging van mensenrechten en de ontwikkeling van informatieve technologische hulpmiddelen."
+      },
+      "q2": {
+        "question": "Wat is consumer-list.com precies?",
+        "answer": "consumer-list.com is een webapplicatie die lijsten van bedrijven toont die in onze openbare databases zijn opgenomen."
+      },
+      "q3": {
+        "question": "Waarom wordt niet uitgelegd waarom een bedrijf op de lijst staat?",
+        "answer": "Om misinterpretaties en mogelijke smaadzaken te vermijden, beperken onze databases zich tot het aangeven van de opname van een bedrijf in een bepaalde lijst zonder individuele beschuldigingen te reproduceren."
+      },
+      "q4": {
+        "question": "Waar komen de gegevens vandaan?",
+        "answer": "Van openbare en geverifieerde bronnen. We kunnen niet altijd bronnen linken omdat als deze op hun site zouden lasteren, dat onze organisatie zou schaden. We staan open om nieuwe gegevensbronnen te bespreken via manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garandeert u dat de informatie volledig juist en altijd up-to-date is?",
+        "answer": "Nee. Het is niet mogelijk om absolute juistheid of onmiddellijke updates te garanderen. We kunnen ook niet de volledigheid van de databases garanderen. Sommige bedrijven kunnen in meer databases voorkomen dan wij momenteel behandelen."
+      },
+      "q6": {
+        "question": "Wat gebeurt er als een bedrijf zijn praktijken verandert?",
+        "answer": "Updates hangen af van de beschikbaarheid en beoordeling van nieuwe informatiebronnen."
+      },
+      "q7": {
+        "question": "Vervangt consumer-list.com het persoonlijke oordeel van de gebruiker?",
+        "answer": "Nee. Het is een informatietool; de uiteindelijke beslissing ligt altijd bij de gebruiker."
+      },
+      "q8": {
+        "question": "Wat is Transparent?",
+        "answer": "Transparent is een uitgaven-tracker waarmee je eenvoudig een aankoopbon scant om alle functies van de tracker te gebruiken (zonder handmatige invoer van elk product). Transparent biedt informatie over de maatschappelijke impact van elk product en biedt een eenvoudige uitgaven-tracker en een database met bonfoto's (een foto van een bon is vaak geldig voor terugbetaling)."
+      },
+      "q9": {
+        "question": "Wie staat er achter het project?",
+        "answer": "Een team van vrijwilligers met diverse achtergronden in technologie, communicatie, strategie en recht. Zie de pagina Over ons."
+      },
+      "q10": {
+        "question": "Hoe wordt het project gefinancierd?",
+        "answer": "Door vrijwillige bijdragen voor de ontwikkeling en onderhoud van de technologische hulpmiddelen. Zie Hoe helpen."
+      }
+    },
+    "transparencyDescription": "Europe for Palestine is een onafhankelijk project dat wordt uitgevoerd door vrijwilligers zonder affiliatie met politieke partijen of particuliere bedrijven. Ons werk wordt gefinancierd door vrijwillige bijdragen voor de ontwikkeling, het onderhoud en de verbetering van de tools die we creëren, evenals de kosten die nodig zijn om hun verantwoorde werking te garanderen. Transparantie in het gebruik van middelen is een kernverplichting van het project; je kunt je vragen sturen naar manel@europeforpalestine.com\n\nEvenzo garanderen we niet de absolute juistheid of directe actualisering van alle verzamelde informatie. We werken met gegevens uit openbare en geverifieerde bronnen en geven altijd prioriteit aan zorgvuldige beoordeling en juridische bescherming boven snelheid of volledigheid.\n\nWe geloven dat transparantie niet betekent dat je onmogelijk zekerheden belooft, maar dat je informatie snel en toegankelijk beschikbaar stelt aan gebruikers."
   },
   "apps": {
     "title": "Onze apps",
