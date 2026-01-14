@@ -23,11 +23,16 @@ app.post("/subscribe", async (req, res) => {
   }
 
   try {
-    // if (!process.env.LISTMONK_API_KEY) {
-    //   throw new Error(
-    //     "LISTMONK_API_KEY is not set in the newsletter backend. Set LISTMONK_API_KEY to a valid listmonk API key."
-    //   );
-    // }
+    if (!process.env.LISTMONK_API_KEY) {
+      throw new Error(
+        "LISTMONK_API_KEY is not set in the newsletter backend. Set LISTMONK_API_KEY to a valid listmonk API key."
+      );
+    }
+    if (!process.env.LISTMONK_API_USER) {
+      throw new Error(
+        "LISTMONK_API_USER is not set in the newsletter backend. Set LISTMONK_API_USER to a valid listmonk API user."
+      );
+    }
     const result = await createSubscriber({
       email: parse.data.email,
       name: parse.data.name,

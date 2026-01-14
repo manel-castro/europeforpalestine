@@ -85,6 +85,7 @@ services:
     environment:
       LISTMONK_API_URL: "http://app:9000"
       LISTMONK_API_KEY: "${LISTMONK_API_KEY}"
+      LISTMONK_API_USER: "${LISTMONK_API_USER}"
       PORT: 4200
 
 networks:

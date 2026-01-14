@@ -9,18 +9,22 @@ export interface SubscriberPayload {
 
 const getBaseUrl = () => process.env.LISTMONK_API_URL || "http://listmonk:9000";
 const getApiKey = () => process.env.LISTMONK_API_KEY || "";
+const getApiUser = () => process.env.LISTMONK_API_USER || "";
 
 export async function createSubscriber(payload: SubscriberPayload) {
   const url = `${getBaseUrl().replace(/\/$/, "")}/api/subscribers`;
   const apiKey = getApiKey();
+  const apiUser = getApiUser();
   const headers: Record<string, string> = {
     "Content-Type": "application/json",
   };
   if (apiKey) {
-    // Use X-API-Key header (preferred for many listmonk setups).
-    // Avoid sending `Authorization: Bearer` as some listmonk builds reject unknown schemes.
-    headers["X-API-Key"] = apiKey;
+    // Per listmonk API docs, send the token using the `Authorization: Token <key>` header.
+    // Keep `X-API-Key` as a fallback for setups that accept it.
+    headers["Authorization"] = `token ${apiUser}:${apiKey}`;
   }
+
+  console.log("dbg1 apiKey: ", apiKey);
 
   const body = {
     subscribers: [
