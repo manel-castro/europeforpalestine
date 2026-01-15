@@ -90,17 +90,72 @@
     "title": "About us",
     "description": "Europe for Palestine is a project driven by volunteers with diverse backgrounds and a shared commitment to defending human rights. Our team brings together expertise in technology, communications, strategy and law, working collaboratively and transparently to develop digital tools in service of humanitarian causes. We share the conviction that collective action, grounded in responsibility and clarity, can help generate real impact.",
     "member1": {
-      "name": "John Doe",
-      "description": "Co-founder & Lead Developer"
+      "name": "Manel Castro",
+      "title": "Software engineer and Founder",
+      "description": "Manel is the founder of Europe for Palestine and leads the project's technological development. Driven by the belief that technology can serve human rights, he coordinates the initiative's overall vision and leads the development team, ensuring that every strategic and technical decision aligns with its humanitarian purpose. His work is guided by a commitment to contribute to a minimal global framework of human rights."
     },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Co-founder & Product Designer"
+      "name": "Ilias Otsman",
+      "title": "Full Stack Developer",
+      "description": "Ilias joined the project to contribute his technical skills as a developer, combining social impact with professional growth. He supports the development of features and technical solutions required by the initiative, approaching each challenge with a continuous learning mindset. His work is guided by a desire to improve, take on new challenges, and add value through technology.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Community Manager"
+    "sections": {
+      "developers": "Developers",
+      "designers": "Legal assistance",
+      "socialMedia": "Communication and social media"
     },
-    "meetFullTeam": "Meet the full team"
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Legal Assistant",
+      "description": "Lucia is part of Europe for Palestine driven by a strong commitment to human rights and the defence of human dignity. She contributes to the project through legal research, document analysis and support in legal initiatives, helping to ensure the initiative operates on responsible and rigorous foundations. Her work is guided by a compassionate outlook and the belief that the law can be a tool in service of people.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Communications Lead",
+      "description": "Elena is part of Europe for Palestine driven by her commitment to human rights and the belief that communication can help raise awareness and drive social change. She leads the project's communications area, defining the narrative, content strategy and digital presence, aiming to convey the initiative's purpose and values clearly, honestly and accessibly. Her work is guided by transparency and critical thinking.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "Content Creator"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Project Manager",
+      "description": "Martina is part of Europe for Palestine driven by a deep commitment to the Palestinian cause and the defence of human rights and social justice. She sees her involvement as a concrete and meaningful way to support a people whose rights and dignity continue to be violated. She contributes with her experience in fundraising and team coordination, working closely, collaboratively and adaptably. Her work is guided by equality and the recognition of all people as equals, without discrimination.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Strategist & Project Lead",
+      "description": "Fabian is part of the project motivated by the chance to turn a shared commitment to justice and equality into collective action. He contributes through strategic planning, team coordination and volunteer recruitment, helping to structure and grow the initiative sustainably. His work is guided by equality, respect for diversity and collaboration.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+    },
+    "mission": {
+      "title": "Why joining us?",
+      "description": "Join us in developing a world where companies and organizations respect human rights and other fundamental values of our society.",
+      "cards": {
+        "humanRights": {
+          "title": "Human rights",
+          "description": "Contribute with your work to develop human rights in a practical manner."
+        },
+        "volunteerDriven": {
+          "title": "Volunteer driven",
+          "description": "We only invest our free time and keep developing our profession."
+        },
+        "legallyAssisted": {
+          "title": "Legally assisted",
+          "description": "We take legal care of our public image, applications and databases."
+        }
+      }
+    },
+    "meetFullTeam": "Meet the full team",
+    "joinUs": {
+      "title": "Want to join us?",
+      "description": "Contact us on LinkedIn with a message attaching your curriculum vitae and telling us how you can help us.",
+      "button": "Connect on LinkedIn"
+    }
   }
 }

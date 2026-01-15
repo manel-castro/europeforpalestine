@@ -1,13 +1,27 @@
 import React, { useState } from "react";
+import linkedinLogo from "media/images/linkedin-logo.png";
 
 interface ProfileCardProps {
   imageUrl: string;
   name: string;
   title?: string;
+  description?: string;
+  linkedinUrl?: string;
+  getLinkedinUrl?: (name: string) => string;
 }
 
-const ProfileCard: React.FC<ProfileCardProps> = ({ imageUrl, name, title }) => {
+const ProfileCard: React.FC<ProfileCardProps> = ({
+  imageUrl,
+  name,
+  title,
+  description,
+  linkedinUrl,
+  getLinkedinUrl,
+}) => {
   const [hover, setHover] = useState(false);
+
+  const linkedin =
+    linkedinUrl || (getLinkedinUrl ? getLinkedinUrl(name) : undefined);
 
   return (
     <div
@@ -75,6 +89,20 @@ const ProfileCard: React.FC<ProfileCardProps> = ({ imageUrl, name, title }) => {
               textAlign: "left",
             }}
           >
+            {linkedin ? (
+              <a
+                href={linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ position: "absolute", top: 8, right: 8 }}
+              >
+                <img
+                  src={linkedinLogo}
+                  alt={`${name} LinkedIn`}
+                  style={{ width: 28, height: 28 }}
+                />
+              </a>
+            ) : null}
             {name}
           </div>
           {title ? (
@@ -103,10 +131,8 @@ const ProfileCard: React.FC<ProfileCardProps> = ({ imageUrl, name, title }) => {
               overflowY: "auto",
             }}
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            {description ||
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
           </div>
         </div>
       </div>

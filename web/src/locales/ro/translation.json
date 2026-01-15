@@ -12,6 +12,10 @@
     "meetUs": "Verifică bazele noastre de date",
     "databasesTitle": "Baza noastră de date",
     "databasesDescription": "Toate informațiile disponibile despre mărci și companii se bazează pe propriul nostru studiu independent și în niciun caz nu suntem legați de alte organizații. De asemenea, nu colaborăm în niciun fel cu nicio marcă sau companie listată în aplicațiile noastre. Scopul datelor pe care le colectăm este de a ajuta consumatorii să ia decizii informate.",
+    "howToHelpTitle": "Cum poți ajuta",
+    "howToHelpDescription": "Cu ajutorul tău acoperim costurile serverelor, campaniilor de informare și alte cheltuieli. Sprijină EuropeForPalestine acum.",
+    "transparencyTitle": "Transparență și limite",
+    "transparencyDescription": "Europe for Palestine este un proiect independent gestionat de voluntari, fără afiliere la partide politice sau corporații private. Activitatea noastră este finanțată prin contribuții voluntare pentru dezvoltarea, întreținerea și îmbunătățirea instrumentelor pe care le creăm, precum și pentru acoperirea costurilor necesare asigurării funcționării responsabile a acestora. Transparența în utilizarea resurselor este un angajament fundamental al proiectului; puteți trimite întrebări la manel@europeforpalestine.com\n\nÎn mod similar, nu garantăm acuratețea absolută sau actualizări imediate ale tuturor informațiilor colectate. Lucrăm cu date din surse publice și verificate și prioritizăm întotdeauna revizuirea atentă și protecția legală în fața vitezei sau exhaustivității.\n\nCredem că transparența nu înseamnă a promite certitudini imposibile, ci a pune la dispoziție informații rapid și accesibil pentru utilizatori.",
     "imageAlt": "Loc rezervat",
     "newsletterTitle": "Abonează-te la newsletterul nostru",
     "newsletterDescription": "Abonează-te la newsletterul nostru pentru a primi actualizări, date interesante despre branduri și altele.",
@@ -86,18 +90,77 @@
   "team": {
     "title": "Despre noi",
     "description": "Europe for Palestine este un proiect inițiat de voluntari cu profiluri diverse și un angajament comun pentru apărarea drepturilor omului. Echipă noastră reunește cunoștințe în tehnologie, comunicare, strategie și domeniul juridic, lucrând în mod colaborativ și transparent pentru a dezvolta instrumente digitale în serviciul cauzelor umanitare. Împărtășim convingerea că acțiunea colectivă, bazată pe responsabilitate și claritate, poate contribui la generarea unui impact real.",
-    "member1": {
-      "name": "John Doe",
-      "description": "Cofondator și dezvoltator principal"
-    },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Cofondator și designer de produs"
+      "name": "Ilias Otsman",
+      "title": "Dezvoltator Full Stack",
+      "description": "Ilias s-a alăturat proiectului pentru a contribui la cauză prin abilitățile sale tehnice ca dezvoltator, combinând impactul social cu creșterea profesională. Sprijină dezvoltarea funcționalităților și a soluțiilor tehnice necesare inițiativei, abordând fiecare provocare cu o atitudine de învățare continuă. Munca sa este ghidată de dorința de a se îmbunătăți, de a accepta noi provocări și de a aduce valoare prin tehnologie.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
+    },
+    "sections": {
+      "developers": "Dezvoltatori",
+      "designers": "Asistență juridică",
+      "socialMedia": "Comunicare și rețele sociale"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Asistent juridic",
+      "description": "Lucia face parte din Europe for Palestine, fiind animată de un ferm angajament pentru drepturile omului și apărarea demnității umane. Ea contribuie la proiect prin cercetare juridică, analiză documentară și sprijin în inițiative legale, contribuind la asigurarea faptului că inițiativa se dezvoltă pe baze responsabile și riguroase. Munca ei este ghidată de o viziune compasională și de convingerea că dreptul poate fi un instrument în slujba oamenilor.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Nadia Rahman",
+      "title": "Manager social media"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Manager de proiect",
+      "description": "Martina face parte din Europe for Palestine, motivată de un angajament profund față de cauza palestiniană și de apărarea drepturilor omului și a justiției sociale. Ea își vede implicarea în proiect ca pe o modalitate concretă și semnificativă de a sprijini un popor ale cărui drepturi și demnitate continuă să fie încălcate. Contribuie cu experiența sa în strângere de fonduri și coordonarea echipelor, lucrând apropiat, colaborativ și adaptabil. Munca ei este ghidată de egalitate și de recunoașterea tuturor oamenilor ca egali, fără discriminare.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Coordonatoare Comunicare",
+      "description": "Elena face parte din Europe for Palestine, fiind motivată de angajamentul său pentru drepturile omului și de convingerea că comunicarea poate contribui la creșterea conștientizării și la schimbarea socială. Ea conduce aria de comunicare a proiectului, definind narațiunea, strategia de conținut și prezența digitală, cu obiectivul de a transmite clar, onest și accesibil scopul și valorile inițiativei. Munca ei este ghidată de transparență și gândire critică.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "member1": {
+      "name": "Manel Castro",
+      "title": "Inginer software și fondator",
+      "description": "Manel este fondatorul Europe for Palestine și conduce dezvoltarea tehnologică a proiectului. Condus de convingerea că tehnologia poate fi pusă în slujba drepturilor omului, el coordonează viziunea globală a inițiativei și conduce echipa de dezvoltare, asigurându-se că fiecare decizie strategică și tehnică este aliniată scopului său umanitar. Munca sa este ghidată de angajamentul de a contribui la un cadru global minim al drepturilor omului."
     },
     "member3": {
       "name": "Alex Johnson",
       "description": "Manager comunitar"
     },
-    "meetFullTeam": "Cunoaște echipa întreagă"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Strateg și lider de proiect",
+      "description": "Fabian face parte din proiect, fiind motivat de posibilitatea de a transforma un angajament comun pentru justiție și egalitate în acțiune colectivă. Contribuie prin planificare strategică, coordonarea echipelor și recrutarea de voluntari, ajutând la structurarea și creșterea inițiativei într-un mod sustenabil. Munca sa este ghidată de egalitate, respect pentru diversitate și colaborare.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+    },
+    "mission": {
+      "title": "De ce să ni te alături?",
+      "description": "Alătură-te nouă pentru a dezvolta o lume în care companiile și organizațiile respectă drepturile omului și alte valori fundamentale ale societății noastre.",
+      "cards": {
+        "humanRights": {
+          "title": "Drepturile omului",
+          "description": "Contribuie cu munca ta la dezvoltarea practică a drepturilor omului."
+        },
+        "volunteerDriven": {
+          "title": "Condus de voluntari",
+          "description": "Investim doar timpul nostru liber și continuăm să ne dezvoltăm profesia."
+        },
+        "legallyAssisted": {
+          "title": "Asistență juridică",
+          "description": "Ne ocupăm din punct de vedere legal de imaginea noastră publică, aplicații și baze de date."
+        }
+      }
+    },
+    "meetFullTeam": "Cunoaște echipa întreagă",
+    "joinUs": {
+      "title": "Vrei să ni te alături?",
+      "description": "Contactează-ne pe LinkedIn cu un mesaj în care atașezi CV-ul și ne spui cum ne poți ajuta.",
+      "button": "Conectează-te pe LinkedIn"
+    }
   }
 }

@@ -91,16 +91,76 @@
     "description": "Europe for Palestine è un progetto portato avanti da volontari con profili diversi e un impegno comune per la difesa dei diritti umani. Il nostro team riunisce competenze in tecnologia, comunicazione, strategia e ambito legale, lavorando in modo collaborativo e trasparente per sviluppare strumenti digitali al servizio di cause umanitarie. Condividiamo la convinzione che l'azione collettiva, fondata sulla responsabilità e sulla chiarezza, possa contribuire a generare un impatto reale.",
     "member1": {
       "name": "John Doe",
-      "description": "Co-fondatore e Sviluppatore Capo"
+      "description": "Co-founder & Product Designer"
+    },
+    "sections": {
+      "developers": "Sviluppatori",
+      "designers": "Assistenza legale",
+      "socialMedia": "Comunicazione e social media"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Assistente legale",
+      "description": "Lucia fa parte di Europe for Palestine, spinta da un fermo impegno per i diritti umani e la difesa della dignità umana. Contribuisce al progetto attraverso ricerca giuridica, analisi documentale e supporto in iniziative legali, aiutando a garantire che l'iniziativa si sviluppi su basi responsabili e rigorose. Il suo lavoro è guidato da una visione compassionevole e dalla convinzione che il diritto possa essere uno strumento al servizio delle persone.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Responsabile Comunicazione",
+      "description": "Elena fa parte di Europe for Palestine, motivata dal suo impegno per i diritti umani e dalla convinzione che la comunicazione possa contribuire a generare consapevolezza e cambiamento sociale. Guida l'area comunicazione del progetto, definendo la narrazione, la strategia dei contenuti e la presenza digitale, con l'obiettivo di trasmettere in modo chiaro, onesto e accessibile lo scopo e i valori dell'iniziativa. Il suo lavoro è guidato dalla trasparenza e dal pensiero critico.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "Creatore di contenuti"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Responsabile di progetto",
+      "description": "Martina fa parte di Europe for Palestine, spinta da un profondo impegno per la causa palestinese e per la difesa dei diritti umani e della giustizia sociale. Considera la sua partecipazione al progetto come un modo concreto e significativo per sostenere un popolo i cui diritti e la dignità continuano a essere violati. Contribuisce con la sua esperienza nella raccolta fondi e nel coordinamento dei team, lavorando in modo vicino, collaborativo e adattabile. Il suo lavoro è guidato dall'uguaglianza e dal riconoscimento di tutte le persone come uguali, senza discriminazioni.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "member1": {
+      "name": "Manel Castro",
+      "title": "Ingegnere del software e fondatore",
+      "description": "Manel è il fondatore di Europe for Palestine e guida lo sviluppo tecnologico del progetto. Spinto dalla convinzione che la tecnologia possa servire i diritti umani, coordina la visione complessiva dell'iniziativa e dirige il team di sviluppo, assicurando che ogni decisione strategica e tecnica sia allineata al suo scopo umanitario. Il suo lavoro è guidato dall'impegno a contribuire a un quadro minimo globale dei diritti umani."
     },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Co-fondatrice e Designer di Prodotto"
+      "name": "Ilias Otsman",
+      "title": "Sviluppatore Full Stack",
+      "description": "Ilias si è unito al progetto con l'obiettivo di contribuire alla causa con le sue competenze tecniche come sviluppatore, combinando impatto sociale e crescita professionale. Supporta lo sviluppo di funzionalità e soluzioni tecniche necessarie per l'iniziativa, affrontando ogni sfida con un atteggiamento di apprendimento continuo. Il suo lavoro è guidato dalla volontà di migliorare, affrontare nuove sfide e apportare valore attraverso la tecnologia.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Responsabile Comunità"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Stratega e responsabile di progetto",
+      "description": "Fabian fa parte del progetto motivato dalla possibilità di trasformare un impegno condiviso per la giustizia e l'uguaglianza in azione collettiva. Contribuisce attraverso la pianificazione strategica, il coordinamento dei team e il reclutamento di volontari, aiutando a strutturare e far crescere l'iniziativa in modo sostenibile. Il suo lavoro è guidato dall'uguaglianza, dal rispetto della diversità e dalla collaborazione.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Incontra l'intero team"
+    "mission": {
+      "title": "Perché unirsi a noi?",
+      "description": "Unisciti a noi per sviluppare un mondo in cui aziende e organizzazioni rispettino i diritti umani e altri valori fondamentali della nostra società.",
+      "cards": {
+        "humanRights": {
+          "title": "Diritti umani",
+          "description": "Contribuisci con il tuo lavoro a sviluppare i diritti umani in modo pratico."
+        },
+        "volunteerDriven": {
+          "title": "Guidato da volontari",
+          "description": "Investiamo solo il nostro tempo libero e continuiamo a sviluppare la nostra professione."
+        },
+        "legallyAssisted": {
+          "title": "Assistenza legale",
+          "description": "Ci prendiamo cura legalmente della nostra immagine pubblica, delle applicazioni e dei database."
+        }
+      }
+    },
+    "meetFullTeam": "Incontra l'intero team",
+    "joinUs": {
+      "title": "Vuoi unirti a noi?",
+      "description": "Contattaci su LinkedIn con un messaggio allegando il tuo curriculum e dicendo come puoi aiutarci.",
+      "button": "Connettiti su LinkedIn"
+    }
   }
 }

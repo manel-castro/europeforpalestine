@@ -1,6 +1,5 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import LanguageSwitcher from "components/ui/LanguageSwitcher";
 import Button from "components/ui/Button";
 import BrandLogo from "components/ui/BrandLogo";
 import { useGetPadding } from "utils/useGetPadding";
@@ -36,10 +35,16 @@ const Navbar: React.FC = () => {
       <BrandLogo />
 
       <div style={rightContainerStyle}>
-        <LanguageSwitcher style={{}} />
-        <Button variant="primary" color="palestine">
-          {t("navbar.howToHelp")}
-        </Button>
+        <a
+          href="https://www.patreon.com/cw/EuropeForPalestine/membership"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: "none" }}
+        >
+          <Button variant="primary" color="palestine">
+            {t("buttons.donateNow")}
+          </Button>
+        </a>
       </div>
     </nav>
   );

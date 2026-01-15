@@ -1,9 +1,12 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import Text from "components/ui/Text";
 import Button from "components/ui/Button";
 import SectionWrapper from "./SectionWrapper";
 
 const TeamJoinUs: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
     <SectionWrapper>
       <div
@@ -16,7 +19,7 @@ const TeamJoinUs: React.FC = () => {
       >
         <div>
           <Text variant="title-h2" style={{ margin: 0 }}>
-            Want to join us?
+            {t("team.joinUs.title")}
           </Text>
         </div>
 
@@ -25,16 +28,21 @@ const TeamJoinUs: React.FC = () => {
             variant="description"
             style={{ margin: 0, lineHeight: 1.6, textAlign: "center" }}
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam.
+            {t("team.joinUs.description")}
           </Text>
         </div>
 
         <div>
-          <Button color="palestine" variant="primary">
-            Connect in Linkedin
-          </Button>
+          <a
+            href="https://www.linkedin.com/company/europeforpalestine/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ textDecoration: "none" }}
+          >
+            <Button color="palestine" variant="primary">
+              {t("team.joinUs.button")}
+            </Button>
+          </a>
         </div>
       </div>
     </SectionWrapper>

@@ -1,58 +1,78 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
+import manelImage from "media/images/about-us-manel.png";
+import iliasImage from "media/images/about-us-ilias.png";
+import luciaImage from "media/images/about-us-lucia.png";
+import fabianImage from "media/images/about-us-fabian.png";
+import martinaImage from "media/images/about-us-martina.png";
 import Text from "../../ui/Text";
 import SectionWrapper from "./SectionWrapper";
 import ProfileCard from "./ProfileCard";
 import ProfileCardsContainer from "./ProfileCardsContainer";
+import elenaImage from "media/images/about-us-elena.png";
 
 const TeamRoles: React.FC = () => {
+  const { t } = useTranslation();
   const developers = [
     {
-      name: "Alice Johnson",
-      title: "Frontend Engineer",
-      image:
-        "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80",
+      name: t("team.member1.name"),
+      title: t("team.member1.title"),
+      description: t("team.member1.description"),
+      image: manelImage,
+      linkedinUrl: "https://www.linkedin.com/in/manelcastro/",
     },
     {
-      name: "Mohamed Ali",
-      title: "Backend Engineer",
-      image:
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80",
-    },
-    {
-      name: "Sara Lee",
-      title: "Fullstack Engineer",
-      image:
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80",
+      name: t("team.member2.name", "Ilias Otsman"),
+      title: t("team.member2.title", "Full Stack Developer"),
+      description: t("team.member2.description", ""),
+      image: iliasImage,
+      linkedinUrl: "https://www.linkedin.com/in/ilias-otsman/",
     },
   ];
 
   const designers = [
     {
-      name: "Lina Gomez",
-      title: "Product Designer",
-      image:
-        "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&q=80",
-    },
-    {
-      name: "Tom Becker",
-      title: "UX Researcher",
-      image:
-        "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=800&q=80",
+      name: t("team.designer1.name", "Lucia Manca"),
+      description: t(
+        "team.designer1.description",
+        "Lucia is part of Europe for Palestine driven by a strong commitment to human rights and the defence of human dignity. She contributes to the project through legal research, document analysis and support in legal initiatives, helping to ensure the initiative operates on responsible and rigorous foundations. Her work is guided by a compassionate outlook and the belief that the law can be a tool in service of people."
+      ),
+      title: t("team.designer1.title", "Legal Assistant"),
+      image: luciaImage,
+      linkedinUrl: t(
+        "team.designer1.linkedin",
+        "http://linkedin.com/in/lucia-manca"
+      ),
     },
   ];
 
   const social = [
     {
-      name: "Nadia Rahman",
-      title: "Social Media Manager",
-      image:
-        "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=800&q=80",
+      name: t("team.social1.name", "Nadia Rahman"),
+      title: t("team.social1.title", "Social Media Manager"),
+      description: t(
+        "team.social1.description",
+        ""
+      ),
+      image: elenaImage,
+      linkedinUrl:
+        "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/",
+    },
+  ];
+
+  const coordinators = [
+    {
+      name: t("team.coordinator1.name", "Coordinator One"),
+      title: t("team.coordinator1.title", "Project Coordinator"),
+      description: t("team.coordinator1.description", "Project Coordinator"),
+      image: martinaImage,
+      linkedinUrl: "http://linkedin.com/in/martina-aulicino",
     },
     {
-      name: "Jason Kim",
-      title: "Content Creator",
-      image:
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&q=80",
+      name: t("team.coordinator2.name", "Coordinator Two"),
+      title: t("team.coordinator2.title", "Project Coordinator"),
+      description: t("team.coordinator2.description", "Project Coordinator"),
+      image: fabianImage,
     },
   ];
 
@@ -69,7 +89,7 @@ const TeamRoles: React.FC = () => {
               textAlign: "center",
             }}
           >
-            Developers
+            {t("team.sections.developers")}
           </Text>
           <ProfileCardsContainer>
             {developers.map((d) => (
@@ -78,6 +98,44 @@ const TeamRoles: React.FC = () => {
                 imageUrl={d.image}
                 name={d.name}
                 title={d.title}
+                description={d.description}
+                linkedinUrl={d.linkedinUrl}
+                getLinkedinUrl={(n) =>
+                  `https://www.linkedin.com/in/${encodeURIComponent(
+                    n.toString().trim().replace(/\s+/g, "-").toLowerCase()
+                  )}`
+                }
+              />
+            ))}
+          </ProfileCardsContainer>
+        </div>
+
+        {/* Project coordinator */}
+        <div style={{ textAlign: "center" }}>
+          <Text
+            variant="title-h2"
+            style={{
+              margin: 0,
+              marginBottom: "0.75rem",
+              textAlign: "center",
+            }}
+          >
+            {t("team.sections.projectCoordinator", "Project coordinator")}
+          </Text>
+          <ProfileCardsContainer>
+            {coordinators.map((c) => (
+              <ProfileCard
+                key={c.name}
+                imageUrl={c.image}
+                description={c.description}
+                name={c.name}
+                title={c.title}
+                linkedinUrl={c.linkedinUrl}
+                getLinkedinUrl={(n) =>
+                  `https://www.linkedin.com/in/${encodeURIComponent(
+                    n.toString().trim().replace(/\s+/g, "-").toLowerCase()
+                  )}`
+                }
               />
             ))}
           </ProfileCardsContainer>
@@ -93,7 +151,7 @@ const TeamRoles: React.FC = () => {
               textAlign: "center",
             }}
           >
-            Designers
+            {t("team.sections.designers")}
           </Text>
           <ProfileCardsContainer>
             {designers.map((d) => (
@@ -102,6 +160,13 @@ const TeamRoles: React.FC = () => {
                 imageUrl={d.image}
                 name={d.name}
                 title={d.title}
+                description={d.description}
+                linkedinUrl={d.linkedinUrl}
+                getLinkedinUrl={(n) =>
+                  `https://www.linkedin.com/in/${encodeURIComponent(
+                    n.toString().trim().replace(/\s+/g, "-").toLowerCase()
+                  )}`
+                }
               />
             ))}
           </ProfileCardsContainer>
@@ -117,7 +182,7 @@ const TeamRoles: React.FC = () => {
               textAlign: "center",
             }}
           >
-            Social media
+            {t("team.sections.socialMedia")}
           </Text>
           <ProfileCardsContainer>
             {social.map((d) => (
@@ -126,6 +191,13 @@ const TeamRoles: React.FC = () => {
                 imageUrl={d.image}
                 name={d.name}
                 title={d.title}
+                description={d.description}
+                linkedinUrl={d.linkedinUrl}
+                getLinkedinUrl={(n) =>
+                  `https://www.linkedin.com/in/${encodeURIComponent(
+                    n.toString().trim().replace(/\s+/g, "-").toLowerCase()
+                  )}`
+                }
               />
             ))}
           </ProfileCardsContainer>

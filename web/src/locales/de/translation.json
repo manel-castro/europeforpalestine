@@ -91,18 +91,74 @@
   "team": {
     "title": "Über uns",
     "description": "Europe for Palestine ist ein Projekt, das von Freiwilligen mit unterschiedlichen Profilen und einem gemeinsamen Engagement für die Verteidigung der Menschenrechte getragen wird. Unser Team vereint Fachwissen in Technologie, Kommunikation, Strategie und Recht und arbeitet kollaborativ und transparent an der Entwicklung digitaler Werkzeuge für humanitäre Zwecke. Wir sind überzeugt, dass kollektives Handeln, das auf Verantwortung und Klarheit beruht, dazu beitragen kann, echte Wirkung zu erzielen.",
+
+    "sections": {
+      "developers": "Entwickler",
+      "designers": "Rechtsberatung",
+      "socialMedia": "Kommunikation und soziale Medien"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Juristische Assistenz",
+      "description": "Lucia ist Teil von Europe for Palestine und wird von einem starken Engagement für die Menschenrechte und die Verteidigung der menschlichen Würde angetrieben. Sie trägt zum Projekt durch juristische Recherche, Dokumentenanalyse und Unterstützung bei rechtlichen Initiativen bei und hilft so sicherzustellen, dass die Initiative auf verantwortungsvollen und gründlichen Grundlagen arbeitet. Ihre Arbeit wird von Mitgefühl und der Überzeugung geleitet, dass Recht ein Instrument zum Wohl der Menschen sein kann.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Nadia Rahman",
+      "title": "Social-Media-Manager"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Projektleiterin",
+      "description": "Martina ist Teil von Europe for Palestine und wird von einem tiefen Engagement für die palästinensische Sache sowie der Verteidigung der Menschenrechte und der sozialen Gerechtigkeit angetrieben. Sie versteht ihre Beteiligung am Projekt als eine konkrete und sinnvolle Form der Unterstützung für ein Volk, dessen Rechte und Würde weiterhin verletzt werden. Sie trägt mit ihrer Erfahrung in der Mittelbeschaffung und der Teamkoordination bei und arbeitet eng, kollaborativ und anpassungsfähig. Ihre Arbeit wird von Gleichheit und der Anerkennung aller Menschen als Gleiche ohne Diskriminierung geleitet.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Leiterin Kommunikation",
+      "description": "Elena ist Teil von Europe for Palestine, motiviert durch ihr Engagement für die Menschenrechte und der Überzeugung, dass Kommunikation Bewusstsein schaffen und sozialen Wandel vorantreiben kann. Sie leitet den Kommunikationsbereich des Projekts, definiert die Erzählung, die Content‑Strategie und die digitale Präsenz, mit dem Ziel, Zweck und Werte der Initiative klar, ehrlich und zugänglich zu vermitteln. Ihre Arbeit ist von Transparenz und kritischem Denken geleitet.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
     "member1": {
-      "name": "John Doe",
-      "description": "Mitgründer & Leitender Entwickler"
+      "name": "Manel Castro",
+      "title": "Softwareentwickler und Gründer",
+      "description": "Manel ist der Gründer von Europe for Palestine und leitet die technologische Entwicklung des Projekts. Getrieben von der Überzeugung, dass Technologie den Menschenrechten dienen kann, koordiniert er die Gesamtvision der Initiative und führt das Entwicklungsteam, wobei er sicherstellt, dass jede strategische und technische Entscheidung mit ihrem humanitären Zweck übereinstimmt. Seine Arbeit wird von dem Engagement geleitet, zu einem minimalen globalen Rahmen für Menschenrechte beizutragen."
     },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Mitgründerin & Produktdesignerin"
+      "name": "Ilias Otsman",
+      "title": "Full-Stack-Entwickler",
+      "description": "Ilias ist dem Projekt beigetreten, um mit seinen technischen Fähigkeiten als Entwickler zur Sache beizutragen und sozialen Einfluss mit beruflichem Wachstum zu verbinden. Er unterstützt die Entwicklung von Funktionen und technischen Lösungen, die für die Initiative erforderlich sind, und geht jede Herausforderung mit einer Haltung des kontinuierlichen Lernens an. Seine Arbeit wird von dem Wunsch geleitet, sich zu verbessern, neue Herausforderungen anzunehmen und durch Technologie Mehrwert zu schaffen.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Community-Manager"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Stratege und Projektleiter",
+      "description": "Fabian ist Teil des Projekts und motiviert durch die Möglichkeit, ein gemeinsames Engagement für Gerechtigkeit und Gleichheit in kollektives Handeln umzuwandeln. Er trägt durch strategische Planung, Koordination von Teams und Rekrutierung von Freiwilligen dazu bei, die Initiative nachhaltig zu strukturieren und wachsen zu lassen. Seine Arbeit ist von Gleichheit, Respekt vor Vielfalt und Zusammenarbeit geleitet.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Das gesamte Team kennenlernen"
+    "mission": {
+      "title": "Warum bei uns mitmachen?",
+      "description": "Mach mit, um eine Welt zu entwickeln, in der Unternehmen und Organisationen die Menschenrechte und andere grundlegende Werte unserer Gesellschaft respektieren.",
+      "cards": {
+        "humanRights": {
+          "title": "Menschenrechte",
+          "description": "Trage mit deiner Arbeit zur praktischen Weiterentwicklung der Menschenrechte bei."
+        },
+        "volunteerDriven": {
+          "title": "Freiwillig betrieben",
+          "description": "Wir investieren nur unsere Freizeit und entwickeln weiterhin unsere beruflichen Fähigkeiten."
+        },
+        "legallyAssisted": {
+          "title": "Rechtliche Betreuung",
+          "description": "Wir kümmern uns rechtlich um unser öffentliches Erscheinungsbild, unsere Anwendungen und Datenbanken."
+        }
+      }
+    },
+    "meetFullTeam": "Das gesamte Team kennenlernen",
+    "joinUs": {
+      "title": "Möchten Sie sich uns anschließen?",
+      "description": "Kontaktieren Sie uns auf LinkedIn mit einer Nachricht, in der Sie Ihren Lebenslauf anhängen und uns mitteilen, wie Sie uns helfen können.",
+      "button": "Auf LinkedIn verbinden"
+    }
   }
 }

@@ -95,14 +95,73 @@
       "name": "John Doe",
       "description": "Co-fondateur et Développeur Principal"
     },
+    "sections": {
+      "developers": "Développeurs",
+      "designers": "Assistance juridique",
+      "socialMedia": "Communication et réseaux sociaux"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Assistante juridique",
+      "description": "Lucia fait partie d'Europe for Palestine, animée d'un solide engagement en faveur des droits humains et de la défense de la dignité humaine. Elle contribue au projet par la recherche juridique, l'analyse documentaire et le soutien aux initiatives juridiques, aidant à garantir que l'initiative s'appuie sur des bases responsables et rigoureuses. Son travail est guidé par une vision empreinte de compassion et la conviction que le droit peut être un outil au service des personnes.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Nadia Rahman",
+      "title": "Responsable des réseaux sociaux"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Cheffe de projet",
+      "description": "Martina fait partie d'Europe for Palestine, animée par un profond engagement envers la cause palestinienne et la défense des droits de l'homme et de la justice sociale. Elle considère sa participation au projet comme une manière concrète et significative de soutenir un peuple dont les droits et la dignité continuent d'être bafoués. Elle contribue par son expérience en collecte de fonds et en coordination d'équipes, en travaillant de manière proche, collaborative et adaptable. Son travail est guidé par l'égalité et la reconnaissance de toutes les personnes comme égales, sans discrimination.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Responsable communication",
+      "description": "Elena fait partie d'Europe for Palestine, motivée par son engagement en faveur des droits humains et par la conviction que la communication peut contribuer à sensibiliser et à provoquer un changement social. Elle dirige le pôle communication du projet, définissant la narration, la stratégie de contenu et la présence numérique, dans le but de transmettre de manière claire, honnête et accessible la finalité et les valeurs de l'initiative. Son travail est guidé par la transparence et la pensée critique.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "member1": {
+      "name": "Manel Castro",
+      "title": "Ingénieur logiciel et fondateur",
+      "description": "Manel est le fondateur d'Europe for Palestine et dirige le développement technologique du projet. Animé par la conviction que la technologie peut servir les droits humains, il coordonne la vision globale de l'initiative et dirige l'équipe de développement, veillant à ce que chaque décision stratégique et technique soit alignée sur son objectif humanitaire. Son travail est guidé par l'engagement de contribuer à un cadre mondial minimal des droits de l'homme."
+    },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Co-fondatrice et Designer Produit"
+      "name": "Ilias Otsman",
+      "title": "Développeur Full Stack",
+      "description": "Ilias a rejoint le projet dans le but d'apporter ses compétences techniques de développeur, en combinant impact social et développement professionnel. Il soutient le développement des fonctionnalités et des solutions techniques nécessaires à l'initiative, abordant chaque défi avec une attitude d'apprentissage continu. Son travail est guidé par la volonté de s'améliorer, de relever de nouveaux défis et d'apporter de la valeur par la technologie.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Gestionnaire de Communauté"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Stratège et chef de projet",
+      "description": "Fabian fait partie du projet, motivé par la possibilité de transformer un engagement partagé en faveur de la justice et de l'égalité en action collective. Il contribue par la planification stratégique, la coordination des équipes et le recrutement de bénévoles, aidant à structurer et à faire croître l'initiative de manière durable. Son travail est guidé par l'égalité, le respect de la diversité et la collaboration.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Rencontrez toute l'équipe"
+    "mission": {
+      "title": "Pourquoi nous rejoindre ?",
+      "description": "Rejoignez-nous pour construire un monde où entreprises et organisations respectent les droits humains et autres valeurs fondamentales de notre société.",
+      "cards": {
+        "humanRights": {
+          "title": "Droits humains",
+          "description": "Contribuez par votre travail au développement concret des droits humains."
+        },
+        "volunteerDriven": {
+          "title": "Conduit par des bénévoles",
+          "description": "Nous n'investissons que notre temps libre et continuons à développer notre profession."
+        },
+        "legallyAssisted": {
+          "title": "Assistance juridique",
+          "description": "Nous assurons la protection juridique de notre image publique, de nos applications et de nos bases de données."
+        }
+      }
+    },
+    "meetFullTeam": "Rencontrez toute l'équipe",
+    "joinUs": {
+      "title": "Vous voulez nous rejoindre ?",
+      "description": "Contactez-nous sur LinkedIn en envoyant un message avec votre CV et en expliquant comment vous pouvez nous aider.",
+      "button": "Se connecter sur LinkedIn"
+    }
   }
 }

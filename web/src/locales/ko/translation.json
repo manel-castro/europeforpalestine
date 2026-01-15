@@ -9,9 +9,11 @@
     "title": "한 푼 한 푼이 소중합니다",
     "description": "장보기 선택을 신중하게 조정하면 조직이 인권의 원칙과 우리 사회의 다른 기본 가치를 존중하는 세상을 만드는 데 도움이 됩니다.",
     "learnMore": "자세히 알아보기",
-    "meetUs": "만나보세요",
+    "meetUs": "데이터베이스를 확인하세요",
     "databasesTitle": "우리의 데이터베이스",
     "databasesDescription": "브랜드와 회사에 대한 모든 사용 가능한 정보는 우리의 독립적인 연구를 기반으로 하며 어떠한 경우에도 다른 조직과 연관되어 있지 않습니다. 또한 우리는 애플리케이션에 나열된 브랜드 및 회사와 어떠한 형태로도 협력하지 않습니다. 우리가 수집하는 데이터의 목적은 소비자가 정보에 입각한 결정을 내리는 데 도움을 주는 것입니다.",
+      "howToHelpTitle": "어떻게 도울 수 있나요",
+      "howToHelpDescription": "여러분의 도움은 서버 비용, 홍보 캠페인 및 기타 운영비를 충당하는 데 사용됩니다. 지금 Europe for Palestine를 도와주세요.",
     "imageAlt": "자리 표시자 이미지",
     "newsletterTitle": "뉴스레터 구독하기",
     "newsletterDescription": "뉴스레터를 구독하시면 업데이트, 브랜드에 대한 흥미로운 데이터 등을 받아보실 수 있습니다.",
@@ -87,17 +89,77 @@
     "title": "우리에 대해",
     "description": "Europe for Palestine는 다양한 배경의 자원봉사자들이 모여 디지털 도구와 커뮤니케이션 캠페인을 통해 인권을 옹호하는 프로젝트입니다. 우리 팀은 기술, 커뮤니케이션 및 전략 분야의 전문성을 결합하며, 협력적이고 투명하며 책임 있는 방식으로 의미 있는 집단적 영향을 만들어 내기 위해 일합니다.",
     "member1": {
-      "name": "John Doe",
-      "description": "공동 창립자 및 수석 개발자"
+      "name": "Manel Castro",
+      "title": "소프트웨어 엔지니어 및 창립자",
+      "description": "Manel은 Europe for Palestine의 창립자이며 프로젝트의 기술 개발을 이끌고 있습니다. 기술이 인권을 위해 사용될 수 있다는 신념에 이끌려, 그는 이니셔티브의 전체 비전을 조정하고 개발팀을 이끌며 모든 전략적·기술적 결정이 그 인도적 목적에 부합하도록 보장합니다. 그의 업무는 인권의 최소한의 글로벌 프레임워크에 기여하겠다는 약속에 의해 이끌립니다."
+    },
+
+    "sections": {
+      "developers": "개발자",
+      "designers": "법률 지원",
+      "socialMedia": "커뮤니케이션 및 소셜 미디어"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "법률 보조원",
+      "description": "Lucia는 인권과 인간 존엄성 수호에 대한 강한 의지를 바탕으로 Europe for Palestine의 일원입니다. 그녀는 법률 연구, 문서 분석 및 법적 이니셔티브 지원을 통해 프로젝트에 기여하며, 이니셔티브가 책임 있고 엄격한 기반 위에서 운영되도록 돕습니다. 그녀의 업무는 연민의 시각과 법이 사람들을 위한 도구가 될 수 있다는 신념에 의해 이끌립니다.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "커뮤니케이션 리드",
+      "description": "Elena는 인권에 대한 헌신과 커뮤니케이션이 인식 제고와 사회적 변화를 불러올 수 있다는 신념에 이끌려 Europe for Palestine의 일원이 되었습니다. 그녀는 프로젝트의 커뮤니케이션 분야를 이끌며 내러티브, 콘텐츠 전략 및 디지털 존재감을 정의하여 이니셔티브의 목적과 가치를 명확하고 정직하며 접근 가능하게 전달하는 것을 목표로 합니다. 그녀의 업무는 투명성과 비판적 사고에 의해 안내됩니다.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "콘텐츠 크리에이터"
     },
     "member2": {
       "name": "Jane Smith",
       "description": "공동 창립자 및 제품 디자이너"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "커뮤니티 매니저"
+    "member2": {
+      "name": "Ilias Otsman",
+      "title": "풀스택 개발자",
+      "description": "Ilias는 개발자로서의 기술적 역량을 바탕으로 사회적 영향과 직업적 성장을 결합해 프로젝트에 기여하고자 참여했습니다. 그는 이니셔티브에 필요한 기능 및 기술적 솔루션 개발을 지원하며, 각 과제에 지속적인 학습의 자세로 임합니다. 그의 업무는 개선하려는 의지, 새로운 도전 수용, 그리고 기술을 통한 가치 제공이라는 목표에 의해 이끌립니다.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "meetFullTeam": "전체 팀을 만나보세요"
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "프로젝트 매니저",
+      "description": "Martina는 Europe for Palestine의 일원으로, 팔레스타인 대의와 인권 및 사회 정의 수호에 깊은 헌신을 가지고 있습니다. 그녀는 프로젝트 참여를 권리와 존엄성이 계속 침해받는 사람들을 구체적이고 의미 있게 지원하는 방법으로 봅니다. 그녀는 기금 모금 및 팀 조정 경험을 바탕으로 긴밀하고 협력적이며 유연하게 기여합니다. 그녀의 업무는 평등과 모든 사람을 차별 없이 동등하게 인정하는 원칙에 의해 이끌립니다.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "전략가 및 프로젝트 리드",
+      "description": "Fabian은 정의와 평등에 대한 공동의 약속을 집단적 행동으로 전환할 수 있는 가능성에 이끌려 프로젝트에 참여했습니다. 그는 전략 기획, 팀 조정 및 자원봉사자 모집을 통해 기여하며, 이니셔티브를 지속 가능한 방식으로 구조화하고 성장시키는 데 도움을 줍니다. 그의 업무는 평등, 다양성 존중 및 협업을 중심으로 합니다.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+    },
+    "mission": {
+      "title": "왜 우리와 함께하나요?",
+      "description": "기업과 조직이 인권과 우리 사회의 다른 기본 가치를 존중하는 세상을 함께 만들어 갑니다.",
+      "cards": {
+        "humanRights": {
+          "title": "인권",
+          "description": "당신의 업무로 인권을 실질적으로 발전시키는 데 기여하세요."
+        },
+        "volunteerDriven": {
+          "title": "자원봉사자 중심",
+          "description": "우리는 오직 여가 시간을 투자하며 계속해서 우리의 전문성을 발전시킵니다."
+        },
+        "legallyAssisted": {
+          "title": "법적 지원",
+          "description": "우리는 우리의 공적 이미지, 애플리케이션 및 데이터베이스에 대해 법적 관리를 수행합니다."
+        }
+      }
+    },
+    "meetFullTeam": "전체 팀을 만나보세요",
+    "joinUs": {
+      "title": "함께하실래요?",
+      "description": "이력서를 첨부하고 어떻게 도울 수 있는지 알려주는 메시지를 LinkedIn으로 보내주세요.",
+      "button": "LinkedIn에서 연결하기"
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "logo": "LOGO",
+    "logo": "ロゴ",
     "howToHelp": "どうやって助けますか？"
   },
   "welcome": "ようこそ",
@@ -13,9 +13,11 @@
     "title": "どんな小さな額でも大切です",
     "description": "買い物の選択を慎重に行うことは、組織が人権の原則や私たちの社会の他の基本的な価値を尊重する世界を築くのに役立ちます。",
     "learnMore": "詳細を見る",
-    "meetUs": "私たちに会う",
+    "meetUs": "データベースを確認する",
     "databasesTitle": "私たちのデータベース",
     "databasesDescription": "ブランドや企業に関するすべての利用可能な情報は、私たち自身の独立した調査に基づいており、いかなる場合も他の組織とは関係がありません。同様に、当団体はアプリに記載されているブランドや企業と一切協力していません。収集するデータの目的は、消費者が情報に基づいた意思決定を行えるよう支援することです。",
+    "howToHelpTitle": "支援の方法",
+    "howToHelpDescription": "皆さまのご支援により、サーバー費用、広報キャンペーン、その他の経費を賄っています。今すぐ EuropeForPalestine を支援してください。",
     "imageAlt": "プレースホルダー画像",
     "newsletterTitle": "ニュースレターを購読する",
     "newsletterDescription": "ニュースレターを購読すると、更新情報やブランドに関する興味深いデータなどを受け取れます。",
@@ -75,31 +77,99 @@
     "description": "ブランドを識別し、社会的影響を追跡し、レシートを管理するためのモバイルツールをご利用ください。",
     "appName": "consumer-list.com",
     "appDescription": "consumer-list.comは、私たちのデータベースに含まれているブランドや企業を簡単に確認できるモバイルアプリです。検索バーを使用して、現在購入しているブランド名を見つけるだけで済みます。",
+    "app2Name": "トランスペアレント",
+    "app2Description": "Transparentは、支出の追跡やその消費に伴う社会的影響への認識を高めるためのツールとして設計されており、返品のための購入レシートの記録も行えます。",
     "availableOnAppStore": "App Storeで入手可能",
     "availableOnPlayStore": "Play Storeで入手可能"
   },
   "buttons": {
     "donateNow": "今すぐ寄付する 5€"
   },
+  "lema": {
+    "title": "スローガン",
+    "description": "Europe for Palestineは、政党や民間企業に所属しないプロジェクトです。私たちは単に、何十年にもわたってパレスチナの人々の人権が組織的に侵害されているのを無力に見てきた人々のグループです。これが私たちの結びつきであり、公正な人権に関する最低限の教育に貢献したいという私たちの主な志向です。"
+  },
   "app2": {
-    "app2Name": "Transparent",
+    "app2Name": "トランスペアレント",
     "app2Description": "Transparentは、支出の追跡やその消費に伴う社会的影響への認識を高めるためのツールとして設計されており、返品のための購入レシートの記録も行えます。"
   },
   "team": {
     "title": "私たちについて",
     "description": "Europe for Palestine は、さまざまな背景を持つボランティアが協力して人権を擁護するためのデジタルツールとコミュニケーションキャンペーンを展開するプロジェクトです。私たちのチームはテクノロジー、コミュニケーション、戦略における専門知識を結集し、協働的かつ透明で責任ある方法で有意義な影響を生み出すことを目指しています。",
     "member1": {
-      "name": "John Doe",
-      "description": "共同創設者兼リード開発者"
+      "name": "Manel Castro",
+      "title": "ソフトウェアエンジニア兼創設者",
+      "description": "ManelはEurope for Palestineの創設者であり、プロジェクトの技術開発を主導しています。技術が人権のために役立つという信念に駆られ、彼はイニシアチブの全体ビジョンを調整し、開発チームを率いて、あらゆる戦略的・技術的意思決定がその人道的目的と一致するようにしています。彼の仕事は、人権のための最低限の国際的枠組みに貢献するというコミットメントによって導かれています。"
     },
+
+    "sections": {
+      "developers": "開発者",
+      "designers": "法的支援",
+      "socialMedia": "コミュニケーションとソーシャルメディア"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "法務アシスタント",
+      "description": "LuciaはEurope for Palestineの一員であり、人権と人間の尊厳の擁護への強いコミットメントに動機づけられています。彼女は法的調査、文書分析、法的イニシアチブの支援を通じてプロジェクトに貢献し、イニシアチブが責任ある厳格な基盤の上で進められるようにしています。彼女の仕事は思いやりに満ちた視点と、法は人々のための道具になり得るという信念によって導かれています。",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "コミュニケーションリード",
+      "description": "ElenaはEurope for Palestineの一員であり、人権へのコミットメントと、コミュニケーションが意識向上や社会的変化を促進できるという信念に動機づけられています。彼女はプロジェクトのコミュニケーション領域を率い、ナラティブ、コンテンツ戦略、デジタルプレゼンスを定義し、イニシアチブの目的と価値を明確、誠実、かつアクセスしやすい形で伝えることを目指しています。彼女の仕事は透明性と批判的思考に導かれています。",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "コンテンツクリエイター"
+    },
+
     "member2": {
-      "name": "Jane Smith",
-      "description": "共同創設者兼プロダクトデザイナー"
+      "name": "Ilias Otsman",
+      "title": "フルスタック開発者",
+      "description": "Iliasは、開発者としての技術的スキルを活かしてプロジェクトに貢献し、社会的インパクトとプロフェッショナルな成長を両立させることを目的に参加しました。彼はイニシアチブに必要な機能や技術的ソリューションの開発を支援し、常に学び続ける姿勢で課題に取り組んでいます。彼の作業は、改善への意欲、新たな挑戦の受け入れ、そして技術を通じて価値を提供することに導かれています。",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "コミュニティマネージャー"
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "プロジェクトマネージャー",
+      "description": "MartinaはEurope for Palestineの一員であり、パレスチナの大義と人権および社会的正義の擁護への深いコミットメントに突き動かされています。彼女はプロジェクトへの関与を、権利や尊厳が今も侵害され続けている人々を具体的かつ意義ある形で支援する方法と見なしています。資金調達とチーム調整の経験を活かして貢献し、密接に、協力的に、柔軟に働いています。彼女の仕事は平等と、すべての人を差別なく同等に認めるという考えに導かれています。",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
     },
-    "meetFullTeam": "チーム全員に会う"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "ストラテジスト／プロジェクトリード",
+      "description": "Fabian は、正義と平等への共有されたコミットメントを集団的な行動に変える可能性に駆り立てられ、このプロジェクトに参加しています。彼は戦略的計画、チームの調整、ボランティアの募集を通じて貢献し、イニシアチブを持続可能な方法で構築・成長させるのを支援します。彼の仕事は、平等、多様性への敬意、協力によって導かれています。",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+    },
+    "mission": {
+      "title": "なぜ私たちに参加するのか？",
+      "description": "企業や組織が人権や社会の他の基本的価値を尊重する世界をともに築きましょう。",
+      "subscribeNow": "今すぐ購読",
+      "cards": {
+        "humanRights": {
+          "lema": {
+            "title": "スローガン",
+            "description": "Europe for Palestineは、政党や民間企業に所属しないプロジェクトです。私たちは単に、何十年にもわたってパレスチナの人々の人権が組織的に侵害されているのを無力に見てきた人々のグループです。これが私たちの結びつきであり、公正な人権に関する最低限の教育に貢献したいという私たちの主な志向です。"
+          },
+          "title": "人権",
+          "description": "あなたの仕事で人権の実践的な発展に貢献してください。"
+        },
+        "volunteerDriven": {
+          "title": "ボランティア主導",
+          "description": "私たちは自由な時間だけを投資し、専門性の向上を続けています。"
+        },
+        "legallyAssisted": {
+          "title": "法的支援",
+          "description": "私たちは公的イメージやアプリ、データベースの法的保護を行います。"
+        }
+      }
+    },
+    "meetFullTeam": "チーム全員に会う",
+    "joinUs": {
+      "title": "参加しませんか？",
+      "description": "履歴書を添付し、どのように貢献できるかを記載したメッセージをLinkedInでお送りください。",
+      "button": "LinkedInで接続"
+    }
   }
 }

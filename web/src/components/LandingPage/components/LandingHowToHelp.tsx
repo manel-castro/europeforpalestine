@@ -2,7 +2,7 @@ import React from "react";
 import Button from "../../ui/Button";
 import Text from "../../ui/Text";
 import { useTranslation } from "react-i18next";
-import handsUp from "media/images/hands-up.png";
+import handsGrab from "media/images/hands-grab.png";
 import { useIsWidthLessThan } from "../../../utils/useWindowSize";
 import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 
@@ -44,7 +44,7 @@ const LandingHowToHelp: React.FC = () => {
               }}
             >
               <img
-                src={handsUp}
+                src={handsGrab}
                 alt="how to help"
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
               />
@@ -78,9 +78,16 @@ const LandingHowToHelp: React.FC = () => {
               {t("landing.howToHelpDescription")}
             </Text>
 
-            <Button variant="primary" color="palestine">
-              {t("buttons.donateNow")}
-            </Button>
+            <a
+              href="https://www.patreon.com/cw/EuropeForPalestine/membership"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none" }}
+            >
+              <Button variant="primary" color="palestine">
+                {t("buttons.donateNow")}
+              </Button>
+            </a>
           </div>
         </section>
       </div>

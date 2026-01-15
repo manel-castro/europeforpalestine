@@ -9,6 +9,7 @@ const TeamAboutUs: React.FC = () => {
   return (
     <SectionWrapper>
       <Text
+        id="team-roles"
         variant="title-h2"
         style={{ fontSize: "2rem", fontWeight: 700, marginBottom: "1rem" }}
       >
