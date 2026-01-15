@@ -24,16 +24,46 @@
       "transparencyTitle": "Transparență și limite",
       "transparencyDescription": "Europe for Palestine este un proiect independent gestionat de voluntari, fără afiliere la partide politice sau corporații private. Activitatea noastră este finanțată prin contribuții voluntare pentru dezvoltarea, întreținerea și îmbunătățirea instrumentelor pe care le creăm, precum și pentru acoperirea costurilor necesare asigurării funcționării responsabile a acestora. Transparența în utilizarea resurselor este un angajament fundamental al proiectului; puteți trimite întrebări la manel@europeforpalestine.com\n\nÎn mod similar, nu garantăm acuratețea absolută sau actualizări imediate ale tuturor informațiilor colectate. Lucrăm cu date din surse publice și verificate și prioritizăm întotdeauna revizuirea atentă și protecția legală în fața vitezei sau exhaustivității.\n\nCredem că transparența nu înseamnă a promite certitudini imposibile, ci a pune la dispoziție informații rapid și accesibil pentru utilizatori.",
       "title": "Întrebări frecvente (FAQ)",
-      "q1": {"question": "Este Europe for Palestine un proiect politic?", "answer": "Nu. Europe for Palestine nu este afiliat partidelor politice sau organizațiilor guvernamentale. Este un proiect independent condus de voluntari, axat pe apărarea drepturilor omului și dezvoltarea de instrumente tehnologice informative și de conștientizare."},
-      "q2": {"question": "Ce este exact consumer-list.com?", "answer": "consumer-list.com este o aplicație web care afișează liste de companii incluse în bazele noastre de date publice."},
-      "q3": {"question": "De ce nu explicați motivul pentru care o companie apare pe listă?", "answer": "Pentru a evita interpretările greșite și posibilele cazuri de defăimare, bazele noastre de date se limitează la indicarea includerii unei companii într-o listă concretă, fără a reproduce acuzații individuale."},
-      "q4": {"question": "De unde provin datele?", "answer": "Din surse publice și verificate. Nu putem întotdeauna să legăm sursele deoarece dacă acestea ar publica defăimări pe site-urile lor, ar putea afecta organizația noastră. Suntem disponibili pentru a discuta noi surse de date la manel@europeforpalestine.com."},
-      "q5": {"question": "Garanțați că informațiile sunt complet exacte și întotdeauna actualizate?", "answer": "Nu. Nu este posibil să garantăm acuratețe absolută sau actualizări imediate. De asemenea, nu garantăm completitudinea bazelor de date. Unele companii pot apărea în mai multe baze de date decât cele pe care le acoperim în prezent."},
-      "q6": {"question": "Ce se întâmplă dacă o companie își schimbă practicile?", "answer": "Actualizările depind de disponibilitatea și revizuirea noilor surse de informații."},
-      "q7": {"question": "Înlocuiește consumer-list.com judecata personală a utilizatorului?", "answer": "Nu. Este un instrument informativ; decizia finală aparține întotdeauna utilizatorului."},
-      "q8": {"question": "Ce este Transparent?", "answer": "Transparent este un tracker de cheltuieli care îți permite să scanezi bonul de cumpărături pentru a folosi toate funcțiile tracker-ului (fără a introduce manual fiecare produs). Transparent oferă informații despre impactul social al fiecărui produs și oferă un tracker simplu de cheltuieli și o bază de date de fotografii ale bonurilor (o fotografie a bonului este adesea valabilă pentru returnarea produsului)."},
-      "q9": {"question": "Cine stă în spatele proiectului?", "answer": "O echipă de voluntari cu profiluri diverse în tehnologie, comunicare, strategie și domeniul juridic. Vezi pagina Despre noi."},
-      "q10": {"question": "Cum este finanțat proiectul?", "answer": "Prin contribuții voluntare destinate dezvoltării și întreținerii instrumentelor tehnologice. Vezi Cum poți ajuta."}
+      "q1": {
+        "question": "Este Europe for Palestine un proiect politic?",
+        "answer": "Nu. Europe for Palestine nu este afiliat partidelor politice sau organizațiilor guvernamentale. Este un proiect independent condus de voluntari, axat pe apărarea drepturilor omului și dezvoltarea de instrumente tehnologice informative și de conștientizare."
+      },
+      "q2": {
+        "question": "Ce este exact consumer-list.com?",
+        "answer": "consumer-list.com este o aplicație web care afișează liste de companii incluse în bazele noastre de date publice."
+      },
+      "q3": {
+        "question": "De ce nu explicați motivul pentru care o companie apare pe listă?",
+        "answer": "Pentru a evita interpretările greșite și posibilele cazuri de defăimare, bazele noastre de date se limitează la indicarea includerii unei companii într-o listă concretă, fără a reproduce acuzații individuale."
+      },
+      "q4": {
+        "question": "De unde provin datele?",
+        "answer": "Din surse publice și verificate. Nu putem întotdeauna să legăm sursele deoarece dacă acestea ar publica defăimări pe site-urile lor, ar putea afecta organizația noastră. Suntem disponibili pentru a discuta noi surse de date la manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garanțați că informațiile sunt complet exacte și întotdeauna actualizate?",
+        "answer": "Nu. Nu este posibil să garantăm acuratețe absolută sau actualizări imediate. De asemenea, nu garantăm completitudinea bazelor de date. Unele companii pot apărea în mai multe baze de date decât cele pe care le acoperim în prezent."
+      },
+      "q6": {
+        "question": "Ce se întâmplă dacă o companie își schimbă practicile?",
+        "answer": "Actualizările depind de disponibilitatea și revizuirea noilor surse de informații."
+      },
+      "q7": {
+        "question": "Înlocuiește consumer-list.com judecata personală a utilizatorului?",
+        "answer": "Nu. Este un instrument informativ; decizia finală aparține întotdeauna utilizatorului."
+      },
+      "q8": {
+        "question": "Ce este Transparent?",
+        "answer": "Transparent este un tracker de cheltuieli care îți permite să scanezi bonul de cumpărături pentru a folosi toate funcțiile tracker-ului (fără a introduce manual fiecare produs). Transparent oferă informații despre impactul social al fiecărui produs și oferă un tracker simplu de cheltuieli și o bază de date de fotografii ale bonurilor (o fotografie a bonului este adesea valabilă pentru returnarea produsului)."
+      },
+      "q9": {
+        "question": "Cine stă în spatele proiectului?",
+        "answer": "O echipă de voluntari cu profiluri diverse în tehnologie, comunicare, strategie și domeniul juridic. Vezi pagina Despre noi."
+      },
+      "q10": {
+        "question": "Cum este finanțat proiectul?",
+        "answer": "Prin contribuții voluntare destinate dezvoltării și întreținerii instrumentelor tehnologice. Vezi Cum poți ajuta."
+      }
     }
   },
   "apps": {

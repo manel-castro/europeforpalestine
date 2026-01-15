@@ -26,16 +26,46 @@
     "transparencyDescription": "Europe for Palestine to niezależny projekt prowadzony przez wolontariuszy, bez powiązań z partiami politycznymi ani prywatnymi korporacjami. Nasza praca jest finansowana poprzez dobrowolne składki na rozwój, utrzymanie i ulepszanie narzędzi, które tworzymy, oraz na pokrycie kosztów niezbędnych do zapewnienia ich odpowiedzialnego działania. Przejrzystość w wykorzystaniu zasobów jest podstawowym zobowiązaniem projektu; można wysyłać pytania na adres manel@europeforpalestine.com\n\nPodobnie nie gwarantujemy absolutnej dokładności ani natychmiastowych aktualizacji wszystkich zebranych informacji. Pracujemy z danymi pochodzącymi z publicznych i zweryfikowanych źródeł i zawsze priorytetyzujemy staranną weryfikację oraz ochronę prawną nad szybkością czy wyczerpującością.\n\nWierzymy, że przejrzystość nie polega na obiecywaniu niemożliwych pewników, lecz na szybkim i dostępnym udostępnianiu informacji użytkownikom.",
     "faq": {
       "title": "Najczęściej zadawane pytania (FAQ)",
-      "q1": {"question": "Czy Europe for Palestine to projekt polityczny?", "answer": "Nie. Europe for Palestine nie jest powiązane z partiami politycznymi ani organizacjami rządowymi. To niezależny projekt prowadzony przez wolontariuszy, skoncentrowany na obronie praw człowieka i tworzeniu narzędzi technologicznych do informowania i budowania świadomości."},
-      "q2": {"question": "Czym dokładnie jest consumer-list.com?", "answer": "consumer-list.com to aplikacja internetowa, która wyświetla listy firm uwzględnionych w naszych publicznych bazach danych."},
-      "q3": {"question": "Dlaczego nie wyjaśniacie, dlaczego firma pojawia się na liście?", "answer": "Aby uniknąć błędnych interpretacji i potencjalnych spraw o zniesławienie, nasze bazy danych ograniczają się do wskazania, że firma została uwzględniona w określonej liście, bez reprodukowania indywidualnych oskarżeń."},
-      "q4": {"question": "Skąd pochodzą dane?", "answer": "Z publicznych i zweryfikowanych źródeł. Nie zawsze możemy powiązać źródła, ponieważ gdyby publikowały treści zniesławiające, mogłoby to zaszkodzić naszej organizacji. Jesteśmy dostępni do omówienia nowych źródeł danych pod adresem manel@europeforpalestine.com."},
-      "q5": {"question": "Czy gwarantujecie, że informacje są całkowicie prawdziwe i zawsze aktualne?", "answer": "Nie. Nie jest możliwe zagwarantowanie absolutnej dokładności ani natychmiastowych aktualizacji. Nie gwarantujemy również kompletności baz danych. Niektóre firmy mogą występować w większej liczbie baz danych niż te, które obecnie obejmujemy."},
-      "q6": {"question": "Co się dzieje, jeśli firma zmieni swoje praktyki?", "answer": "Aktualizacje zależą od dostępności i przeglądu nowych źródeł informacji."},
-      "q7": {"question": "Czy consumer-list.com zastępuje osobisty osąd użytkownika?", "answer": "Nie. To narzędzie informacyjne; ostateczna decyzja zawsze należy do użytkownika."},
-      "q8": {"question": "Czym jest Transparent?", "answer": "Transparent to narzędzie do śledzenia wydatków, które pozwala zeskanować paragon, aby korzystać ze wszystkich funkcji trackera (bez ręcznego wprowadzania każdego produktu). Transparent dostarcza informacji o wpływie społecznym każdego produktu i oferuje prosty tracker wydatków oraz bazę danych zdjęć paragonów (zdjęcie paragonu często jest ważne do zwrotu produktu)."},
-      "q9": {"question": "Kto stoi za projektem?", "answer": "Zespół wolontariuszy o zróżnicowanych profilach w technologii, komunikacji, strategii i dziedzinie prawnej. Zobacz stronę O nas."},
-      "q10": {"question": "Jak finansowany jest projekt?", "answer": "Poprzez dobrowolne wkłady przeznaczone na rozwój i utrzymanie narzędzi technologicznych. Zobacz Jak pomóc."}
+      "q1": {
+        "question": "Czy Europe for Palestine to projekt polityczny?",
+        "answer": "Nie. Europe for Palestine nie jest powiązane z partiami politycznymi ani organizacjami rządowymi. To niezależny projekt prowadzony przez wolontariuszy, skoncentrowany na obronie praw człowieka i tworzeniu narzędzi technologicznych do informowania i budowania świadomości."
+      },
+      "q2": {
+        "question": "Czym dokładnie jest consumer-list.com?",
+        "answer": "consumer-list.com to aplikacja internetowa, która wyświetla listy firm uwzględnionych w naszych publicznych bazach danych."
+      },
+      "q3": {
+        "question": "Dlaczego nie wyjaśniacie, dlaczego firma pojawia się na liście?",
+        "answer": "Aby uniknąć błędnych interpretacji i potencjalnych spraw o zniesławienie, nasze bazy danych ograniczają się do wskazania, że firma została uwzględniona w określonej liście, bez reprodukowania indywidualnych oskarżeń."
+      },
+      "q4": {
+        "question": "Skąd pochodzą dane?",
+        "answer": "Z publicznych i zweryfikowanych źródeł. Nie zawsze możemy powiązać źródła, ponieważ gdyby publikowały treści zniesławiające, mogłoby to zaszkodzić naszej organizacji. Jesteśmy dostępni do omówienia nowych źródeł danych pod adresem manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Czy gwarantujecie, że informacje są całkowicie prawdziwe i zawsze aktualne?",
+        "answer": "Nie. Nie jest możliwe zagwarantowanie absolutnej dokładności ani natychmiastowych aktualizacji. Nie gwarantujemy również kompletności baz danych. Niektóre firmy mogą występować w większej liczbie baz danych niż te, które obecnie obejmujemy."
+      },
+      "q6": {
+        "question": "Co się dzieje, jeśli firma zmieni swoje praktyki?",
+        "answer": "Aktualizacje zależą od dostępności i przeglądu nowych źródeł informacji."
+      },
+      "q7": {
+        "question": "Czy consumer-list.com zastępuje osobisty osąd użytkownika?",
+        "answer": "Nie. To narzędzie informacyjne; ostateczna decyzja zawsze należy do użytkownika."
+      },
+      "q8": {
+        "question": "Czym jest Transparent?",
+        "answer": "Transparent to narzędzie do śledzenia wydatków, które pozwala zeskanować paragon, aby korzystać ze wszystkich funkcji trackera (bez ręcznego wprowadzania każdego produktu). Transparent dostarcza informacji o wpływie społecznym każdego produktu i oferuje prosty tracker wydatków oraz bazę danych zdjęć paragonów (zdjęcie paragonu często jest ważne do zwrotu produktu)."
+      },
+      "q9": {
+        "question": "Kto stoi za projektem?",
+        "answer": "Zespół wolontariuszy o zróżnicowanych profilach w technologii, komunikacji, strategii i dziedzinie prawnej. Zobacz stronę O nas."
+      },
+      "q10": {
+        "question": "Jak finansowany jest projekt?",
+        "answer": "Poprzez dobrowolne wkłady przeznaczone na rozwój i utrzymanie narzędzi technologicznych. Zobacz Jak pomóc."
+      }
     }
   },
   "apps": {

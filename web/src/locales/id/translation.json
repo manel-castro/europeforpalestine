@@ -21,21 +21,51 @@
     "newsletterPlaceholderEmail": "email Anda",
     "newsletterSending": "Mengirim...",
     "newsletterThankYou": "Terima kasih — silakan periksa email Anda.",
-      "newsletterError": "Terjadi sebuah kesalahan. Coba lagi nanti",
-      "transparencyTitle": "Transparansi dan batasan",
-      "transparencyDescription": "Europe for Palestine adalah proyek independen yang dijalankan oleh relawan tanpa afiliasi dengan partai politik atau korporasi swasta. Pekerjaan kami didanai melalui kontribusi sukarela untuk pengembangan, pemeliharaan, dan perbaikan alat yang kami buat, serta untuk menutup biaya yang diperlukan agar operasionalnya bertanggung jawab. Transparansi dalam penggunaan sumber daya adalah komitmen inti proyek; Anda dapat mengirim pertanyaan ke manel@europeforpalestine.com\n\nDemikian pula, kami tidak menjamin akurasi mutlak atau pembaruan instan dari semua informasi yang dikumpulkan. Kami bekerja dengan data dari sumber publik dan terverifikasi, dan kami selalu mengutamakan tinjauan hati-hati dan perlindungan hukum daripada kecepatan atau kelengkapan.\n\nKami percaya bahwa transparansi bukan tentang menjanjikan kepastian yang mustahil, melainkan tentang menyediakan informasi dengan cepat dan dapat diakses bagi pengguna.",
+    "newsletterError": "Terjadi sebuah kesalahan. Coba lagi nanti",
+    "transparencyTitle": "Transparansi dan batasan",
+    "transparencyDescription": "Europe for Palestine adalah proyek independen yang dijalankan oleh relawan tanpa afiliasi dengan partai politik atau korporasi swasta. Pekerjaan kami didanai melalui kontribusi sukarela untuk pengembangan, pemeliharaan, dan perbaikan alat yang kami buat, serta untuk menutup biaya yang diperlukan agar operasionalnya bertanggung jawab. Transparansi dalam penggunaan sumber daya adalah komitmen inti proyek; Anda dapat mengirim pertanyaan ke manel@europeforpalestine.com\n\nDemikian pula, kami tidak menjamin akurasi mutlak atau pembaruan instan dari semua informasi yang dikumpulkan. Kami bekerja dengan data dari sumber publik dan terverifikasi, dan kami selalu mengutamakan tinjauan hati-hati dan perlindungan hukum daripada kecepatan atau kelengkapan.\n\nKami percaya bahwa transparansi bukan tentang menjanjikan kepastian yang mustahil, melainkan tentang menyediakan informasi dengan cepat dan dapat diakses bagi pengguna.",
     "faq": {
       "title": "Pertanyaan yang Sering Diajukan (FAQ)",
-      "q1": { "question": "Apakah Europe for Palestine proyek politik?", "answer": "Tidak. Europe for Palestine tidak berafiliasi dengan partai politik atau organisasi pemerintah. Ini adalah proyek independen yang dijalankan oleh relawan, berfokus pada pembelaan hak asasi manusia dan pengembangan alat teknologi untuk tujuan informasi dan kesadaran." },
-      "q2": { "question": "Apa sebenarnya consumer-list.com?", "answer": "consumer-list.com adalah aplikasi web yang menampilkan daftar perusahaan yang termasuk dalam basis data publik kami." },
-      "q3": { "question": "Mengapa tidak dijelaskan alasan sebuah perusahaan muncul dalam daftar?", "answer": "Untuk menghindari salah tafsir dan kemungkinan kasus pencemaran nama baik, basis data kami hanya menunjukkan inklusi sebuah perusahaan dalam daftar tertentu tanpa mereproduksi tuduhan individual." },
-      "q4": { "question": "Dari mana data berasal?", "answer": "Dari sumber publik dan terverifikasi. Kami tidak selalu dapat menautkan sumber karena jika mereka melakukan pencemaran nama baik di situs mereka, hal itu dapat mencemarkan organisasi kami. Kami tersedia untuk mendiskusikan sumber data baru di manel@europeforpalestine.com." },
-      "q5": { "question": "Apakah Anda menjamin informasi sepenuhnya benar dan selalu diperbarui?", "answer": "Tidak. Tidak mungkin menjamin kebenaran mutlak atau pembaruan langsung. Kami juga tidak menjamin kelengkapan basis data. Beberapa perusahaan mungkin muncul di lebih banyak basis data daripada yang saat ini kami liput." },
-      "q6": { "question": "Apa yang terjadi jika sebuah perusahaan mengubah praktiknya?", "answer": "Pembaruan bergantung pada ketersediaan dan peninjauan sumber informasi baru." },
-      "q7": { "question": "Apakah consumer-list.com menggantikan penilaian pribadi pengguna?", "answer": "Tidak. Ini adalah alat informatif; keputusan akhir selalu berada di tangan pengguna." },
-      "q8": { "question": "Apa itu Transparent?", "answer": "Transparent adalah pelacak pengeluaran yang memungkinkan Anda memindai struk pembelian untuk menggunakan semua fungsi pelacak (tanpa memasukkan setiap produk secara manual). Transparent memberikan informasi tentang dampak sosial setiap produk dan menawarkan pelacak pengeluaran sederhana serta basis data foto struk (foto struk seringkali valid untuk pengembalian produk)." },
-      "q9": { "question": "Siapa yang berada di balik proyek ini?", "answer": "Tim relawan dengan latar belakang beragam dalam teknologi, komunikasi, strategi, dan bidang hukum. Lihat halaman Tentang kami." },
-      "q10": { "question": "Bagaimana proyek ini dibiayai?", "answer": "Melalui kontribusi sukarela yang ditujukan untuk pengembangan dan pemeliharaan alat teknologi. Lihat Bagaimana membantu." }
+      "q1": {
+        "question": "Apakah Europe for Palestine proyek politik?",
+        "answer": "Tidak. Europe for Palestine tidak berafiliasi dengan partai politik atau organisasi pemerintah. Ini adalah proyek independen yang dijalankan oleh relawan, berfokus pada pembelaan hak asasi manusia dan pengembangan alat teknologi untuk tujuan informasi dan kesadaran."
+      },
+      "q2": {
+        "question": "Apa sebenarnya consumer-list.com?",
+        "answer": "consumer-list.com adalah aplikasi web yang menampilkan daftar perusahaan yang termasuk dalam basis data publik kami."
+      },
+      "q3": {
+        "question": "Mengapa tidak dijelaskan alasan sebuah perusahaan muncul dalam daftar?",
+        "answer": "Untuk menghindari salah tafsir dan kemungkinan kasus pencemaran nama baik, basis data kami hanya menunjukkan inklusi sebuah perusahaan dalam daftar tertentu tanpa mereproduksi tuduhan individual."
+      },
+      "q4": {
+        "question": "Dari mana data berasal?",
+        "answer": "Dari sumber publik dan terverifikasi. Kami tidak selalu dapat menautkan sumber karena jika mereka melakukan pencemaran nama baik di situs mereka, hal itu dapat mencemarkan organisasi kami. Kami tersedia untuk mendiskusikan sumber data baru di manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Apakah Anda menjamin informasi sepenuhnya benar dan selalu diperbarui?",
+        "answer": "Tidak. Tidak mungkin menjamin kebenaran mutlak atau pembaruan langsung. Kami juga tidak menjamin kelengkapan basis data. Beberapa perusahaan mungkin muncul di lebih banyak basis data daripada yang saat ini kami liput."
+      },
+      "q6": {
+        "question": "Apa yang terjadi jika sebuah perusahaan mengubah praktiknya?",
+        "answer": "Pembaruan bergantung pada ketersediaan dan peninjauan sumber informasi baru."
+      },
+      "q7": {
+        "question": "Apakah consumer-list.com menggantikan penilaian pribadi pengguna?",
+        "answer": "Tidak. Ini adalah alat informatif; keputusan akhir selalu berada di tangan pengguna."
+      },
+      "q8": {
+        "question": "Apa itu Transparent?",
+        "answer": "Transparent adalah pelacak pengeluaran yang memungkinkan Anda memindai struk pembelian untuk menggunakan semua fungsi pelacak (tanpa memasukkan setiap produk secara manual). Transparent memberikan informasi tentang dampak sosial setiap produk dan menawarkan pelacak pengeluaran sederhana serta basis data foto struk (foto struk seringkali valid untuk pengembalian produk)."
+      },
+      "q9": {
+        "question": "Siapa yang berada di balik proyek ini?",
+        "answer": "Tim relawan dengan latar belakang beragam dalam teknologi, komunikasi, strategi, dan bidang hukum. Lihat halaman Tentang kami."
+      },
+      "q10": {
+        "question": "Bagaimana proyek ini dibiayai?",
+        "answer": "Melalui kontribusi sukarela yang ditujukan untuk pengembangan dan pemeliharaan alat teknologi. Lihat Bagaimana membantu."
+      }
     }
   },
   "apps": {

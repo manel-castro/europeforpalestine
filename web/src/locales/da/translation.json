@@ -24,16 +24,46 @@
     "transparencyDescription": "Europe for Palestine er et uafhængigt projekt drevet af frivillige uden tilknytning til politiske partier eller private virksomheder. Vores arbejde finansieres gennem frivillige bidrag til udvikling, vedligeholdelse og forbedring af de værktøjer, vi skaber, samt til dækning af de omkostninger, der er nødvendige for at sikre deres ansvarlige drift. Gennemsigtighed i brugen af ressourcer er et centralt engagement i projektet; du kan sende dine spørgsmål til manel@europeforpalestine.com\n\nTilsvarende garanterer vi ikke absolut nøjagtighed eller øjeblikkelige opdateringer af alle indsamlede oplysninger. Vi arbejder med data fra offentlige og verificerede kilder, og vi prioriterer altid omhyggelig gennemgang og juridisk beskyttelse frem for hastighed eller udtømmende dækning.\n\nVi mener, at gennemsigtighed ikke handler om at love umulige sikkerheder, men om at gøre information hurtigt og tilgængelig for brugerne.",
     "faq": {
       "title": "Ofte stillede spørgsmål (FAQ)",
-      "q1": {"question": "Er Europe for Palestine et politisk projekt?", "answer": "Nej. Europe for Palestine er ikke tilknyttet politiske partier eller offentlige organisationer. Det er et uafhængigt projekt drevet af frivillige, med fokus på forsvaret af menneskerettigheder og udvikling af oplysende og opmærksomhedsskabende teknologiske værktøjer."},
-      "q2": {"question": "Hvad er consumer-list.com præcist?", "answer": "consumer-list.com er en webapplikation, der viser lister over virksomheder, der er inkluderet i vores offentlige databaser."},
-      "q3": {"question": "Hvorfor forklarer I ikke, hvorfor en virksomhed er på listen?", "answer": "For at undgå fejltolkninger og potentielle ærekrænkelsessager begrænser vores databaser sig til at angive en virksomheds inklusion på en given liste uden at gengive individuelle anklager."},
-      "q4": {"question": "Hvor kommer dataene fra?", "answer": "Fra offentlige og verificerede kilder. Vi kan ikke altid linke til kilderne, for hvis de offentliggjorde ærekrænkende indhold på deres side, kunne det skade vores organisation. Vi er tilgængelige for at diskutere nye datakilder via manel@europeforpalestine.com."},
-      "q5": {"question": "Garanterer I, at oplysningerne er fuldstændigt korrekte og altid opdaterede?", "answer": "Nej. Det er ikke muligt at garantere absolut nøjagtighed eller øjeblikkelige opdateringer. Vi garanterer heller ikke fuldstændigheden af databaserne. Nogle virksomheder kan forekomme i flere databaser, end vi aktuelt dækker."},
-      "q6": {"question": "Hvad sker der, hvis en virksomhed ændrer sine praksisser?", "answer": "Opdateringer afhænger af tilgængeligheden og gennemgangen af nye informationskilder."},
-      "q7": {"question": "Erstatter consumer-list.com brugerens personlige vurdering?", "answer": "Nej. Det er et informationsværktøj; den endelige beslutning ligger altid hos brugeren."},
-      "q8": {"question": "Hvad er Transparent?", "answer": "Transparent er en udgiftssporingsapp, der lader dig scanne en kvittering for at få adgang til alle tracker-funktioner (uden manuel indtastning af hvert produkt). Transparent giver oplysninger om hvert produkts sociale påvirkning og tilbyder en simpel udgiftssporer og en database med kvitteringsfotos (et kvitteringsfoto er ofte gyldigt til refusion)."},
-      "q9": {"question": "Hvem står bag projektet?", "answer": "Et team af frivillige med forskellig baggrund inden for teknologi, kommunikation, strategi og jura. Se siden Om os."},
-      "q10": {"question": "Hvordan finansieres projektet?", "answer": "Gennem frivillige bidrag til udvikling og vedligeholdelse af de teknologiske værktøjer. Se Hvordan hjælpe."}
+      "q1": {
+        "question": "Er Europe for Palestine et politisk projekt?",
+        "answer": "Nej. Europe for Palestine er ikke tilknyttet politiske partier eller offentlige organisationer. Det er et uafhængigt projekt drevet af frivillige, med fokus på forsvaret af menneskerettigheder og udvikling af oplysende og opmærksomhedsskabende teknologiske værktøjer."
+      },
+      "q2": {
+        "question": "Hvad er consumer-list.com præcist?",
+        "answer": "consumer-list.com er en webapplikation, der viser lister over virksomheder, der er inkluderet i vores offentlige databaser."
+      },
+      "q3": {
+        "question": "Hvorfor forklarer I ikke, hvorfor en virksomhed er på listen?",
+        "answer": "For at undgå fejltolkninger og potentielle ærekrænkelsessager begrænser vores databaser sig til at angive en virksomheds inklusion på en given liste uden at gengive individuelle anklager."
+      },
+      "q4": {
+        "question": "Hvor kommer dataene fra?",
+        "answer": "Fra offentlige og verificerede kilder. Vi kan ikke altid linke til kilderne, for hvis de offentliggjorde ærekrænkende indhold på deres side, kunne det skade vores organisation. Vi er tilgængelige for at diskutere nye datakilder via manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garanterer I, at oplysningerne er fuldstændigt korrekte og altid opdaterede?",
+        "answer": "Nej. Det er ikke muligt at garantere absolut nøjagtighed eller øjeblikkelige opdateringer. Vi garanterer heller ikke fuldstændigheden af databaserne. Nogle virksomheder kan forekomme i flere databaser, end vi aktuelt dækker."
+      },
+      "q6": {
+        "question": "Hvad sker der, hvis en virksomhed ændrer sine praksisser?",
+        "answer": "Opdateringer afhænger af tilgængeligheden og gennemgangen af nye informationskilder."
+      },
+      "q7": {
+        "question": "Erstatter consumer-list.com brugerens personlige vurdering?",
+        "answer": "Nej. Det er et informationsværktøj; den endelige beslutning ligger altid hos brugeren."
+      },
+      "q8": {
+        "question": "Hvad er Transparent?",
+        "answer": "Transparent er en udgiftssporingsapp, der lader dig scanne en kvittering for at få adgang til alle tracker-funktioner (uden manuel indtastning af hvert produkt). Transparent giver oplysninger om hvert produkts sociale påvirkning og tilbyder en simpel udgiftssporer og en database med kvitteringsfotos (et kvitteringsfoto er ofte gyldigt til refusion)."
+      },
+      "q9": {
+        "question": "Hvem står bag projektet?",
+        "answer": "Et team af frivillige med forskellig baggrund inden for teknologi, kommunikation, strategi og jura. Se siden Om os."
+      },
+      "q10": {
+        "question": "Hvordan finansieres projektet?",
+        "answer": "Gennem frivillige bidrag til udvikling og vedligeholdelse af de teknologiske værktøjer. Se Hvordan hjælpe."
+      }
     }
   },
   "apps": {

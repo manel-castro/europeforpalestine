@@ -24,16 +24,46 @@
     "transparencyDescription": "Europe for Palestine on riippumaton, vapaaehtoisten ylläpitämä hanke, jolla ei ole yhteyksiä poliittisiin puolueisiin tai yksityisiin yrityksiin. Työmme rahoitetaan vapaaehtoisilla lahjoituksilla työkalujen kehittämiseen, ylläpitoon ja parantamiseen sekä niiden vastuullisen käytön turvaamiseen liittyviin kustannuksiin. Läpinäkyvyys resurssien käytössä on hankkeen periaate; kysymyksiä voi lähettää osoitteeseen manel@europeforpalestine.com\n\nSamoin emme takaa kaikkien kerättyjen tietojen täydellistä paikkansapitävyyttä tai välittömiä päivityksiä. Työskentelemme julkisista ja varmennetuista lähteistä peräisin olevan tiedon kanssa, ja priorisoimme aina huolellisen tarkastelun ja oikeudellisen suojan nopeuden tai kattavuuden sijaan.\n\nUskomme, että läpinäkyvyys ei tarkoita mahdottomien varmuuksien lupaamista, vaan tietojen saatavuuden ja nopean esittämisen käyttäjille.",
     "faq": {
       "title": "Usein kysytyt kysymykset (FAQ)",
-      "q1": {"question": "Onko Europe for Palestine poliittinen hanke?", "answer": "Ei. Europe for Palestine ei ole yhteydessä poliittisiin puolueisiin tai valtion organisaatioihin. Se on vapaaehtoisten ylläpitämä riippumaton hanke, joka keskittyy ihmisoikeuksien puolustamiseen ja informaatio- ja tietoisuusteknologioiden kehittämiseen."},
-      "q2": {"question": "Mikä tarkalleen ottaen on consumer-list.com?", "answer": "consumer-list.com on verkkosovellus, joka näyttää luetteloita yrityksistä, jotka sisältyvät julkisiin tietokantoihimme."},
-      "q3": {"question": "Miksi ei selitetä, miksi yritys on listalla?", "answer": "Väärinymmärrysten ja mahdollisten kunnianloukkaustapausten välttämiseksi tietokantamme rajoittuvat ilmoittamaan yrityksen sisällyttämisen tiettyyn listaan ilman yksittäisten syytösten toistamista."},
-      "q4": {"question": "Mistä tiedot tulevat?", "answer": "Julkisista ja varmennetuista lähteistä. Emme aina voi linkittää lähteitä, koska jos ne olisivat levittäneet herjaa sivuillaan, se voisi vahingoittaa järjestöämme. Olemme käytettävissä keskustelemaan uusista tietolähteistä osoitteessa manel@europeforpalestine.com."},
-      "q5": {"question": "Takuutteko, että tiedot ovat täysin paikkansapitäviä ja aina ajan tasalla?", "answer": "Ei. Ei ole mahdollista taata ehdotonta tarkkuutta tai välittömiä päivityksiä. Emme myöskään takaa tietokantojen täydellisyyttä. Jotkin yritykset saattavat esiintyä useammissa tietokannoissa kuin mitä tällä hetkellä kattamme."},
-      "q6": {"question": "Mitä tapahtuu, jos yritys muuttaa käytäntöjään?", "answer": "Päivitykset riippuvat uusien tietolähteiden saatavuudesta ja tarkastelusta."},
-      "q7": {"question": "Korvaako consumer-list.com käyttäjän henkilökohtaisen arvion?", "answer": "Ei. Se on tiedonlähde; lopullinen päätös on aina käyttäjän."},
-      "q8": {"question": "Mikä on Transparent?", "answer": "Transparent on kulujen seurantatyökalu, jonka avulla voit skannata ostokuittisi käyttääksesi kaikkia seurannan toimintoja (ilman jokaisen tuotteen manuaalista syöttöä). Transparent tarjoaa tietoa jokaisen tuotteen sosiaalisesta vaikutuksesta ja tarjoaa yksinkertaisen kuluseurannan sekä kuittikuvapankin (kuittikuva on usein kelvollinen tuotteen palautukseen)."},
-      "q9": {"question": "Kuka on hankkeen takana?", "answer": "Vapaaehtoisten tiimi, jolla on erilaista osaamista teknologiassa, viestinnässä, strategiassa ja lainsäädännössä. Katso sivu Meistä."},
-      "q10": {"question": "Miten hanke rahoitetaan?", "answer": "Vapaaehtoisten lahjoitusten kautta, jotka on tarkoitettu teknologisten työkalujen kehittämiseen ja ylläpitoon. Katso Kuinka auttaa."}
+      "q1": {
+        "question": "Onko Europe for Palestine poliittinen hanke?",
+        "answer": "Ei. Europe for Palestine ei ole yhteydessä poliittisiin puolueisiin tai valtion organisaatioihin. Se on vapaaehtoisten ylläpitämä riippumaton hanke, joka keskittyy ihmisoikeuksien puolustamiseen ja informaatio- ja tietoisuusteknologioiden kehittämiseen."
+      },
+      "q2": {
+        "question": "Mikä tarkalleen ottaen on consumer-list.com?",
+        "answer": "consumer-list.com on verkkosovellus, joka näyttää luetteloita yrityksistä, jotka sisältyvät julkisiin tietokantoihimme."
+      },
+      "q3": {
+        "question": "Miksi ei selitetä, miksi yritys on listalla?",
+        "answer": "Väärinymmärrysten ja mahdollisten kunnianloukkaustapausten välttämiseksi tietokantamme rajoittuvat ilmoittamaan yrityksen sisällyttämisen tiettyyn listaan ilman yksittäisten syytösten toistamista."
+      },
+      "q4": {
+        "question": "Mistä tiedot tulevat?",
+        "answer": "Julkisista ja varmennetuista lähteistä. Emme aina voi linkittää lähteitä, koska jos ne olisivat levittäneet herjaa sivuillaan, se voisi vahingoittaa järjestöämme. Olemme käytettävissä keskustelemaan uusista tietolähteistä osoitteessa manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Takuutteko, että tiedot ovat täysin paikkansapitäviä ja aina ajan tasalla?",
+        "answer": "Ei. Ei ole mahdollista taata ehdotonta tarkkuutta tai välittömiä päivityksiä. Emme myöskään takaa tietokantojen täydellisyyttä. Jotkin yritykset saattavat esiintyä useammissa tietokannoissa kuin mitä tällä hetkellä kattamme."
+      },
+      "q6": {
+        "question": "Mitä tapahtuu, jos yritys muuttaa käytäntöjään?",
+        "answer": "Päivitykset riippuvat uusien tietolähteiden saatavuudesta ja tarkastelusta."
+      },
+      "q7": {
+        "question": "Korvaako consumer-list.com käyttäjän henkilökohtaisen arvion?",
+        "answer": "Ei. Se on tiedonlähde; lopullinen päätös on aina käyttäjän."
+      },
+      "q8": {
+        "question": "Mikä on Transparent?",
+        "answer": "Transparent on kulujen seurantatyökalu, jonka avulla voit skannata ostokuittisi käyttääksesi kaikkia seurannan toimintoja (ilman jokaisen tuotteen manuaalista syöttöä). Transparent tarjoaa tietoa jokaisen tuotteen sosiaalisesta vaikutuksesta ja tarjoaa yksinkertaisen kuluseurannan sekä kuittikuvapankin (kuittikuva on usein kelvollinen tuotteen palautukseen)."
+      },
+      "q9": {
+        "question": "Kuka on hankkeen takana?",
+        "answer": "Vapaaehtoisten tiimi, jolla on erilaista osaamista teknologiassa, viestinnässä, strategiassa ja lainsäädännössä. Katso sivu Meistä."
+      },
+      "q10": {
+        "question": "Miten hanke rahoitetaan?",
+        "answer": "Vapaaehtoisten lahjoitusten kautta, jotka on tarkoitettu teknologisten työkalujen kehittämiseen ja ylläpitoon. Katso Kuinka auttaa."
+      }
     }
   },
   "apps": {

@@ -16,13 +16,18 @@ const LandingDatabases: React.FC = () => {
       <div style={{ maxWidth: 1000, margin: "0 auto", textAlign: align }}>
         <Text
           variant="title-h2"
-          style={{ fontSize: "2rem", marginBottom: "1rem" }}
+          style={{ textAlign: "left", fontSize: "2rem", marginBottom: "1rem" }}
         >
           {t("landing.databasesTitle")}
         </Text>
         <Text
           variant="description"
-          style={{ fontSize: "1rem", lineHeight: 1.6, whiteSpace: "pre-wrap" }}
+          style={{
+            textAlign: "left",
+            fontSize: "1rem",
+            lineHeight: 1.6,
+            whiteSpace: "pre-wrap",
+          }}
         >
           {t("landing.databasesDescription")}
         </Text>

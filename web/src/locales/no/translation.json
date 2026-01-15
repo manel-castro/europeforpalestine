@@ -16,28 +16,58 @@
     "meetUs": "Sjekk våre databaser",
     "databasesTitle": "Våre databaser",
     "databasesDescription": "All tilgjengelig informasjon om merker og selskaper er basert på vår egen uavhengige forskning, og vi er under ingen omstendigheter knyttet til andre organisasjoner. På samme måte samarbeider vi ikke på noen måte med merkene og selskapene som er listet i appene våre. Formålet med dataene vi samler inn er å hjelpe forbrukere med å ta informerte beslutninger.",
-      "imageAlt": "Plassholderbilde",
-      "newsletterTitle": "Abonner deg på nyhetsbrevet vårt",
-      "newsletterDescription": "Abonner på nyhetsbrevet vårt for å få oppdateringer, interessante data om merker og mer.",
-      "newsletterPlaceholderName": "Ditt navn",
-      "newsletterPlaceholderEmail": "din e-post",
-      "newsletterSending": "Sender...",
-      "newsletterThankYou": "Takk — vennligst sjekk e-posten din.",
-      "newsletterError": "Det oppstod en feil. Prøv igjen senere.",
-      "transparencyTitle": "Åpenhet og begrensninger",
-      "transparencyDescription": "Europe for Palestine er et uavhengig prosjekt drevet av frivillige uten tilknytning til politiske partier eller private selskaper. Arbeidet vårt finansieres gjennom frivillige bidrag til utvikling, vedlikehold og forbedring av verktøyene vi lager, samt for å dekke kostnader som trengs for å sikre ansvarlig drift. Åpenhet i bruken av ressurser er et kjerneprinsipp i prosjektet; du kan sende spørsmål til manel@europeforpalestine.com\n\nPå samme måte garanterer vi ikke absolutt nøyaktighet eller umiddelbare oppdateringer av all innsamlet informasjon. Vi arbeider med data fra offentlige og verifiserte kilder, og vi prioriterer alltid nøye gjennomgang og juridisk beskyttelse fremfor hastighet eller uttømmende dekning.\n\nVi mener at åpenhet ikke handler om å love umulige sikkerheter, men om å gjøre informasjon raskt og tilgjengelig for brukerne.",
+    "imageAlt": "Plassholderbilde",
+    "newsletterTitle": "Abonner deg på nyhetsbrevet vårt",
+    "newsletterDescription": "Abonner på nyhetsbrevet vårt for å få oppdateringer, interessante data om merker og mer.",
+    "newsletterPlaceholderName": "Ditt navn",
+    "newsletterPlaceholderEmail": "din e-post",
+    "newsletterSending": "Sender...",
+    "newsletterThankYou": "Takk — vennligst sjekk e-posten din.",
+    "newsletterError": "Det oppstod en feil. Prøv igjen senere.",
+    "transparencyTitle": "Åpenhet og begrensninger",
+    "transparencyDescription": "Europe for Palestine er et uavhengig prosjekt drevet av frivillige uten tilknytning til politiske partier eller private selskaper. Arbeidet vårt finansieres gjennom frivillige bidrag til utvikling, vedlikehold og forbedring av verktøyene vi lager, samt for å dekke kostnader som trengs for å sikre ansvarlig drift. Åpenhet i bruken av ressurser er et kjerneprinsipp i prosjektet; du kan sende spørsmål til manel@europeforpalestine.com\n\nPå samme måte garanterer vi ikke absolutt nøyaktighet eller umiddelbare oppdateringer av all innsamlet informasjon. Vi arbeider med data fra offentlige og verifiserte kilder, og vi prioriterer alltid nøye gjennomgang og juridisk beskyttelse fremfor hastighet eller uttømmende dekning.\n\nVi mener at åpenhet ikke handler om å love umulige sikkerheter, men om å gjøre informasjon raskt og tilgjengelig for brukerne.",
     "faq": {
       "title": "Ofte stilte spørsmål (FAQ)",
-      "q1": {"question": "Er Europe for Palestine et politisk prosjekt?", "answer": "Nei. Europe for Palestine er ikke tilknyttet politiske partier eller offentlige organisasjoner. Det er et uavhengig prosjekt drevet av frivillige, med fokus på å forsvare menneskerettigheter og utvikle informasjons- og bevisstgjøringsteknologier."},
-      "q2": {"question": "Hva er egentlig consumer-list.com?", "answer": "consumer-list.com er en nettapplikasjon som viser lister over selskaper som er inkludert i våre offentlige databaser."},
-      "q3": {"question": "Hvorfor forklarer dere ikke hvorfor et selskap er på listen?", "answer": "For å unngå feiltolkninger og potensielle injurier begrenser databasene våre seg til å angi at et selskap er inkludert i en bestemt liste uten å gjenfortelle individuelle anklager."},
-      "q4": {"question": "Hvor kommer dataene fra?", "answer": "Fra offentlige og verifiserte kilder. Vi kan ikke alltid lenke til kildene fordi hvis de publiserte injurier på nettstedet sitt, kan det skade organisasjonen vår. Vi er tilgjengelige for å diskutere nye datakilder via manel@europeforpalestine.com."},
-      "q5": {"question": "Garanterer dere at informasjonen er helt korrekt og alltid oppdatert?", "answer": "Nei. Det er ikke mulig å garantere absolutt nøyaktighet eller umiddelbare oppdateringer. Vi kan heller ikke garantere fullstendigheten av databasene. Noen selskaper kan vises i flere databaser enn vi for tiden dekker."},
-      "q6": {"question": "Hva skjer hvis et selskap endrer praksis?", "answer": "Oppdateringer avhenger av tilgjengeligheten og gjennomgangen av nye informasjonskilder."},
-      "q7": {"question": "Er consumer-list.com en erstatning for brukerens personlige skjønn?", "answer": "Nei. Det er et informasjonsverktøy; den endelige avgjørelsen hviler alltid hos brukeren."},
-      "q8": {"question": "Hva er Transparent?", "answer": "Transparent er en kostnadssporingsapp som lar deg skanne et kjøpskvittering for å få tilgang til alle sporingsfunksjoner (uten manuell inntasting av hvert produkt). Transparent gir informasjon om hvert produkts sosiale påvirkning og tilbyr en enkel kostnadssporer og en database med kvitteringsbilder (et kvitteringsbilde er ofte gyldig for refusjon)."},
-      "q9": {"question": "Hvem står bak prosjektet?", "answer": "Et team av frivillige med forskjellige bakgrunner innen teknologi, kommunikasjon, strategi og jus. Se Om oss-siden."},
-      "q10": {"question": "Hvordan finansieres prosjektet?", "answer": "Gjennom frivillige bidrag som går til utvikling og vedlikehold av teknologiske verktøy. Se Hvordan hjelpe."}
+      "q1": {
+        "question": "Er Europe for Palestine et politisk prosjekt?",
+        "answer": "Nei. Europe for Palestine er ikke tilknyttet politiske partier eller offentlige organisasjoner. Det er et uavhengig prosjekt drevet av frivillige, med fokus på å forsvare menneskerettigheter og utvikle informasjons- og bevisstgjøringsteknologier."
+      },
+      "q2": {
+        "question": "Hva er egentlig consumer-list.com?",
+        "answer": "consumer-list.com er en nettapplikasjon som viser lister over selskaper som er inkludert i våre offentlige databaser."
+      },
+      "q3": {
+        "question": "Hvorfor forklarer dere ikke hvorfor et selskap er på listen?",
+        "answer": "For å unngå feiltolkninger og potensielle injurier begrenser databasene våre seg til å angi at et selskap er inkludert i en bestemt liste uten å gjenfortelle individuelle anklager."
+      },
+      "q4": {
+        "question": "Hvor kommer dataene fra?",
+        "answer": "Fra offentlige og verifiserte kilder. Vi kan ikke alltid lenke til kildene fordi hvis de publiserte injurier på nettstedet sitt, kan det skade organisasjonen vår. Vi er tilgjengelige for å diskutere nye datakilder via manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garanterer dere at informasjonen er helt korrekt og alltid oppdatert?",
+        "answer": "Nei. Det er ikke mulig å garantere absolutt nøyaktighet eller umiddelbare oppdateringer. Vi kan heller ikke garantere fullstendigheten av databasene. Noen selskaper kan vises i flere databaser enn vi for tiden dekker."
+      },
+      "q6": {
+        "question": "Hva skjer hvis et selskap endrer praksis?",
+        "answer": "Oppdateringer avhenger av tilgjengeligheten og gjennomgangen av nye informasjonskilder."
+      },
+      "q7": {
+        "question": "Er consumer-list.com en erstatning for brukerens personlige skjønn?",
+        "answer": "Nei. Det er et informasjonsverktøy; den endelige avgjørelsen hviler alltid hos brukeren."
+      },
+      "q8": {
+        "question": "Hva er Transparent?",
+        "answer": "Transparent er en kostnadssporingsapp som lar deg skanne et kjøpskvittering for å få tilgang til alle sporingsfunksjoner (uten manuell inntasting av hvert produkt). Transparent gir informasjon om hvert produkts sosiale påvirkning og tilbyr en enkel kostnadssporer og en database med kvitteringsbilder (et kvitteringsbilde er ofte gyldig for refusjon)."
+      },
+      "q9": {
+        "question": "Hvem står bak prosjektet?",
+        "answer": "Et team av frivillige med forskjellige bakgrunner innen teknologi, kommunikasjon, strategi og jus. Se Om oss-siden."
+      },
+      "q10": {
+        "question": "Hvordan finansieres prosjektet?",
+        "answer": "Gjennom frivillige bidrag som går til utvikling og vedlikehold av teknologiske verktøy. Se Hvordan hjelpe."
+      }
     }
   },
   "apps": {

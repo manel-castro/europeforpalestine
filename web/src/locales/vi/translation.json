@@ -28,16 +28,46 @@
     "transparencyDescription": "Europe for Palestine là một dự án độc lập do các tình nguyện viên vận hành, không liên kết với các đảng chính trị hay tập đoàn tư nhân. Công việc của chúng tôi được tài trợ thông qua các đóng góp tự nguyện cho việc phát triển, bảo trì và cải thiện các công cụ chúng tôi tạo ra, cũng như để trang trải các chi phí cần thiết để đảm bảo hoạt động có trách nhiệm. Sự minh bạch trong việc sử dụng nguồn lực là một cam kết cốt lõi của dự án; bạn có thể gửi câu hỏi tới manel@europeforpalestine.com\n\nTương tự, chúng tôi không đảm bảo độ chính xác tuyệt đối hay cập nhật ngay lập tức của tất cả thông tin thu thập được. Chúng tôi làm việc với dữ liệu từ các nguồn công khai và đã được xác minh, và luôn ưu tiên xem xét cẩn thận và bảo vệ pháp lý hơn là tốc độ hay tính toàn diện.\n\nChúng tôi tin rằng minh bạch không phải là hứa hẹn những điều không thể chắc chắn, mà là cung cấp thông tin nhanh chóng và dễ tiếp cận cho người dùng.",
     "faq": {
       "title": "Câu hỏi thường gặp (FAQ)",
-      "q1": { "question": "Europe for Palestine có phải là dự án chính trị không?", "answer": "Không. Europe for Palestine không liên kết với các đảng chính trị hay tổ chức nhà nước. Đây là một dự án độc lập do các tình nguyện viên điều hành, tập trung vào việc bảo vệ nhân quyền và phát triển các công cụ công nghệ phục vụ thông tin và nâng cao nhận thức." },
-      "q2": { "question": "consumer-list.com chính xác là gì?", "answer": "consumer-list.com là một ứng dụng web hiển thị danh sách các công ty được đưa vào các cơ sở dữ liệu công khai của chúng tôi." },
-      "q3": { "question": "Tại sao không giải thích lý do một công ty xuất hiện trong danh sách?", "answer": "Để tránh hiểu sai và các tình huống phỉ báng có thể xảy ra, các cơ sở dữ liệu của chúng tôi chỉ ghi nhận việc một công ty được đưa vào một danh sách cụ thể mà không tái hiện các cáo buộc cá nhân." },
-      "q4": { "question": "Dữ liệu đến từ đâu?", "answer": "Từ các nguồn công khai và đã được xác minh. Chúng tôi không luôn có thể liên kết nguồn bởi vì nếu họ đang phỉ báng trên trang web của họ, điều đó có thể làm tổn hại tổ chức của chúng tôi. Chúng tôi sẵn sàng thảo luận về các nguồn dữ liệu mới qua manel@europeforpalestine.com." },
-      "q5": { "question": "Các bạn có đảm bảo thông tin hoàn toàn chính xác và luôn cập nhật không?", "answer": "Không. Không thể đảm bảo độ chính xác tuyệt đối hoặc cập nhật ngay lập tức. Chúng tôi cũng không đảm bảo tính đầy đủ của cơ sở dữ liệu. Một số công ty có thể xuất hiện trong nhiều cơ sở dữ liệu hơn những cơ sở mà chúng tôi hiện bao phủ." },
-      "q6": { "question": "Nếu một công ty thay đổi hoạt động thì sao?", "answer": "Các cập nhật phụ thuộc vào tính sẵn có và việc xem xét các nguồn thông tin mới." },
-      "q7": { "question": "consumer-list.com có thay thế tiêu chí cá nhân của người dùng không?", "answer": "Không. Đây là một công cụ thông tin; quyết định cuối cùng luôn thuộc về người dùng." },
-      "q8": { "question": "Transparent là gì?", "answer": "Transparent là một trình theo dõi chi tiêu cho phép bạn quét biên lai mua hàng để sử dụng tất cả các chức năng của trình theo dõi (không cần nhập thủ công từng sản phẩm). Transparent cung cấp thông tin về tác động xã hội của từng sản phẩm và cung cấp chức năng theo dõi chi tiêu đơn giản cùng cơ sở dữ liệu ảnh biên lai (ảnh biên lai thường hợp lệ cho hoàn tiền)." },
-      "q9": { "question": "Ai đứng sau dự án?", "answer": "Một nhóm tình nguyện viên có nền tảng đa dạng trong công nghệ, truyền thông, chiến lược và lĩnh vực pháp lý. Xem trang Giới thiệu về chúng tôi." },
-      "q10": { "question": "Dự án được tài trợ như thế nào?", "answer": "Thông qua các khoản đóng góp tự nguyện nhằm phát triển và duy trì công cụ công nghệ. Xem Làm thế nào để giúp đỡ." }
+      "q1": {
+        "question": "Europe for Palestine có phải là dự án chính trị không?",
+        "answer": "Không. Europe for Palestine không liên kết với các đảng chính trị hay tổ chức nhà nước. Đây là một dự án độc lập do các tình nguyện viên điều hành, tập trung vào việc bảo vệ nhân quyền và phát triển các công cụ công nghệ phục vụ thông tin và nâng cao nhận thức."
+      },
+      "q2": {
+        "question": "consumer-list.com chính xác là gì?",
+        "answer": "consumer-list.com là một ứng dụng web hiển thị danh sách các công ty được đưa vào các cơ sở dữ liệu công khai của chúng tôi."
+      },
+      "q3": {
+        "question": "Tại sao không giải thích lý do một công ty xuất hiện trong danh sách?",
+        "answer": "Để tránh hiểu sai và các tình huống phỉ báng có thể xảy ra, các cơ sở dữ liệu của chúng tôi chỉ ghi nhận việc một công ty được đưa vào một danh sách cụ thể mà không tái hiện các cáo buộc cá nhân."
+      },
+      "q4": {
+        "question": "Dữ liệu đến từ đâu?",
+        "answer": "Từ các nguồn công khai và đã được xác minh. Chúng tôi không luôn có thể liên kết nguồn bởi vì nếu họ đang phỉ báng trên trang web của họ, điều đó có thể làm tổn hại tổ chức của chúng tôi. Chúng tôi sẵn sàng thảo luận về các nguồn dữ liệu mới qua manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Các bạn có đảm bảo thông tin hoàn toàn chính xác và luôn cập nhật không?",
+        "answer": "Không. Không thể đảm bảo độ chính xác tuyệt đối hoặc cập nhật ngay lập tức. Chúng tôi cũng không đảm bảo tính đầy đủ của cơ sở dữ liệu. Một số công ty có thể xuất hiện trong nhiều cơ sở dữ liệu hơn những cơ sở mà chúng tôi hiện bao phủ."
+      },
+      "q6": {
+        "question": "Nếu một công ty thay đổi hoạt động thì sao?",
+        "answer": "Các cập nhật phụ thuộc vào tính sẵn có và việc xem xét các nguồn thông tin mới."
+      },
+      "q7": {
+        "question": "consumer-list.com có thay thế tiêu chí cá nhân của người dùng không?",
+        "answer": "Không. Đây là một công cụ thông tin; quyết định cuối cùng luôn thuộc về người dùng."
+      },
+      "q8": {
+        "question": "Transparent là gì?",
+        "answer": "Transparent là một trình theo dõi chi tiêu cho phép bạn quét biên lai mua hàng để sử dụng tất cả các chức năng của trình theo dõi (không cần nhập thủ công từng sản phẩm). Transparent cung cấp thông tin về tác động xã hội của từng sản phẩm và cung cấp chức năng theo dõi chi tiêu đơn giản cùng cơ sở dữ liệu ảnh biên lai (ảnh biên lai thường hợp lệ cho hoàn tiền)."
+      },
+      "q9": {
+        "question": "Ai đứng sau dự án?",
+        "answer": "Một nhóm tình nguyện viên có nền tảng đa dạng trong công nghệ, truyền thông, chiến lược và lĩnh vực pháp lý. Xem trang Giới thiệu về chúng tôi."
+      },
+      "q10": {
+        "question": "Dự án được tài trợ như thế nào?",
+        "answer": "Thông qua các khoản đóng góp tự nguyện nhằm phát triển và duy trì công cụ công nghệ. Xem Làm thế nào để giúp đỡ."
+      }
     }
   },
   "apps": {

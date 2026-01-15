@@ -14,7 +14,7 @@
     "databasesDescription": "Tota la informació disponible sobre marques i empreses es basa en el nostre estudi independent i en cap cas estem relacionats amb altres organitzacions. Així mateix, no col·laborem de cap manera amb cap de les marques i empreses llistades a les nostres aplicacions. L'objectiu de les dades que recopilem és ajudar els consumidors a prendre decisions informades.",
     "howToHelpTitle": "Com ajudar",
     "howToHelpDescription": "Amb la teva ajuda cobrim els costos dels servidors, campanyes de difusió i altres despeses. Ajuda ara a EuropeForPalestine.",
-     "imageAlt": "Marcador de posició",
+    "imageAlt": "Marcador de posició",
     "newsletterTitle": "Subscriu-te al nostre butlletí",
     "newsletterDescription": "Subscriu-te al nostre butlletí per rebre actualitzacions, dades interessants sobre marques i més.",
     "newsletterPlaceholderName": "El teu nom",
@@ -26,16 +26,46 @@
     "transparencyDescription": "Europe for Palestine és un projecte independent gestionat per voluntaris sense afiliació a partits polítics o corporacions privades. El nostre treball es finança mitjançant contribucions voluntàries per al desenvolupament, manteniment i millora de les eines que creem, i per cobrir els costos necessaris per garantir el seu funcionament responsable. La transparència en l'ús de recursos és un compromís fonamental del projecte; podeu enviar preguntes a manel@europeforpalestine.com\n\nDe la mateixa manera, no garantim l'exactitud absoluta ni les actualitzacions immediates de tota la informació recopilada. Treballem amb dades de fonts públiques i verificades, i sempre prioritzem la revisió acurada i la protecció legal per sobre de la rapidesa o l'exhaustivitat.\n\nCreiem que la transparència no consisteix a prometre certeses impossibles, sinó a posar la informació a disposició dels usuaris de manera ràpida i accessible.",
     "faq": {
       "title": "Preguntes freqüents (FAQ)",
-      "q1": {"question": "És Europe for Palestine un projecte polític?", "answer": "No. Europe for Palestine no està afiliat a partits polítics ni a organitzacions governamentals. És un projecte independent gestionat per voluntaris, centrat en la defensa dels drets humans i en la creació d'eines tecnològiques informatives i de conscienciació."},
-      "q2": {"question": "Què és exactament consumer-list.com?", "answer": "consumer-list.com és una aplicació web que mostra llistes d'empreses incloses a les nostres bases de dades públiques."},
-      "q3": {"question": "Per què no expliqueu per què una empresa apareix a la llista?", "answer": "Per evitar males interpretacions i possibles casos de difamació, les nostres bases de dades es limiten a indicar la inclusió d'una empresa en una llista concreta sense reproduir acusacions individuals."},
-      "q4": {"question": "D'on provenen les dades?", "answer": "De fonts públiques i verificades. No sempre podem enllaçar les fonts perquè si aquestes publiquessin difamacions al seu lloc podrien perjudicar la nostra organització. Estem disponibles per discutir noves fonts de dades a manel@europeforpalestine.com."},
-      "q5": {"question": "Garantiu que la informació és completament veritable i sempre està actualitzada?", "answer": "No. No és possible garantir una veracitat absoluta ni actualitzacions immediates. Tampoc no garantim la completitud de les bases de dades. Algunes empreses poden aparèixer a més bases de dades de les que actualment cobrim."},
-      "q6": {"question": "Què passa si una empresa canvia les seves pràctiques?", "answer": "Les actualitzacions depenen de la disponibilitat i la revisió de noves fonts d'informació."},
-      "q7": {"question": "consumer-list.com substitueix el criteri personal de l'usuari?", "answer": "No. És una eina informativa; la decisió final sempre correspon a l'usuari."},
-      "q8": {"question": "Què és Transparent?", "answer": "Transparent és un seguidor de despeses que permet escanejar el tiquet de compra per accedir a totes les funcionalitats del seguiment (sense haver d'introduir manualment cada producte). Transparent ofereix informació sobre l'impacte social de cada producte i proporciona un seguidor de despeses senzill i una base de dades de fotos de tiquets (una foto de tiquet sovint és vàlida per a una devolució)."},
-      "q9": {"question": "Qui hi ha darrere del projecte?", "answer": "Un equip de voluntaris amb perfils diversos en tecnologia, comunicació, estratègia i el àmbit jurídic. Vegeu la pàgina Sobre nosaltres."},
-      "q10": {"question": "Com es finança el projecte?", "answer": "Mitjançant contribucions voluntàries destinades al desenvolupament i manteniment d'eines tecnològiques. Vegeu Com ajudar."}
+      "q1": {
+        "question": "És Europe for Palestine un projecte polític?",
+        "answer": "No. Europe for Palestine no està afiliat a partits polítics ni a organitzacions governamentals. És un projecte independent gestionat per voluntaris, centrat en la defensa dels drets humans i en la creació d'eines tecnològiques informatives i de conscienciació."
+      },
+      "q2": {
+        "question": "Què és exactament consumer-list.com?",
+        "answer": "consumer-list.com és una aplicació web que mostra llistes d'empreses incloses a les nostres bases de dades públiques."
+      },
+      "q3": {
+        "question": "Per què no expliqueu per què una empresa apareix a la llista?",
+        "answer": "Per evitar males interpretacions i possibles casos de difamació, les nostres bases de dades es limiten a indicar la inclusió d'una empresa en una llista concreta sense reproduir acusacions individuals."
+      },
+      "q4": {
+        "question": "D'on provenen les dades?",
+        "answer": "De fonts públiques i verificades. No sempre podem enllaçar les fonts perquè si aquestes publiquessin difamacions al seu lloc podrien perjudicar la nostra organització. Estem disponibles per discutir noves fonts de dades a manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garantiu que la informació és completament veritable i sempre està actualitzada?",
+        "answer": "No. No és possible garantir una veracitat absoluta ni actualitzacions immediates. Tampoc no garantim la completitud de les bases de dades. Algunes empreses poden aparèixer a més bases de dades de les que actualment cobrim."
+      },
+      "q6": {
+        "question": "Què passa si una empresa canvia les seves pràctiques?",
+        "answer": "Les actualitzacions depenen de la disponibilitat i la revisió de noves fonts d'informació."
+      },
+      "q7": {
+        "question": "consumer-list.com substitueix el criteri personal de l'usuari?",
+        "answer": "No. És una eina informativa; la decisió final sempre correspon a l'usuari."
+      },
+      "q8": {
+        "question": "Què és Transparent?",
+        "answer": "Transparent és un seguidor de despeses que permet escanejar el tiquet de compra per accedir a totes les funcionalitats del seguiment (sense haver d'introduir manualment cada producte). Transparent ofereix informació sobre l'impacte social de cada producte i proporciona un seguidor de despeses senzill i una base de dades de fotos de tiquets (una foto de tiquet sovint és vàlida per a una devolució)."
+      },
+      "q9": {
+        "question": "Qui hi ha darrere del projecte?",
+        "answer": "Un equip de voluntaris amb perfils diversos en tecnologia, comunicació, estratègia i el àmbit jurídic. Vegeu la pàgina Sobre nosaltres."
+      },
+      "q10": {
+        "question": "Com es finança el projecte?",
+        "answer": "Mitjançant contribucions voluntàries destinades al desenvolupament i manteniment d'eines tecnològiques. Vegeu Com ajudar."
+      }
     }
   },
   "apps": {

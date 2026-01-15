@@ -25,16 +25,46 @@
     "transparencyTitle": "Şeffaflık ve sınırlar",
     "faq": {
       "title": "Sıkça Sorulan Sorular (FAQ)",
-      "q1": { "question": "Europe for Palestine politik bir proje mi?", "answer": "Hayır. Europe for Palestine siyasi partilerle veya devlet kurumlarıyla bağlantılı değildir. Gönüllüler tarafından yürütülen bağımsız bir projedir ve insan haklarının savunulması ile bilgilendirici ve farkındalık amaçlı teknolojik araçların geliştirilmesine odaklanır." },
-      "q2": { "question": "consumer-list.com tam olarak nedir?", "answer": "consumer-list.com, kamuya açık veritabanlarımızda yer alan şirketlerin listelerini gösteren bir web uygulamasıdır." },
-      "q3": { "question": "Bir şirketin listede yer alma nedeni neden açıklanmıyor?", "answer": "Yanlış yorumları ve olası iftira durumlarını önlemek için veri tabanlarımız, belirli bir listeye bir şirketin dahil edilmesini gösterir; bireysel suçlamaları çoğaltmaz." },
-      "q4": { "question": "Veriler nereden geliyor?", "answer": "Kamuya açık ve doğrulanmış kaynaklardan. Kaynakları her zaman bağlayamayız çünkü eğer kaynaklar sitelerinde iftira yayıyorlarsa bu bizim kuruluşumuzu zarar verebilir. Yeni veri kaynaklarını tartışmak için manel@europeforpalestine.com ile iletişime geçin." },
-      "q5": { "question": "Bilgilerin tamamen doğru ve her zaman güncel olacağını garanti ediyor musunuz?", "answer": "Hayır. Mutlak doğruluk veya anlık güncellemeler garanti edilemez. Ayrıca veritabanlarının tamlığını da garanti etmiyoruz. Bazı şirketler, şu anda kapsadığımızdan daha fazla veritabanında görünebilir." },
-      "q6": { "question": "Bir şirket uygulamalarını değiştirirse ne olur?", "answer": "Güncellemeler yeni bilgi kaynaklarının kullanılabilirliğine ve gözden geçirilmesine bağlıdır." },
-      "q7": { "question": "consumer-list.com kullanıcının kişisel yargısını yerine mi koyar?", "answer": "Hayır. Bu bir bilgi aracıdır; nihai karar her zaman kullanıcıya aittir." },
-      "q8": { "question": "Transparent nedir?", "answer": "Transparent, satın alma fişini tarayarak izleyicinin tüm işlevlerine erişmenizi sağlayan bir harcama takipçisidir (her ürünü manuel girmeden). Transparent, her ürünün toplumsal etkisi hakkında bilgi sağlar ve basit bir harcama takipçisi ve fiş fotoğrafı veritabanı sunar (fiş fotoğrafı genellikle iade için geçerli olabilir)." },
-      "q9": { "question": "Projenin arkasında kim var?", "answer": "Teknoloji, iletişim, strateji ve hukuk alanlarında çeşitli geçmişe sahip gönüllülerden oluşan bir ekip. Hakkımızda sayfasına bakın." },
-      "q10": { "question": "Proje nasıl finanse ediliyor?", "answer": "Teknolojik araçların geliştirilmesi ve bakımı için yapılan gönüllü katkılarla finanse edilir. Nasıl yardım edilir sayfasına bakın." }
+      "q1": {
+        "question": "Europe for Palestine politik bir proje mi?",
+        "answer": "Hayır. Europe for Palestine siyasi partilerle veya devlet kurumlarıyla bağlantılı değildir. Gönüllüler tarafından yürütülen bağımsız bir projedir ve insan haklarının savunulması ile bilgilendirici ve farkındalık amaçlı teknolojik araçların geliştirilmesine odaklanır."
+      },
+      "q2": {
+        "question": "consumer-list.com tam olarak nedir?",
+        "answer": "consumer-list.com, kamuya açık veritabanlarımızda yer alan şirketlerin listelerini gösteren bir web uygulamasıdır."
+      },
+      "q3": {
+        "question": "Bir şirketin listede yer alma nedeni neden açıklanmıyor?",
+        "answer": "Yanlış yorumları ve olası iftira durumlarını önlemek için veri tabanlarımız, belirli bir listeye bir şirketin dahil edilmesini gösterir; bireysel suçlamaları çoğaltmaz."
+      },
+      "q4": {
+        "question": "Veriler nereden geliyor?",
+        "answer": "Kamuya açık ve doğrulanmış kaynaklardan. Kaynakları her zaman bağlayamayız çünkü eğer kaynaklar sitelerinde iftira yayıyorlarsa bu bizim kuruluşumuzu zarar verebilir. Yeni veri kaynaklarını tartışmak için manel@europeforpalestine.com ile iletişime geçin."
+      },
+      "q5": {
+        "question": "Bilgilerin tamamen doğru ve her zaman güncel olacağını garanti ediyor musunuz?",
+        "answer": "Hayır. Mutlak doğruluk veya anlık güncellemeler garanti edilemez. Ayrıca veritabanlarının tamlığını da garanti etmiyoruz. Bazı şirketler, şu anda kapsadığımızdan daha fazla veritabanında görünebilir."
+      },
+      "q6": {
+        "question": "Bir şirket uygulamalarını değiştirirse ne olur?",
+        "answer": "Güncellemeler yeni bilgi kaynaklarının kullanılabilirliğine ve gözden geçirilmesine bağlıdır."
+      },
+      "q7": {
+        "question": "consumer-list.com kullanıcının kişisel yargısını yerine mi koyar?",
+        "answer": "Hayır. Bu bir bilgi aracıdır; nihai karar her zaman kullanıcıya aittir."
+      },
+      "q8": {
+        "question": "Transparent nedir?",
+        "answer": "Transparent, satın alma fişini tarayarak izleyicinin tüm işlevlerine erişmenizi sağlayan bir harcama takipçisidir (her ürünü manuel girmeden). Transparent, her ürünün toplumsal etkisi hakkında bilgi sağlar ve basit bir harcama takipçisi ve fiş fotoğrafı veritabanı sunar (fiş fotoğrafı genellikle iade için geçerli olabilir)."
+      },
+      "q9": {
+        "question": "Projenin arkasında kim var?",
+        "answer": "Teknoloji, iletişim, strateji ve hukuk alanlarında çeşitli geçmişe sahip gönüllülerden oluşan bir ekip. Hakkımızda sayfasına bakın."
+      },
+      "q10": {
+        "question": "Proje nasıl finanse ediliyor?",
+        "answer": "Teknolojik araçların geliştirilmesi ve bakımı için yapılan gönüllü katkılarla finanse edilir. Nasıl yardım edilir sayfasına bakın."
+      }
     },
     "transparencyDescription": "Europe for Palestine gönüllüler tarafından yürütülen bağımsız bir projedir ve siyasi partiler veya özel şirketlerle herhangi bir bağlantısı yoktur. Çalışmamız, oluşturduğumuz teknolojik araçların geliştirilmesi, bakımı ve iyileştirilmesi ile bunların sorumlu bir şekilde işletilmesini sağlamak için gereken maliyetleri karşılamak amacıyla yapılan gönüllü katkılarla finanse edilmektedir. Kaynakların kullanımında şeffaflık, projenin temel taahhüdüdür; sorularınızı manel@europeforpalestine.com adresine gönderebilirsiniz.\n\nAynı şekilde, topladığımız tüm bilgilerin mutlak doğruluğunu veya anında güncellenmesini garanti etmiyoruz. Kamuya açık ve doğrulanmış kaynaklardan alınan verilerle çalışıyoruz ve hız veya kapsamlılıktan ziyade her zaman dikkatli inceleme ve yasal korumayı önceliklendiriyoruz.\n\nŞeffaflığın, imkansız kesinlikler vaat etmek değil, mevcut bilgiyi hızlı ve erişilebilir şekilde kullanıcıların eline vermek olduğuna inanıyoruz."
   },
