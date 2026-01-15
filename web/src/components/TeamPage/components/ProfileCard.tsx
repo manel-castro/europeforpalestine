@@ -100,6 +100,7 @@ const ProfileCard: React.FC<ProfileCardProps> = ({ imageUrl, name, title }) => {
               fontSize: "0.9rem",
               lineHeight: 1.3,
               textAlign: "left",
+              overflowY: "auto",
             }}
           >
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do

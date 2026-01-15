@@ -9,7 +9,7 @@
     "title": "Cada cêntimo conta",
     "description": "Ajustar cuidadosamente as nossas escolhas de compra ajuda a construir um mundo onde as organizações respeitam os princípios dos direitos humanos e outros valores fundamentais da nossa sociedade.",
     "learnMore": "Saiba mais",
-    "meetUs": "Consulte as nossas bases de dados",
+  "description": "Europe for Palestine é um projeto impulsionado por voluntários com perfis diversos e um compromisso comum com a defesa dos direitos humanos. Nossa equipe reúne conhecimentos em tecnologia, comunicação, estratégia e direito, trabalhando de forma colaborativa e transparente para desenvolver ferramentas digitais a serviço de causas humanitárias. Compartilhamos a convicção de que a ação coletiva, baseada na responsabilidade e na clareza, pode contribuir para gerar um impacto real.",
     "databasesTitle": "As nossas bases de dados",
     "databasesDescription": "Todas as informações disponíveis sobre marcas e empresas baseiam-se no nosso próprio estudo independente e em nenhum caso estamos ligados a outras organizações. Da mesma forma, não colaboramos de forma alguma com as marcas e empresas listadas nas nossas aplicações. O objetivo dos dados que recolhemos é ajudar os consumidores a tomar decisões informadas.",
     "howToHelpTitle": "Como ajudar",
@@ -88,7 +88,7 @@
   },
   "team": {
     "title": "Sobre nós",
-    "description": "Procuramos impactar os direitos humanos através da criação de aplicações tecnológicas e da divulgação social; tornamos a ação social cidadã acessível através da informação para que cada indivíduo alinhe suas decisões cotidianas com seus próprios princípios e ideais.",
+    "description": "Europe for Palestine é um projeto impulsionado por voluntários com perfis diversos e um compromisso comum com a defesa dos direitos humanos. Nossa equipe reúne conhecimentos em tecnologia, comunicação, estratégia e direito, trabalhando de forma colaborativa e transparente para desenvolver ferramentas digitais a serviço de causas humanitárias. Compartilhamos a convicção de que a ação coletiva, baseada na responsabilidade e na clareza, pode contribuir para gerar um impacto real.",
     "member1": {
       "name": "John Doe",
       "description": "Cofundador e Desenvolvedor Líder"

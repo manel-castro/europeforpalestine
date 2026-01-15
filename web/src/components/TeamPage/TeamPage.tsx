@@ -36,7 +36,7 @@ const TeamPage: React.FC = () => {
       }}
     >
       <TeamAboutUs />
-      <TeamMeetUs />
+      {/* <TeamMeetUs /> */}
 
       <TeamRoles />
       <MissionSection />

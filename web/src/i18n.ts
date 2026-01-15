@@ -17,7 +17,6 @@ import ruTranslation from "./locales/ru/translation.json";
 import jaTranslation from "./locales/ja/translation.json";
 import koTranslation from "./locales/ko/translation.json";
 import hiTranslation from "./locales/hi/translation.json";
-import bnTranslation from "./locales/bn/translation.json";
 import trTranslation from "./locales/tr/translation.json";
 import plTranslation from "./locales/pl/translation.json";
 import ukTranslation from "./locales/uk/translation.json";
@@ -52,7 +51,6 @@ const resources = {
   ja: { translation: jaTranslation },
   ko: { translation: koTranslation },
   hi: { translation: hiTranslation },
-  bn: { translation: bnTranslation },
   tr: { translation: trTranslation },
   pl: { translation: plTranslation },
   uk: { translation: ukTranslation },
