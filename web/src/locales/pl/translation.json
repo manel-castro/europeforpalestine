@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "twój e-mail",
     "newsletterSending": "Wysyłanie...",
     "newsletterThankYou": "Dziękujemy — sprawdź swoją skrzynkę e-mail.",
-    "newsletterError": "Wystąpił błąd. Spróbuj ponownie później."
+    "newsletterError": "Wystąpił błąd. Spróbuj ponownie później.",
+    "transparencyTitle": "Przejrzystość i ograniczenia",
+    "transparencyDescription": "Europe for Palestine to niezależny projekt prowadzony przez wolontariuszy, bez powiązań z partiami politycznymi ani prywatnymi korporacjami. Nasza praca jest finansowana poprzez dobrowolne składki na rozwój, utrzymanie i ulepszanie narzędzi, które tworzymy, oraz na pokrycie kosztów niezbędnych do zapewnienia ich odpowiedzialnego działania. Przejrzystość w wykorzystaniu zasobów jest podstawowym zobowiązaniem projektu; można wysyłać pytania na adres manel@europeforpalestine.com\n\nPodobnie nie gwarantujemy absolutnej dokładności ani natychmiastowych aktualizacji wszystkich zebranych informacji. Pracujemy z danymi pochodzącymi z publicznych i zweryfikowanych źródeł i zawsze priorytetyzujemy staranną weryfikację oraz ochronę prawną nad szybkością czy wyczerpującością.\n\nWierzymy, że przejrzystość nie polega na obiecywaniu niemożliwych pewników, lecz na szybkim i dostępnym udostępnianiu informacji użytkownikom.",
+    "faq": {
+      "title": "Najczęściej zadawane pytania (FAQ)",
+      "q1": {
+        "question": "Czy Europe for Palestine to projekt polityczny?",
+        "answer": "Nie. Europe for Palestine nie jest powiązane z partiami politycznymi ani organizacjami rządowymi. To niezależny projekt prowadzony przez wolontariuszy, skoncentrowany na obronie praw człowieka i tworzeniu narzędzi technologicznych do informowania i budowania świadomości."
+      },
+      "q2": {
+        "question": "Czym dokładnie jest consumer-list.com?",
+        "answer": "consumer-list.com to aplikacja internetowa, która wyświetla listy firm uwzględnionych w naszych publicznych bazach danych."
+      },
+      "q3": {
+        "question": "Dlaczego nie wyjaśniacie, dlaczego firma pojawia się na liście?",
+        "answer": "Aby uniknąć błędnych interpretacji i potencjalnych spraw o zniesławienie, nasze bazy danych ograniczają się do wskazania, że firma została uwzględniona w określonej liście, bez reprodukowania indywidualnych oskarżeń."
+      },
+      "q4": {
+        "question": "Skąd pochodzą dane?",
+        "answer": "Z publicznych i zweryfikowanych źródeł. Nie zawsze możemy powiązać źródła, ponieważ gdyby publikowały treści zniesławiające, mogłoby to zaszkodzić naszej organizacji. Jesteśmy dostępni do omówienia nowych źródeł danych pod adresem manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Czy gwarantujecie, że informacje są całkowicie prawdziwe i zawsze aktualne?",
+        "answer": "Nie. Nie jest możliwe zagwarantowanie absolutnej dokładności ani natychmiastowych aktualizacji. Nie gwarantujemy również kompletności baz danych. Niektóre firmy mogą występować w większej liczbie baz danych niż te, które obecnie obejmujemy."
+      },
+      "q6": {
+        "question": "Co się dzieje, jeśli firma zmieni swoje praktyki?",
+        "answer": "Aktualizacje zależą od dostępności i przeglądu nowych źródeł informacji."
+      },
+      "q7": {
+        "question": "Czy consumer-list.com zastępuje osobisty osąd użytkownika?",
+        "answer": "Nie. To narzędzie informacyjne; ostateczna decyzja zawsze należy do użytkownika."
+      },
+      "q8": {
+        "question": "Czym jest Transparent?",
+        "answer": "Transparent to narzędzie do śledzenia wydatków, które pozwala zeskanować paragon, aby korzystać ze wszystkich funkcji trackera (bez ręcznego wprowadzania każdego produktu). Transparent dostarcza informacji o wpływie społecznym każdego produktu i oferuje prosty tracker wydatków oraz bazę danych zdjęć paragonów (zdjęcie paragonu często jest ważne do zwrotu produktu)."
+      },
+      "q9": {
+        "question": "Kto stoi za projektem?",
+        "answer": "Zespół wolontariuszy o zróżnicowanych profilach w technologii, komunikacji, strategii i dziedzinie prawnej. Zobacz stronę O nas."
+      },
+      "q10": {
+        "question": "Jak finansowany jest projekt?",
+        "answer": "Poprzez dobrowolne wkłady przeznaczone na rozwój i utrzymanie narzędzi technologicznych. Zobacz Jak pomóc."
+      }
+    }
   },
   "apps": {
     "title": "Nasze aplikacje",
@@ -42,19 +87,78 @@
   },
   "team": {
     "title": "O nas",
-    "description": "Dążymy do wpływu na prawa człowieka poprzez tworzenie aplikacji technologicznych i działania edukacyjne; udostępniamy społeczne działania obywatelskie za pomocą informacji, aby każdy mógł dostosować codzienne decyzje do własnych zasad i ideałów.",
+    "description": "Europe for Palestine to projekt prowadzony przez wolontariuszy z różnych środowisk, którzy współpracują na rzecz ochrony praw człowieka przy użyciu narzędzi cyfrowych i kampanii komunikacyjnych. Nasz zespół łączy wiedzę z zakresu technologii, komunikacji i strategii; działamy w sposób przejrzysty i odpowiedzialny, aby umożliwić zbiorowe działania o realnym wpływie.",
     "member1": {
       "name": "John Doe",
       "description": "Współzałożyciel i główny programista"
     },
+    "sections": {
+      "developers": "Programiści",
+      "designers": "Pomoc prawna",
+      "socialMedia": "Komunikacja i media społecznościowe"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Asystentka prawna",
+      "description": "Lucia jest częścią Europe for Palestine, kierując się silnym zobowiązaniem wobec praw człowieka i obrony godności ludzkiej. Wnosi wkład do projektu poprzez badania prawne, analizę dokumentów i wsparcie inicjatyw prawnych, pomagając zapewnić, że inicjatywa rozwija się na odpowiedzialnych i rzetelnych podstawach. Jej praca jest kierowana przez współczucie i przekonanie, że prawo może być narzędziem służącym ludziom.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Nadia Rahman",
+      "title": "Menedżer mediów społecznościowych"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Kierownik projektu",
+      "description": "Martina jest częścią Europe for Palestine, kierowaną głębokim zaangażowaniem w sprawę palestyńską oraz obronę praw człowieka i sprawiedliwości społecznej. Postrzega swój udział w projekcie jako konkretny i znaczący sposób wsparcia dla narodu, którego prawa i godność nadal są naruszane. Wnosi swoje doświadczenie w zbieraniu funduszy i koordynacji zespołów, pracując blisko, w sposób współpracujący i elastyczny. Jej praca jest prowadzona przez zasadę równości i uznania wszystkich ludzi za równych, bez dyskryminacji.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Kierowniczka ds. komunikacji",
+      "description": "Elena jest częścią Europe for Palestine, kierowana zaangażowaniem w prawa człowieka i przekonaniem, że komunikacja może pomagać w budowaniu świadomości i napędzaniu zmian społecznych. Kieruje obszarem komunikacji projektu, definiując narrację, strategię treści i obecność cyfrową, z celem przekazywania celu i wartości inicjatywy w sposób jasny, uczciwy i przystępny. Jej praca jest prowadzona przez przejrzystość i krytyczne myślenie.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "member1": {
+      "name": "Manel Castro",
+      "title": "Inżynier oprogramowania i założyciel",
+      "description": "Manel jest założycielem Europe for Palestine i kieruje rozwojem technologicznym projektu. Kierowany przekonaniem, że technologia może służyć prawom człowieka, koordynuje ogólną wizję inicjatywy i prowadzi zespół deweloperski, dbając o to, aby każda strategiczna i techniczna decyzja była zgodna z jej humanitarnym celem. Jego praca jest motywowana zobowiązaniem do przyczyniania się do minimalnego globalnego ramienia praw człowieka."
+    },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Współzałożycielka i projektantka produktu"
+      "name": "Ilias Otsman",
+      "title": "Programista Full Stack",
+      "description": "Ilias dołączył do projektu z zamiarem przyczynienia się do sprawy swoimi umiejętnościami technicznymi jako deweloper, łącząc wpływ społeczny z rozwojem zawodowym. Wspiera rozwój funkcji i rozwiązań technicznych niezbędnych dla inicjatywy, podchodząc do każdego wyzwania z postawą ciągłego uczenia się. Jego praca kieruje się chęcią doskonalenia się, podejmowania nowych wyzwań i dostarczania wartości poprzez technologię.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Menedżer społeczności"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Strateg i lider projektu",
+      "description": "Fabian jest częścią projektu, zmotywowany możliwością przekształcenia wspólnego zaangażowania na rzecz sprawiedliwości i równości w działanie zbiorowe. Wnosi wkład poprzez planowanie strategiczne, koordynację zespołów i rekrutację wolontariuszy, pomagając w strukturyzacji i zrównoważonym rozwoju inicjatywy. Jego praca kierowana jest zasadą równości, szacunkiem dla różnorodności i współpracą.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Poznaj cały zespół"
+    "mission": {
+      "title": "Dlaczego do nas dołączyć?",
+      "description": "Dołącz do nas w tworzeniu świata, w którym firmy i organizacje szanują prawa człowieka i inne podstawowe wartości naszego społeczeństwa.",
+      "cards": {
+        "humanRights": {
+          "title": "Prawa człowieka",
+          "description": "Wspieraj swoją pracą rozwój praw człowieka w praktyczny sposób."
+        },
+        "volunteerDriven": {
+          "title": "Napędzany przez wolontariuszy",
+          "description": "Inwestujemy tylko nasz wolny czas i nadal rozwijamy nasz zawód."
+        },
+        "legallyAssisted": {
+          "title": "Wsparcie prawne",
+          "description": "Dbamy prawnie o nasz publiczny wizerunek, aplikacje i bazy danych."
+        }
+      }
+    },
+    "meetFullTeam": "Poznaj cały zespół",
+    "joinUs": {
+      "title": "Chcesz do nas dołączyć?",
+      "description": "Skontaktuj się z nami na LinkedIn, wysyłając wiadomość z załączonym CV i informacją, jak możesz nam pomóc.",
+      "button": "Połącz na LinkedIn"
+    }
   }
 }

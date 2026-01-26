@@ -34,7 +34,8 @@ const NewsletterSubscribe: React.FC = () => {
         setName("");
       } else {
         const body = await res.json().catch(() => null);
-        const errMsg = (body && (body.error || body.message)) || `HTTP ${res.status}`;
+        const errMsg =
+          (body && (body.error || body.message)) || `HTTP ${res.status}`;
         setStatus(errMsg);
       }
     } catch (err) {
@@ -100,7 +101,9 @@ const NewsletterSubscribe: React.FC = () => {
             </form>
 
             <div style={{ marginTop: 12 }}>
-              {status === "loading" && <Text>{t("landing.newsletterSending")}</Text>}
+              {status === "loading" && (
+                <Text>{t("landing.newsletterSending")}</Text>
+              )}
               {status && status !== "loading" && status !== "ok" && (
                 <Text style={{ color: "#ffb3b3" }}>{status}</Text>
               )}

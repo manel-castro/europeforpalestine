@@ -1,15 +1,19 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import Text from "../../ui/Text";
 import SectionWrapper from "./SectionWrapper";
 
 const TeamAboutUs: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
     <SectionWrapper>
       <Text
+        id="team-roles"
         variant="title-h2"
         style={{ fontSize: "2rem", fontWeight: 700, marginBottom: "1rem" }}
       >
-        About us
+        {t("team.title")}
       </Text>
 
       <Text
@@ -21,9 +25,7 @@ const TeamAboutUs: React.FC = () => {
           textAlign: "center",
         }}
       >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-        odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
-        quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
+        {t("team.description")}
       </Text>
     </SectionWrapper>
   );

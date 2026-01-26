@@ -3,18 +3,17 @@ import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import Text from "../../ui/Text";
 import SectionWrapper from "components/TeamPage/components/SectionWrapper";
+import manelImage from "media/images/about-us-manel.png";
+import martinaImage from "media/images/about-us-martina.png";
+import elenaImage from "media/images/about-us-elena.png";
 
 interface TeamMemberProps {
   imageUrl: string;
   name: string;
-  description: string;
+  title?: string;
 }
 
-const TeamMember: React.FC<TeamMemberProps> = ({
-  imageUrl,
-  name,
-  description,
-}) => {
+const TeamMember: React.FC<TeamMemberProps> = ({ imageUrl, name, title }) => {
   return (
     <div
       style={{
@@ -54,17 +53,19 @@ const TeamMember: React.FC<TeamMemberProps> = ({
       >
         {name}
       </Text>
-      <Text
-        variant="description"
-        style={{
-          fontSize: "0.95rem",
-          lineHeight: "1.5",
-          textAlign: "center",
-          margin: 0,
-        }}
-      >
-        {description}
-      </Text>
+      {title ? (
+        <Text
+          variant="description"
+          style={{
+            fontSize: "0.95rem",
+            lineHeight: "1.5",
+            textAlign: "center",
+            margin: 0,
+          }}
+        >
+          {title}
+        </Text>
+      ) : null}
     </div>
   );
 };
@@ -122,25 +123,27 @@ const LandingTeam: React.FC = () => {
           }}
         >
           <TeamMember
-            imageUrl="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80"
+            imageUrl={manelImage}
             name={t("team.member1.name")}
-            description={t("team.member1.description")}
+            title={t("team.member1.title")}
           />
+
           <TeamMember
-            imageUrl="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80"
-            name={t("team.member2.name")}
-            description={t("team.member2.description")}
+            imageUrl={martinaImage}
+            name={t("team.coordinator1.name")}
+            title={t("team.coordinator1.title")}
           />
+
           <TeamMember
-            imageUrl="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80"
-            name={t("team.member3.name")}
-            description={t("team.member3.description")}
+            imageUrl={elenaImage}
+            name={t("team.social1.name")}
+            title={t("team.social1.title")}
           />
         </div>
 
         {/* Meet the Full Team Link */}
         <Link
-          to="/about-us#meet-team"
+          to="/about-us#team-roles"
           style={{
             display: "flex",
             alignItems: "center",

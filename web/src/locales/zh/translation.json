@@ -14,10 +14,55 @@
     "databasesDescription": "所有关于品牌和公司的可用信息均基于我们自己的独立研究，并且在任何情况下我们都不与其他组织有联系。同样，我们也不以任何方式与列在我们应用程序中的任何品牌和公司合作。我们收集这些数据的目的是帮助消费者做出明智的决策。",
     "howToHelpTitle": "如何帮助",
     "howToHelpDescription": "有了您的帮助，我们可以覆盖服务器成本、推广活动和其他开销。现在就帮助 EuropeForPalestine。",
-     "imageAlt": "占位符图像",
+    "imageAlt": "占位符图像",
     "newsletterTitle": "订阅我们的通讯",
     "newsletterDescription": "订阅我们的通讯以获取更新、关于品牌的有趣数据等。",
-    "newsletterPlaceholderName": "您的姓名",
+    "newsletterPlaceholderName": "您的名字",
+    "transparencyTitle": "透明度和界限",
+    "transparencyDescription": "Europe for Palestine 是一个由志愿者运营的独立项目，不隶属于任何政党或私人企业。我们的工作通过自愿捐款资助，用于开发、维护和改进我们创建的工具，并支付确保其负责任运行所需的成本。项目对资源使用的透明度是我们的核心承诺；如有疑问，可发邮件至 manel@europeforpalestine.com。\n\n同时，我们不保证所收集信息的绝对准确性或即时更新。我们使用来自公共且已验证的来源，并始终优先考虑审慎审查和法律保障而非速度或全面性。\n\n我们认为透明度并非承诺不可能的确定性，而是尽快并可访问地向用户提供信息。",
+    "faq": {
+      "title": "常见问题 (FAQ)",
+      "q1": {
+        "question": "Europe for Palestine 是政治项目吗？",
+        "answer": "不是。Europe for Palestine 并不隶属于任何政党或政府组织。它是一个由志愿者运行的独立项目，专注于维护人权并开发用于信息和意识提升的技术工具。"
+      },
+      "q2": {
+        "question": "consumer-list.com 到底是什么？",
+        "answer": "consumer-list.com 是一个网络应用，展示收录在我们公共数据库中的公司列表。"
+      },
+      "q3": {
+        "question": "为什么不说明公司出现在名单上的原因？",
+        "answer": "为避免误解和潜在的诽谤风险，我们的数据库仅标注公司被收录于特定名单，而不复述个别指控。"
+      },
+      "q4": {
+        "question": "数据来自哪里？",
+        "answer": "来自公共且经过核实的来源。我们不能总是链接来源，因为如果这些来源在其网站上散布诽谤内容，可能会影响我们的组织。若要讨论新的数据来源，请联系 manel@europeforpalestine.com。"
+      },
+      "q5": {
+        "question": "你们能保证信息完全真实且始终更新吗？",
+        "answer": "不能。无法保证绝对准确或即时更新。我们也无法保证数据库的完整性。某些公司可能出现在比我们目前覆盖更多的数据库中。"
+      },
+      "q6": {
+        "question": "如果公司改变其做法会怎样？",
+        "answer": "更新取决于新信息来源的可用性及其审核。"
+      },
+      "q7": {
+        "question": "consumer-list.com 会取代用户的个人判断吗？",
+        "answer": "不会。这是一个信息工具；最终决策始终由用户自行决定。"
+      },
+      "q8": {
+        "question": "Transparent 是什么？",
+        "answer": "Transparent 是一款支出追踪工具，只需扫描购物小票即可使用所有追踪功能（无需逐一手动输入每件商品）。Transparent 提供有关每件商品社会影响的信息，并提供简单的支出追踪功能及小票图片数据库（小票图片通常可用于退款）。"
+      },
+      "q9": {
+        "question": "谁在背后推动该项目？",
+        "answer": "一个由来自技术、传播、战略和法律领域的志愿者组成的团队。请参阅关于我们页面。"
+      },
+      "q10": {
+        "question": "项目如何融资？",
+        "answer": "通过用于开发和维护技术工具的自愿捐款获得资金。请参阅 如何帮助。"
+      }
+    },
     "newsletterPlaceholderEmail": "您的电子邮件",
     "newsletterSending": "发送中...",
     "newsletterThankYou": "谢谢 — 请检查您的电子邮件。",
@@ -27,14 +72,15 @@
     "title": "我们的应用",
     "description": "发现我们的移动工具，用于识别品牌、跟踪社会影响并管理收据。",
     "appName": "consumer-list.com",
-    "appDescription": "",
+    "appDescription": "consumer-list.com 是一款移动应用，可帮助您轻松识别哪些品牌和公司被收录在我们的数据库中。只需使用搜索栏查找您当前购买的任何品牌名称即可。",
     "app2Name": "Transparent",
     "app2Description": "Transparent 被設計為一款支出追蹤和提高對該消費相關社會影響認識的工具，同時可用於記錄購買小票以便退貨。",
     "availableOnAppStore": "在App Store上可用",
     "availableOnPlayStore": "在Play Store上可用"
   },
   "buttons": {
-    "donateNow": "立即捐款 5€"
+    "donateNow": "立即捐款 5€",
+    "subscribeNow": "立即订阅"
   },
   "lema": {
     "title": "格言",
@@ -42,19 +88,76 @@
   },
   "team": {
     "title": "关于我们",
-    "description": "我们努力通过创建技术应用和社会传播对人权产生影响；我们通过信息让公民社会行动更易获得，以便每个人能使其日常决策与自身的原则与理想保持一致。",
+    "description": "Europe for Palestine 是一个由来自不同背景的志愿者主导的项目，致力于通过数字工具和传播活动捍卫人权。我们的团队汇聚了技术、传播与战略方面的专业知识；我们以协作、透明和负责任的方式工作，旨在推动能产生实际影响的集体行动。",
     "member1": {
-      "name": "John Doe",
-      "description": "联合创始人兼首席开发者"
+      "name": "Manel Castro",
+      "title": "软件工程师兼创始人",
+      "description": "Manel 是 Europe for Palestine 的創始人，領導該項目的技術開發。他深信技術可以為人權服務，負責協調該倡議的整體願景並領導開發團隊，確保每一項戰略和技術決策都與其人道主義目標一致。他的工作以致力於為人權建立最低限度的全球框架為指導。"
     },
+    "sections": {
+      "developers": "开发者",
+      "designers": "法律援助",
+      "socialMedia": "沟通与社交媒体"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "法律助理",
+      "description": "Lucia 是 Europe for Palestine 的成員，她以对人权和捍卫人类尊严的坚定承诺为动力。她通过法律研究、文献分析和对法律倡议的支持为项目做出贡献，帮助确保该倡议在负责任且严格的基础上开展。她的工作以富有同情心的视角为指引，并坚信法律可以成为为人民服务的工具。",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "传播负责人",
+      "description": "Elena 是 Europe for Palestine 的成员，受她对人权的承诺以及沟通能够促进意识提升和社会变革的信念所驱动。她负责项目的传播工作，定义叙事、内容策略和数字存在，旨在以清晰、诚实且易于理解的方式传达该倡议的宗旨与价值观。她的工作以透明度和批判性思维为指导。",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "内容创建者"
+    },
+
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "项目经理",
+      "description": "Martina 是 Europe for Palestine 的一员，出于对巴勒斯坦事业以及对人权和社会正义的深切承诺而加入。她将自己在项目中的参与视为以具体而有意义的方式支持一个其权利和尊严持续受到侵犯的人民。她凭借在筹款和团队协调方面的经验做出贡献，以紧密、协作和适应的方式工作。她的工作以平等为指导，承认所有人平等，不歧视。",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+
     "member2": {
-      "name": "Jane Smith",
-      "description": "联合创始人兼产品设计师"
+      "name": "Ilias Otsman",
+      "title": "全栈开发工程师",
+      "description": "Ilias 加入该项目，旨在以其作为开发者的技术技能为事业做出贡献，将社会影响与职业成长相结合。他支持该倡议所需功能和技术解决方案的开发，并以持续学习的态度应对每一个挑战。他的工作以改进的愿望、接受新挑战并通过技术创造价值为指导。",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "社区经理"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "策略师与项目负责人",
+      "description": "Fabian 加入该项目，旨在将对正义与平等的共同承诺转化为集体行动。他通过战略规划、团队协调和志愿者招募为项目做出贡献，帮助以可持续的方式构建和发展该倡议。他的工作以平等、尊重多样性和协作为指导。",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "认识完整团队"
+    "mission": {
+      "title": "为什么加入我们？",
+      "description": "加入我们，共同打造一个公司和组织尊重人权及我们社会其他基本价值的世界。",
+      "cards": {
+        "humanRights": {
+          "title": "人权",
+          "description": "通过你的工作为人权的务实发展做出贡献。"
+        },
+        "volunteerDriven": {
+          "title": "志愿者驱动",
+          "description": "我们只投入业余时间，并持续发展我们的专业能力。"
+        },
+        "legallyAssisted": {
+          "title": "法律支持",
+          "description": "我们对我们的公共形象、应用程序和数据库提供法律保障。"
+        }
+      }
+    },
+    "meetFullTeam": "认识完整团队",
+    "joinUs": {
+      "title": "想加入我们吗？",
+      "description": "请通过 LinkedIn 联系我们，附上简历并告诉我们你可以如何帮助我们。",
+      "button": "在 LinkedIn 联系"
+    }
   }
 }

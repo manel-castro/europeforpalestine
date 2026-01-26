@@ -75,8 +75,13 @@ const LandingLema: React.FC = () => {
             }}
           >
             <Text
-              variant="title-h1"
-              style={{ fontSize: "2.5rem", fontWeight: "bold", margin: 0 }}
+              variant="title-h2"
+              style={{
+                fontSize: "2.5rem",
+                fontWeight: "bold",
+                margin: 0,
+                marginBottom: "1.5rem",
+              }}
             >
               {title}
             </Text>
@@ -86,14 +91,17 @@ const LandingLema: React.FC = () => {
               style={{
                 fontSize: "1.1rem",
                 maxWidth: "400px",
-                margin: "0.5rem 0 0 0",
+                margin: "0 0 1.5rem 0",
+                lineHeight: "1.8",
               }}
             >
               {description}
             </Text>
 
             <a
-              href="/about-us"
+              href="https://consumer-list.com"
+              target="_blank"
+              rel="noopener noreferrer"
               style={{ marginTop: "1rem", textDecoration: "none" }}
             >
               <Button variant="primary" color="palestine">

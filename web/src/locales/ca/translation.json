@@ -9,24 +9,69 @@
     "title": "Cada cèntim compta",
     "description": "Ajustar acuradament la nostra llista de la compra ajuda a construir un món on les organitzacions respectin els principis dels drets humans i altres valors fonamentals de la nostra societat.",
     "learnMore": "Més informació",
-    "meetUs": "Coneix-nos",
+    "meetUs": "Consulta les nostres bases de dades",
     "databasesTitle": "Les nostres bases de dades",
     "databasesDescription": "Tota la informació disponible sobre marques i empreses es basa en el nostre estudi independent i en cap cas estem relacionats amb altres organitzacions. Així mateix, no col·laborem de cap manera amb cap de les marques i empreses llistades a les nostres aplicacions. L'objectiu de les dades que recopilem és ajudar els consumidors a prendre decisions informades.",
     "howToHelpTitle": "Com ajudar",
     "howToHelpDescription": "Amb la teva ajuda cobrim els costos dels servidors, campanyes de difusió i altres despeses. Ajuda ara a EuropeForPalestine.",
-     "imageAlt": "Marcador de posició",
+    "imageAlt": "Marcador de posició",
     "newsletterTitle": "Subscriu-te al nostre butlletí",
     "newsletterDescription": "Subscriu-te al nostre butlletí per rebre actualitzacions, dades interessants sobre marques i més.",
     "newsletterPlaceholderName": "El teu nom",
     "newsletterPlaceholderEmail": "el teu correu electrònic",
     "newsletterSending": "Enviant...",
     "newsletterThankYou": "Gràcies — comprova el teu correu electrònic.",
-    "newsletterError": "S'ha produït un error. Torna-ho a intentar més tard."
+    "newsletterError": "S'ha produït un error. Torna-ho a intentar més tard.",
+    "transparencyTitle": "Transparència i límits",
+    "transparencyDescription": "Europe for Palestine és un projecte independent gestionat per voluntaris sense afiliació a partits polítics o corporacions privades. El nostre treball es finança mitjançant contribucions voluntàries per al desenvolupament, manteniment i millora de les eines que creem, i per cobrir els costos necessaris per garantir el seu funcionament responsable. La transparència en l'ús de recursos és un compromís fonamental del projecte; podeu enviar preguntes a manel@europeforpalestine.com\n\nDe la mateixa manera, no garantim l'exactitud absoluta ni les actualitzacions immediates de tota la informació recopilada. Treballem amb dades de fonts públiques i verificades, i sempre prioritzem la revisió acurada i la protecció legal per sobre de la rapidesa o l'exhaustivitat.\n\nCreiem que la transparència no consisteix a prometre certeses impossibles, sinó a posar la informació a disposició dels usuaris de manera ràpida i accessible.",
+    "faq": {
+      "title": "Preguntes freqüents (FAQ)",
+      "q1": {
+        "question": "És Europe for Palestine un projecte polític?",
+        "answer": "No. Europe for Palestine no està afiliat a partits polítics ni a organitzacions governamentals. És un projecte independent gestionat per voluntaris, centrat en la defensa dels drets humans i en la creació d'eines tecnològiques informatives i de conscienciació."
+      },
+      "q2": {
+        "question": "Què és exactament consumer-list.com?",
+        "answer": "consumer-list.com és una aplicació web que mostra llistes d'empreses incloses a les nostres bases de dades públiques."
+      },
+      "q3": {
+        "question": "Per què no expliqueu per què una empresa apareix a la llista?",
+        "answer": "Per evitar males interpretacions i possibles casos de difamació, les nostres bases de dades es limiten a indicar la inclusió d'una empresa en una llista concreta sense reproduir acusacions individuals."
+      },
+      "q4": {
+        "question": "D'on provenen les dades?",
+        "answer": "De fonts públiques i verificades. No sempre podem enllaçar les fonts perquè si aquestes publiquessin difamacions al seu lloc podrien perjudicar la nostra organització. Estem disponibles per discutir noves fonts de dades a manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garantiu que la informació és completament veritable i sempre està actualitzada?",
+        "answer": "No. No és possible garantir una veracitat absoluta ni actualitzacions immediates. Tampoc no garantim la completitud de les bases de dades. Algunes empreses poden aparèixer a més bases de dades de les que actualment cobrim."
+      },
+      "q6": {
+        "question": "Què passa si una empresa canvia les seves pràctiques?",
+        "answer": "Les actualitzacions depenen de la disponibilitat i la revisió de noves fonts d'informació."
+      },
+      "q7": {
+        "question": "consumer-list.com substitueix el criteri personal de l'usuari?",
+        "answer": "No. És una eina informativa; la decisió final sempre correspon a l'usuari."
+      },
+      "q8": {
+        "question": "Què és Transparent?",
+        "answer": "Transparent és un seguidor de despeses que permet escanejar el tiquet de compra per accedir a totes les funcionalitats del seguiment (sense haver d'introduir manualment cada producte). Transparent ofereix informació sobre l'impacte social de cada producte i proporciona un seguidor de despeses senzill i una base de dades de fotos de tiquets (una foto de tiquet sovint és vàlida per a una devolució)."
+      },
+      "q9": {
+        "question": "Qui hi ha darrere del projecte?",
+        "answer": "Un equip de voluntaris amb perfils diversos en tecnologia, comunicació, estratègia i el àmbit jurídic. Vegeu la pàgina Sobre nosaltres."
+      },
+      "q10": {
+        "question": "Com es finança el projecte?",
+        "answer": "Mitjançant contribucions voluntàries destinades al desenvolupament i manteniment d'eines tecnològiques. Vegeu Com ajudar."
+      }
+    }
   },
   "apps": {
     "title": "Les nostres aplicacions",
     "description": "Descobreix les nostres eines mòbils per identificar marques, fer seguiment de l'impacte social i gestionar tiquets.",
-    "appName": "Nom de l'aplicació",
+    "appName": "consumer-list.com",
     "appDescription": "consumer-list.com és una aplicació mòbil que facilita identificar quines marques i empreses estan incloses a les nostres bases de dades. Simplement utilitza la barra de cerca per trobar qualsevol marca que estiguis comprant.",
     "app2Name": "Transparent",
     "app2Description": "Transparent està pensada com una eina per al seguiment de despeses i la conscienciació sobre l'impacte social associat a aquest consum, així com per al registre dels tiquets de compra per a devolucions.",
@@ -42,19 +87,78 @@
   },
   "team": {
     "title": "Sobre nosaltres",
-    "description": "Construïm eines digitals que t'ajuden a fer responsables les empreses, a fer el seguiment del suport als drets palestins i a prendre decisions informades. Utilitzem la tecnologia i l'acció col·lectiva per canviar com les comunitats participen en la defensa. El nostre objectiu és fer que la transparència sigui fàcil per a tothom i enfortir les veus que impulsen el canvi.",
+    "description": "Europe for Palestine és un projecte impulsat per voluntaris de diferents orígens que treballen conjuntament per defensar els drets humans mitjançant eines digitals i campanyes comunicatives. El nostre equip combina experiència en tecnologia, comunicació i estratègia, i treballem de manera col·laborativa i transparent per crear eines digitals que generin un impacte real al servei de causes humanitàries.",
     "member1": {
-      "name": "John Doe",
-      "description": "Cofundador i desenvolupador en cap"
+      "name": "Manel Castro",
+      "title": "Enginyer de programari i fundador",
+      "description": "Manel és el fundador d'Europe for Palestine i lidera el desenvolupament tecnològic del projecte. Impulsat per la convicció que la tecnologia pot posar-se al servei dels drets humans, coordina la visió global de la iniciativa i dirigeix l'equip de desenvolupament, assegurant que cada decisió estratègica i tècnica estigui alineada amb el seu propòsit humanitari. La seva feina està guiada per la voluntat de contribuir a un marc mínim global de drets humans."
     },
     "member2": {
       "name": "Jane Smith",
       "description": "Cofundadora i dissenyadora de producte"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Responsable de comunitat"
+    "member2": {
+      "name": "Ilias Otsman",
+      "title": "Desenvolupador Full Stack",
+      "description": "Ilias s'ha incorporat al projecte amb l'objectiu de contribuir a la causa des de les seves habilitats tècniques com a desenvolupador, combinant impacte social i creixement professional. Dona suport al desenvolupament de funcionalitats i solucions tècniques necessàries per a la iniciativa, abordant cada repte amb una actitud d'aprenentatge continu. La seva feina està guiada per la voluntat de millorar, assumir nous desafiaments i aportar valor des de la tecnologia.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "meetFullTeam": "Coneix l'equip complet"
+    "sections": {
+      "developers": "Desenvolupadors",
+      "designers": "Assistència jurídica",
+      "socialMedia": "Comunicació i xarxes socials"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Assistenta jurídica",
+      "description": "Lucia forma part d'Europe for Palestine impulsada per un ferm compromís amb els drets humans i la defensa de la dignitat humana. Contribueix al projecte mitjançant investigació jurídica, anàlisi documental i suport en iniciatives legals, ajudant a garantir que la iniciativa es desenvolupi sobre bases responsables i rigoroses. La seva feina està guiada per una visió compassiva i per la convicció que el dret pot ser una eina al servei de les persones.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Cap de Comunicació",
+      "description": "Elena forma part d'Europe for Palestine impulsada pel seu compromís amb els drets humans i per la convicció que la comunicació pot contribuir a generar consciència i canvi social. Lidera l'àrea de comunicació del projecte, definint la narrativa, l'estratègia de continguts i la presència digital, amb l'objectiu de transmetre de forma clara, honesta i accessible el propòsit i els valors de la iniciativa. La seva feina està guiada per la transparència i el pensament crític.",
+      "coordinator1": {
+        "name": "Martina Aulicino",
+        "title": "Gestora de projectes",
+        "description": "Martina forma part d'Europe for Palestine impulsada per un compromís profund amb la causa palestina i amb la defensa dels drets humans i la justícia social. Entén la seva participació en el projecte com una forma concreta i significativa de donar suport a un poble els drets i la dignitat del qual continuen sent vulnerats. Contribueix amb la seva experiència en captació de fons i coordinació d'equips, treballant de manera propera, col·laborativa i adaptable. La seva feina està guiada per la igualtat i el reconeixement de totes les persones com a iguals, sense discriminació.",
+        "linkedin": "http://linkedin.com/in/martina-aulicino"
+      },
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "Creador de contingut"
+    },
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Estrateg i líder del projecte",
+      "description": "Fabian forma part del projecte motivat per la possibilitat de transformar un compromís compartit amb la justícia i la igualtat en acció col·lectiva. Contribueix mitjançant la planificació estratègica, la coordinació d'equips i el reclutament de persones voluntàries, ajudant a estructurar i fer créixer la iniciativa de manera sostenible. La seva feina està guiada per la igualtat, el respecte a la diversitat i la col·laboració.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+    },
+    "mission": {
+      "title": "Per què unir-te a nosaltres?",
+      "description": "Uneix-te a nosaltres per desenvolupar un món on empreses i organitzacions respectin els drets humans i altres valors fonamentals de la nostra societat.",
+      "cards": {
+        "humanRights": {
+          "title": "Drets humans",
+          "description": "Contribueix amb la teva feina al desenvolupament pràctic dels drets humans."
+        },
+        "volunteerDriven": {
+          "title": "Impulsat per voluntariat",
+          "description": "Només invertim el nostre temps lliure i seguim desenvolupant la nostra professió."
+        },
+        "legallyAssisted": {
+          "title": "Assistència jurídica",
+          "description": "Ens ocupem legalment de la nostra imatge pública, aplicacions i bases de dades."
+        }
+      }
+    },
+    "meetFullTeam": "Coneix l'equip complet",
+    "joinUs": {
+      "title": "Vols unir-te a nosaltres?",
+      "description": "Contacta'ns a LinkedIn amb un missatge adjuntant el teu currículum i explicant com ens pots ajudar.",
+      "button": "Connecta't a LinkedIn"
+    }
   }
 }
