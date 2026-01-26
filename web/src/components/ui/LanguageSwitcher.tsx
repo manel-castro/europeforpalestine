@@ -70,6 +70,10 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ style }) => {
           fontSize: "0.875rem",
           outline: "none",
           minWidth: "160px",
+
+          appearance: "none",
+          WebkitAppearance: "none",
+          MozAppearance: "none",
         }}
       >
         {languages.map((lang) => (
@@ -82,6 +86,20 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ style }) => {
           </option>
         ))}
       </select>
+
+      <span
+    style={{
+        position: "absolute",
+        right: "1rem",
+        top: "25%",
+        pointerEvents: "none",
+        color: "white",
+        fontSize: "0.8rem",
+        transform: "rotate(180deg)",
+      }}
+    >
+      ^
+    </span>
     </div>
   );
 };
