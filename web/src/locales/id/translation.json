@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Bagaimana cara membantu?"
+  },
+  "welcome": "Selamat datang",
+  "description": "Eropa untuk Palestina",
+  "landing": {
+    "title": "Setiap sen berarti",
+    "description": "Menyesuaikan pilihan belanja kita dengan hati-hati membantu membangun dunia di mana organisasi menghormati prinsip hak asasi manusia dan nilai-nilai dasar lain dari masyarakat kita.",
+    "learnMore": "Pelajari lebih lanjut",
+    "meetUs": "Periksa basis data kami",
+    "databasesTitle": "Basis data kami",
+    "databasesDescription": "Semua informasi yang tersedia tentang merek dan perusahaan didasarkan pada penelitian independen kami sendiri dan dalam keadaan apa pun kami tidak terkait dengan organisasi lain. Demikian juga, kami tidak berkolaborasi dengan cara apa pun dengan merek dan perusahaan yang tercantum dalam aplikasi kami. Tujuan data yang kami kumpulkan adalah membantu konsumen membuat keputusan yang tepat.",
+    "howToHelpTitle": "Bagaimana membantu",
+    "howToHelpDescription": "Dengan bantuan Anda kami menutupi biaya server, kampanye penyuluhan dan biaya lain. Bantu EuropeForPalestine sekarang.",
+    "imageAlt": "Placeholder",
+    "newsletterTitle": "Berlangganan newsletter kami",
+    "newsletterDescription": "Berlangganan newsletter kami untuk mendapatkan pembaruan, data menarik tentang merek, dan lainnya.",
+    "newsletterPlaceholderName": "Nama Anda",
+    "newsletterPlaceholderEmail": "email Anda",
+    "newsletterSending": "Mengirim...",
+    "newsletterThankYou": "Terima kasih — silakan periksa email Anda.",
+    "newsletterError": "Terjadi kesalahan. Coba lagi nanti."
+  },
+  "apps": {
+    "title": "Aplikasi kami",
+    "description": "Temukan alat seluler kami untuk mengidentifikasi merek, melacak dampak sosial, dan mengelola struk.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com adalah aplikasi seluler yang memungkinkan mengidentifikasi dengan mudah merek dan perusahaan mana yang termasuk dalam basis data kami. Cukup gunakan bilah pencarian untuk menemukan nama merek apa pun yang sedang Anda beli saat ini.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent dirancang sebagai alat pelacakan pengeluaran dan kesadaran tentang dampak sosial yang terkait dengan konsumsi tersebut, serta untuk pencatatan struk pembelian untuk pengembalian.",
+    "availableOnAppStore": "Tersedia di App Store",
+    "availableOnPlayStore": "Tersedia di Play Store"
+  },
+  "buttons": {
+    "donateNow": "Donasi sekarang 5€"
+  },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine adalah proyek yang tidak memiliki afiliasi dengan partai politik atau perusahaan swasta mana pun. Kami hanyalah sekelompok orang yang telah lama menyaksikan dengan rasa tak berdaya pelanggaran sistematis terhadap hak asasi manusia yang dialami rakyat Palestina selama beberapa dekade. Inilah ikatan kami dan alasan utama ambisi kami untuk berkontribusi pada pendidikan dasar tentang hak asasi manusia yang adil di seluruh dunia."
+  },
+  "team": {
+    "title": "Tentang kami",
+    "description": "Kami berupaya memengaruhi hak asasi manusia melalui penciptaan aplikasi teknologi dan penyuluhan sosial; kami membuat tindakan sosial sipil dapat diakses melalui informasi agar setiap individu dapat menyelaraskan keputusan sehari-harinya dengan prinsip dan cita-cita mereka sendiri.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Co-founder & Lead Developer"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Co-founder & Product Designer"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Community Manager"
+    },
+    "meetFullTeam": "Temui seluruh tim"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "logo": "LOGO",
+    "howToHelp": "Nasıl yardım edilir?"
+  },
+  "welcome": "Hoş geldiniz",
+  "description": "Filistin için Avrupa",
+  "landing": {
+    "title": "Her sent önemlidir",
+    "description": "Alışveriş listemizi dikkatle ayarlamak, kuruluşların insan hakları ilkelerine ve toplumumuzun diğer temel değerlerine saygı göstermesine yardımcı olur.",
+    "learnMore": "Daha fazla bilgi edinin",
+    "meetUs": "Veritabanlarımızı kontrol edin",
+    "databasesTitle": "Veritabanlarımız",
+    "databasesDescription": "Markalar ve şirketlerle ilgili mevcut tüm bilgiler kendi bağımsız araştırmamıza dayanmaktadır ve hiçbir koşulda başka kuruluşlarla bağlantılı değiliz. Ayrıca, uygulamalarımızda listelenen markalar ve şirketlerle hiçbir şekilde işbirliği yapmıyoruz. Topladığımız verilerin amacı tüketicilerin bilinçli kararlar almasına yardımcı olmaktır.",
+    "howToHelpTitle": "Nasıl yardım edilir",
+    "howToHelpDescription": "Yardımınızla sunucu maliyetlerini, farkındalık kampanyalarını ve diğer giderleri karşılıyoruz. Şimdi EuropeForPalestine'e yardım edin.",
+    "imageAlt": "Yer tutucu",
+    "newsletterTitle": "Bültenimize abone olun",
+    "newsletterDescription": "Bültenimize abone olun; güncellemeler, markalar hakkında ilginç veriler ve daha fazlasını alın.",
+    "newsletterPlaceholderName": "Adınız",
+    "newsletterPlaceholderEmail": "e-posta adresiniz",
+    "newsletterSending": "Gönderiliyor...",
+    "newsletterThankYou": "Teşekkürler — lütfen e-postanızı kontrol edin.",
+    "newsletterError": "Bir hata oluştu. Daha sonra tekrar deneyin."
+  },
+  "apps": {
+    "title": "Uygulamalarımız",
+    "description": "Markaları tanımlamaya, sosyal etkiyi takip etmeye ve fişleri yönetmeye yarayan mobil araçlarımızı keşfedin.",
+    "appName": "consumer-list.com",
+    "appDescription": "consumer-list.com, veritabanlarımızda yer alan hangi marka ve şirketlerin olduğunu kolayca belirlemenizi sağlayan bir mobil uygulamadır. Satın aldığınız herhangi bir marka adını bulmak için arama çubuğunu kullanmanız yeterlidir.",
+    "app2Name": "Transparent",
+    "app2Description": "Transparent, harcamaların takibi ve bu tüketimin sosyal etkisi hakkında farkındalık yaratma amacıyla tasarlanmış bir araçtır; ayrıca iadeler için fiş kaydı yapma imkanı sunar.",
+    "availableOnAppStore": "App Store'da mevcut",
+    "availableOnPlayStore": "Play Store'da mevcut"
+  },
+  "buttons": {
+    "donateNow": "Şimdi bağışla 5€",
+    "subscribeNow": "Hemen abone ol"
+  },
+  "lema": {
+    "title": "Slogan",
+    "description": "Europe for Palestine siyasi partilerle veya özel şirketlerle herhangi bir bağa sahip olmayan bir projedir. Biz sadece onlarca yıldır Filistin halkının insan haklarının sistematik olarak ihlal edilmesini çaresizlikle izleyen bir grup insanız. Bu bizim bağımız ve adil insan hakları konusunda asgari bir eğitim sağlamaya yönelik amacımızın ana nedenidir."
+  },
+  "team": {
+    "title": "Hakkımızda",
+    "description": "İnsan hakları üzerinde etki yaratmayı, teknolojik uygulamalar ve sosyal farkındalık çalışmaları yoluyla hedefliyoruz; her bireyin günlük kararlarını kendi ilkeleri ve idealleri doğrultusunda hizalayabilmesi için sosyal eylemi bilgi aracılığıyla erişilebilir kılıyoruz.",
+    "member1": {
+      "name": "John Doe",
+      "description": "Kurucu ortak ve baş geliştirici"
+    },
+    "member2": {
+      "name": "Jane Smith",
+      "description": "Kurucu ortak ve ürün tasarımcısı"
+    },
+    "member3": {
+      "name": "Alex Johnson",
+      "description": "Topluluk yöneticisi"
+    },
+    "meetFullTeam": "Tüm ekibi tanıyın"
+  }
+}
