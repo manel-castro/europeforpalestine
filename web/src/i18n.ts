@@ -17,26 +17,9 @@ import ruTranslation from "./locales/ru/translation.json";
 import jaTranslation from "./locales/ja/translation.json";
 import koTranslation from "./locales/ko/translation.json";
 import hiTranslation from "./locales/hi/translation.json";
-import bnTranslation from "./locales/bn/translation.json";
-import trTranslation from "./locales/tr/translation.json";
 import plTranslation from "./locales/pl/translation.json";
 import ukTranslation from "./locales/uk/translation.json";
-import viTranslation from "./locales/vi/translation.json";
-import thTranslation from "./locales/th/translation.json";
-import heTranslation from "./locales/he/translation.json";
-import idTranslation from "./locales/id/translation.json";
-import msTranslation from "./locales/ms/translation.json";
-import faTranslation from "./locales/fa/translation.json";
-import urTranslation from "./locales/ur/translation.json";
-import svTranslation from "./locales/sv/translation.json";
-import noTranslation from "./locales/no/translation.json";
-import daTranslation from "./locales/da/translation.json";
-import fiTranslation from "./locales/fi/translation.json";
-import csTranslation from "./locales/cs/translation.json";
 import roTranslation from "./locales/ro/translation.json";
-import elTranslation from "./locales/el/translation.json";
-import huTranslation from "./locales/hu/translation.json";
-
 const resources = {
   en: { translation: enTranslation },
   es: { translation: esTranslation },
@@ -52,25 +35,10 @@ const resources = {
   ja: { translation: jaTranslation },
   ko: { translation: koTranslation },
   hi: { translation: hiTranslation },
-  bn: { translation: bnTranslation },
-  tr: { translation: trTranslation },
+
   pl: { translation: plTranslation },
   uk: { translation: ukTranslation },
-  vi: { translation: viTranslation },
-  th: { translation: thTranslation },
-  he: { translation: heTranslation },
-  id: { translation: idTranslation },
-  ms: { translation: msTranslation },
-  fa: { translation: faTranslation },
-  ur: { translation: urTranslation },
-  sv: { translation: svTranslation },
-  no: { translation: noTranslation },
-  da: { translation: daTranslation },
-  fi: { translation: fiTranslation },
-  cs: { translation: csTranslation },
   ro: { translation: roTranslation },
-  el: { translation: elTranslation },
-  hu: { translation: huTranslation },
 };
 
 i18n

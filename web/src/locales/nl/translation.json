@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "je e-mail",
     "newsletterSending": "Verzenden...",
     "newsletterThankYou": "Dank je — controleer je e-mail.",
-    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens."
+    "newsletterError": "Er is een fout opgetreden. Probeer het later nog eens.",
+    "transparencyTitle": "Transparantie en grenzen",
+    "faq": {
+      "title": "Veelgestelde vragen (FAQ)",
+      "q1": {
+        "question": "Is Europe for Palestine een politiek project?",
+        "answer": "Nee. Europe for Palestine is niet verbonden aan politieke partijen of overheidsorganisaties. Het is een onafhankelijk project dat door vrijwilligers wordt uitgevoerd en zich richt op de verdediging van mensenrechten en de ontwikkeling van informatieve technologische hulpmiddelen."
+      },
+      "q2": {
+        "question": "Wat is consumer-list.com precies?",
+        "answer": "consumer-list.com is een webapplicatie die lijsten van bedrijven toont die in onze openbare databases zijn opgenomen."
+      },
+      "q3": {
+        "question": "Waarom wordt niet uitgelegd waarom een bedrijf op de lijst staat?",
+        "answer": "Om misinterpretaties en mogelijke smaadzaken te vermijden, beperken onze databases zich tot het aangeven van de opname van een bedrijf in een bepaalde lijst zonder individuele beschuldigingen te reproduceren."
+      },
+      "q4": {
+        "question": "Waar komen de gegevens vandaan?",
+        "answer": "Van openbare en geverifieerde bronnen. We kunnen niet altijd bronnen linken omdat als deze op hun site zouden lasteren, dat onze organisatie zou schaden. We staan open om nieuwe gegevensbronnen te bespreken via manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garandeert u dat de informatie volledig juist en altijd up-to-date is?",
+        "answer": "Nee. Het is niet mogelijk om absolute juistheid of onmiddellijke updates te garanderen. We kunnen ook niet de volledigheid van de databases garanderen. Sommige bedrijven kunnen in meer databases voorkomen dan wij momenteel behandelen."
+      },
+      "q6": {
+        "question": "Wat gebeurt er als een bedrijf zijn praktijken verandert?",
+        "answer": "Updates hangen af van de beschikbaarheid en beoordeling van nieuwe informatiebronnen."
+      },
+      "q7": {
+        "question": "Vervangt consumer-list.com het persoonlijke oordeel van de gebruiker?",
+        "answer": "Nee. Het is een informatietool; de uiteindelijke beslissing ligt altijd bij de gebruiker."
+      },
+      "q8": {
+        "question": "Wat is Transparent?",
+        "answer": "Transparent is een uitgaven-tracker waarmee je eenvoudig een aankoopbon scant om alle functies van de tracker te gebruiken (zonder handmatige invoer van elk product). Transparent biedt informatie over de maatschappelijke impact van elk product en biedt een eenvoudige uitgaven-tracker en een database met bonfoto's (een foto van een bon is vaak geldig voor terugbetaling)."
+      },
+      "q9": {
+        "question": "Wie staat er achter het project?",
+        "answer": "Een team van vrijwilligers met diverse achtergronden in technologie, communicatie, strategie en recht. Zie de pagina Over ons."
+      },
+      "q10": {
+        "question": "Hoe wordt het project gefinancierd?",
+        "answer": "Door vrijwillige bijdragen voor de ontwikkeling en onderhoud van de technologische hulpmiddelen. Zie Hoe helpen."
+      }
+    },
+    "transparencyDescription": "Europe for Palestine is een onafhankelijk project dat wordt uitgevoerd door vrijwilligers zonder affiliatie met politieke partijen of particuliere bedrijven. Ons werk wordt gefinancierd door vrijwillige bijdragen voor de ontwikkeling, het onderhoud en de verbetering van de tools die we creëren, evenals de kosten die nodig zijn om hun verantwoorde werking te garanderen. Transparantie in het gebruik van middelen is een kernverplichting van het project; je kunt je vragen sturen naar manel@europeforpalestine.com\n\nEvenzo garanderen we niet de absolute juistheid of directe actualisering van alle verzamelde informatie. We werken met gegevens uit openbare en geverifieerde bronnen en geven altijd prioriteit aan zorgvuldige beoordeling en juridische bescherming boven snelheid of volledigheid.\n\nWe geloven dat transparantie niet betekent dat je onmogelijk zekerheden belooft, maar dat je informatie snel en toegankelijk beschikbaar stelt aan gebruikers."
   },
   "apps": {
     "title": "Onze apps",
@@ -37,25 +82,94 @@
     "donateNow": "Doneer nu 5€",
     "subscribeNow": "Abonneer nu"
   },
-  "lema": {
-    "title": "Leus",
-    "description": "Europe for Palestine is een project zonder enige vorm van affiliatie met politieke partijen of private ondernemingen. We zijn simpelweg een groep mensen die al te lang machteloos toekijken naar de systematische schending van de mensenrechten die het Palestijnse volk al decennialang ondergaat. Dit is onze verbindende band en de voornaamste reden van onze ambitie om bij te dragen aan een minimale vorming in rechtvaardige mensenrechten wereldwijd."
-  },
   "team": {
-    "title": "Over ons",
-    "description": "We proberen invloed uit te oefenen op mensenrechten door het maken van technologische toepassingen en maatschappelijke voorlichting; we maken burgerlijke sociale actie toegankelijk via informatie zodat ieder individu zijn dagelijkse beslissingen kan afstemmen op zijn eigen principes en idealen.",
-    "member1": {
-      "name": "John Doe",
-      "description": "Mede-oprichter & Lead Developer"
+  "lema": {
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Juridisch assistent",
+      "description": "Lucia maakt deel uit van Europe for Palestine, gedreven door een sterk commitment aan mensenrechten en de verdediging van menselijke waardigheid. Ze draagt bij aan het project via juridisch onderzoek, documentanalyse en ondersteuning bij juridische initiatieven, en helpt ervoor te zorgen dat de initiatief op verantwoorde en rigoureuze basis werkt. Haar werk wordt geleid door compassie en de overtuiging dat wetgeving een hulpmiddel kan zijn ten dienste van mensen.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
     },
-    "member2": {
-      "name": "Jane Smith",
-      "description": "Mede-oprichter & Productontwerper"
-    },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Community Manager"
-    },
-    "meetFullTeam": "Ontmoet het volledige team"
+    "title": "Software engineer en oprichter",
+    "description": "Manel is de oprichter van Europe for Palestine en leidt de technologische ontwikkeling van het project. Gedreven door de overtuiging dat technologie ten dienste kan staan van de mensenrechten, coördineert hij de algemene visie van het initiatief en leidt hij het ontwikkelingsteam, waarbij hij ervoor zorgt dat elke strategische en technische beslissing in lijn is met het humanitaire doel. Zijn werk wordt geleid door de toewijding om bij te dragen aan een minimaal wereldwijd kader voor mensenrechten."
+  },
+  "member1": {
+    "name": "Manel Castro",
+    "title": "Software engineer en oprichter",
+    "description": "Manel is de oprichter van Europe for Palestine en leidt de technologische ontwikkeling van het project. Gedreven door de overtuiging dat technologie ten dienste kan staan van de mensenrechten, coördineert hij de algehele visie van het initiatief en leidt hij het ontwikkelingsteam, waarbij hij ervoor zorgt dat elke strategische en technische beslissing in lijn is met het humanitaire doel. Zijn werk wordt geleid door de toewijding bij te dragen aan een minimaal wereldwijd kader voor mensenrechten."
+  },
+  "member2": {
+    "name": "Ilias Otsman",
+    "title": "Full-stackontwikkelaar",
+    "description": "Ilias is bij het project gekomen met als doel bij te dragen aan de zaak met zijn technische vaardigheden als ontwikkelaar, waarbij maatschappelijke impact en professionele groei worden gecombineerd. Hij ondersteunt de ontwikkeling van functionaliteiten en technische oplossingen die voor het initiatief nodig zijn, en pakt elke uitdaging met een houding van continu leren aan. Zijn werk wordt gedreven door de wens te verbeteren, nieuwe uitdagingen aan te gaan en waarde toe te voegen met technologie.",
+    "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
+  },
+  "sections": {
+    "developers": "Ontwikkelaars",
+    "designers": "Juridische hulp",
+    "socialMedia": "Communicatie en sociale media"
+  },
+  "designer1": {
+    "name": "Lucia Manca",
+    "title": "Juridisch assistent",
+    "description": "Lucia maakt deel uit van Europe for Palestine, gedreven door een sterk commitment aan mensenrechten en de verdediging van menselijke waardigheid. Ze draagt bij aan het project via juridisch onderzoek, documentanalyse en ondersteuning bij juridische initiatieven, en helpt ervoor te zorgen dat het initiatief op verantwoorde en rigoureuze basis werkt. Haar werk wordt geleid door compassie en door de overtuiging dat het recht een instrument kan zijn ten dienste van mensen.",
+    "linkedin": "http://linkedin.com/in/lucia-manca"
+  },
+  "designer2": {
+    "name": "Tom Becker",
+    "title": "UX-onderzoeker",
+    "description": ""
+  },
+  "social1": {
+    "name": "Nadia Rahman",
+    "title": "Socialmediamanager"
+  },
+  "social2": {
+    "name": "Jason Kim",
+    "title": "Contentmaker",
+    "description": ""
+  },
+  "coordinator1": {
+    "name": "Martina Aulicino",
+    "title": "Projectmanager",
+    "description": "Martina maakt deel uit van Europe for Palestine, gedreven door een diep commitment aan de Palestijnse zaak en de verdediging van de mensenrechten en sociale rechtvaardigheid. Ze ziet haar betrokkenheid als een concrete en betekenisvolle manier om een volk te steunen waarvan de rechten en waardigheid blijven worden geschonden. Ze draagt bij met haar ervaring in fondsenwerving en teamcoördinatie, en werkt nauw, samenwerkingsgericht en flexibel. Haar werk wordt geleid door gelijkheid en de erkenning van alle mensen als gelijken, zonder discriminatie.",
+    "linkedin": "http://linkedin.com/in/martina-aulicino"
+  },
+  "social1": {
+    "name": "Elena Martínez de Cestafe",
+    "title": "Hoofd Communicatie",
+    "description": "Elena maakt deel uit van Europe for Palestine, gedreven door haar inzet voor mensenrechten en de overtuiging dat communicatie kan bijdragen aan bewustwording en maatschappelijke verandering. Zij leidt het communicatiegebied van het project, bepaalt de narratief, contentstrategie en digitale aanwezigheid, met als doel het doel en de waarden van de initiatief duidelijk, eerlijk en toegankelijk over te brengen. Haar werk wordt geleid door transparantie en kritisch denken.",
+    "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+  },
+  "coordinator2": {
+    "name": "Fabian Berástegui",
+    "title": "Strateg en projectleider",
+    "description": "Fabian maakt deel uit van het project en is gemotiveerd door de mogelijkheid om een gedeelde toewijding aan rechtvaardigheid en gelijkheid om te zetten in collectieve actie. Hij draagt bij door strategische planning, teamcoördinatie en werving van vrijwilligers, en helpt de initiatief duurzaam te structureren en te laten groeien. Zijn werk wordt geleid door gelijkheid, respect voor diversiteit en samenwerking.",
+    "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
+  },
+  "mission": {
+    "title": "Waarom bij ons aansluiten?",
+    "description": "Doe met ons mee om een wereld te ontwikkelen waarin bedrijven en organisaties mensenrechten en andere fundamentele waarden van onze samenleving respecteren.",
+    "cards": {
+      "humanRights": {
+        "title": "Mensenrechten",
+        "description": "Draag met je werk bij aan de praktische ontwikkeling van mensenrechten."
+      },
+      "volunteerDriven": {
+        "title": "Vrijwilligersgestuurd",
+        "description": "We investeren alleen onze vrije tijd en blijven ons vak ontwikkelen."
+      },
+      "legallyAssisted": {
+        "title": "Juridische ondersteuning",
+        "description": "We zorgen juridisch voor ons publieke imago, onze applicaties en databases."
+      }
+    }
+  },
+  "meetFullTeam": "Ontmoet het volledige team",
+  "joinUs": {
+    "title": "Wil je je bij ons voegen?",
+    "description": "Neem contact met ons op via LinkedIn met een bericht waarin je je cv bijvoegt en vertelt hoe je ons kunt helpen.",
+    "button": "Verbinden op LinkedIn"
+  }
   }
 }

@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "deine E-Mail",
     "newsletterSending": "Senden...",
     "newsletterThankYou": "Danke — bitte überprüfe deine E-Mail.",
-    "newsletterError": "Es ist ein Fehler aufgetreten. Versuch es später noch einmal."
+    "newsletterError": "Es gab einen Fehler. Bitte versuche es später erneut.",
+    "transparencyTitle": "Transparenz und grenzen",
+    "faq": {
+      "title": "Häufige Fragen (FAQ)",
+      "q1": {
+        "question": "Ist Europe for Palestine ein politisches Projekt?",
+        "answer": "Nein. Europe for Palestine ist nicht mit politischen Parteien oder Regierungsorganisationen verbunden. Es ist ein unabhängiges Projekt, das von Freiwilligen betrieben wird und sich auf die Verteidigung der Menschenrechte sowie die Entwicklung informativer technologischer Werkzeuge konzentriert."
+      },
+      "q2": {
+        "question": "Was ist genau consumer-list.com?",
+        "answer": "consumer-list.com ist eine Webanwendung, die Listen von Unternehmen anzeigt, die in unseren öffentlichen Datenbanken aufgeführt sind."
+      },
+      "q3": {
+        "question": "Warum wird nicht erklärt, warum ein Unternehmen auf der Liste steht?",
+        "answer": "Um Fehlinterpretationen und mögliche Verleumdungsfälle zu vermeiden, beschränken sich unsere Datenbanken darauf, die Aufnahme eines Unternehmens in eine bestimmte Liste anzuzeigen, ohne einzelne Anschuldigungen zu reproduzieren."
+      },
+      "q4": {
+        "question": "Woher stammen die Daten?",
+        "answer": "Aus öffentlichen und verifizierten Quellen. Wir können nicht immer Quellen verlinken, da deren Inhalte, wenn sie verleumderisch wären, unsere Organisation belasten könnten. Wir sind verfügbar, um neue Datenquellen zu besprechen: manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "Garantieren Sie, dass die Informationen vollständig korrekt und stets auf dem neuesten Stand sind?",
+        "answer": "Nein. Es ist nicht möglich, absolute Genauigkeit oder sofortige Aktualisierungen zu garantieren. Ebenso können wir nicht die Vollständigkeit der Datenbanken garantieren. Einige Unternehmen können in mehr Datenbanken erscheinen, als wir derzeit abdecken."
+      },
+      "q6": {
+        "question": "Was passiert, wenn ein Unternehmen seine Praktiken ändert?",
+        "answer": "Aktualisierungen hängen von der Verfügbarkeit und Prüfung neuer Informationsquellen ab."
+      },
+      "q7": {
+        "question": "Ersetzt consumer-list.com das persönliche Urteil des Nutzers?",
+        "answer": "Nein. Es ist ein Informationswerkzeug; die endgültige Entscheidung liegt stets beim Nutzer."
+      },
+      "q8": {
+        "question": "Was ist Transparent?",
+        "answer": "Transparent ist ein Ausgaben-Tracker, mit dem Sie einfach den Kaufbeleg scannen können, um alle Funktionen des Trackers zu nutzen (ohne manuelle Eingabe jedes Produkts). Transparent bietet Informationen über die gesellschaftlichen Auswirkungen jedes Produkts und stellt einen einfachen Ausgaben-Tracker sowie eine Datenbank von Belegfotos bereit (ein Foto eines Belegs ist oft für eine Rückerstattung gültig)."
+      },
+      "q9": {
+        "question": "Wer steht hinter dem Projekt?",
+        "answer": "Ein Team von Freiwilligen mit unterschiedlichen Profilen in Technologie, Kommunikation, Strategie und Recht. Siehe Seite Über uns."
+      },
+      "q10": {
+        "question": "Wie wird das Projekt finanziert?",
+        "answer": "Durch freiwillige Beiträge zur Entwicklung und Wartung der technologischen Werkzeuge. Siehe Wie helfen."
+      }
+    },
+    "transparencyDescription": "Europe for Palestine ist ein unabhängiges Projekt, das von Freiwilligen betrieben wird und keine Verbindung zu politischen Parteien oder privaten Unternehmen hat. Unsere Arbeit wird durch freiwillige Beiträge finanziert, die der Entwicklung, Wartung und Verbesserung der von uns geschaffenen technologischen Werkzeuge sowie den Kosten dienen, die für ihren verantwortungsvollen Betrieb erforderlich sind. Transparenz bei der Verwendung von Ressourcen ist ein zentrales Anliegen des Projekts; Sie können Ihre Fragen an manel@europeforpalestine.com senden.\n\nEbenso garantieren wir nicht die absolute Richtigkeit oder die sofortige Aktualisierung aller gesammelten Informationen. Wir arbeiten mit Daten aus öffentlichen und überprüften Quellen und priorisieren stets sorgfältige Prüfung und rechtlichen Schutz gegenüber Schnelligkeit oder Vollständigkeit.\n\nWir glauben, dass Transparenz nicht darin besteht, unmögliche Gewissheiten zu versprechen, sondern die verfügbaren Informationen schnell und zugänglich in die Hände der Nutzer zu legen."
   },
   "apps": {
     "title": "Unsere Apps",
@@ -45,19 +90,75 @@
   },
   "team": {
     "title": "Über uns",
-    "description": "Wir versuchen, die Menschenrechte durch die Entwicklung technologischer Anwendungen und soziale Öffentlichkeitsarbeit zu beeinflussen; wir machen bürgerschaftliches Engagement durch Information zugänglich, damit sich jede Person in ihren täglichen Entscheidungen an ihren eigenen Prinzipien und Idealen orientieren kann.",
+    "description": "Europe for Palestine ist ein Projekt, das von Freiwilligen mit unterschiedlichen Profilen und einem gemeinsamen Engagement für die Verteidigung der Menschenrechte getragen wird. Unser Team vereint Fachwissen in Technologie, Kommunikation, Strategie und Recht und arbeitet kollaborativ und transparent an der Entwicklung digitaler Werkzeuge für humanitäre Zwecke. Wir sind überzeugt, dass kollektives Handeln, das auf Verantwortung und Klarheit beruht, dazu beitragen kann, echte Wirkung zu erzielen.",
+
+    "sections": {
+      "developers": "Entwickler",
+      "designers": "Rechtsberatung",
+      "socialMedia": "Kommunikation und soziale Medien"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Juristische Assistenz",
+      "description": "Lucia ist Teil von Europe for Palestine und wird von einem starken Engagement für die Menschenrechte und die Verteidigung der menschlichen Würde angetrieben. Sie trägt zum Projekt durch juristische Recherche, Dokumentenanalyse und Unterstützung bei rechtlichen Initiativen bei und hilft so sicherzustellen, dass die Initiative auf verantwortungsvollen und gründlichen Grundlagen arbeitet. Ihre Arbeit wird von Mitgefühl und der Überzeugung geleitet, dass Recht ein Instrument zum Wohl der Menschen sein kann.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Nadia Rahman",
+      "title": "Social-Media-Manager"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Projektleiterin",
+      "description": "Martina ist Teil von Europe for Palestine und wird von einem tiefen Engagement für die palästinensische Sache sowie der Verteidigung der Menschenrechte und der sozialen Gerechtigkeit angetrieben. Sie versteht ihre Beteiligung am Projekt als eine konkrete und sinnvolle Form der Unterstützung für ein Volk, dessen Rechte und Würde weiterhin verletzt werden. Sie trägt mit ihrer Erfahrung in der Mittelbeschaffung und der Teamkoordination bei und arbeitet eng, kollaborativ und anpassungsfähig. Ihre Arbeit wird von Gleichheit und der Anerkennung aller Menschen als Gleiche ohne Diskriminierung geleitet.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Leiterin Kommunikation",
+      "description": "Elena ist Teil von Europe for Palestine, motiviert durch ihr Engagement für die Menschenrechte und der Überzeugung, dass Kommunikation Bewusstsein schaffen und sozialen Wandel vorantreiben kann. Sie leitet den Kommunikationsbereich des Projekts, definiert die Erzählung, die Content‑Strategie und die digitale Präsenz, mit dem Ziel, Zweck und Werte der Initiative klar, ehrlich und zugänglich zu vermitteln. Ihre Arbeit ist von Transparenz und kritischem Denken geleitet.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
     "member1": {
-      "name": "John Doe",
-      "description": "Mitgründer & Leitender Entwickler"
+      "name": "Manel Castro",
+      "title": "Softwareentwickler und Gründer",
+      "description": "Manel ist der Gründer von Europe for Palestine und leitet die technologische Entwicklung des Projekts. Getrieben von der Überzeugung, dass Technologie den Menschenrechten dienen kann, koordiniert er die Gesamtvision der Initiative und führt das Entwicklungsteam, wobei er sicherstellt, dass jede strategische und technische Entscheidung mit ihrem humanitären Zweck übereinstimmt. Seine Arbeit wird von dem Engagement geleitet, zu einem minimalen globalen Rahmen für Menschenrechte beizutragen."
     },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Mitgründerin & Produktdesignerin"
+      "name": "Ilias Otsman",
+      "title": "Full-Stack-Entwickler",
+      "description": "Ilias ist dem Projekt beigetreten, um mit seinen technischen Fähigkeiten als Entwickler zur Sache beizutragen und sozialen Einfluss mit beruflichem Wachstum zu verbinden. Er unterstützt die Entwicklung von Funktionen und technischen Lösungen, die für die Initiative erforderlich sind, und geht jede Herausforderung mit einer Haltung des kontinuierlichen Lernens an. Seine Arbeit wird von dem Wunsch geleitet, sich zu verbessern, neue Herausforderungen anzunehmen und durch Technologie Mehrwert zu schaffen.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Community-Manager"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Stratege und Projektleiter",
+      "description": "Fabian ist Teil des Projekts und motiviert durch die Möglichkeit, ein gemeinsames Engagement für Gerechtigkeit und Gleichheit in kollektives Handeln umzuwandeln. Er trägt durch strategische Planung, Koordination von Teams und Rekrutierung von Freiwilligen dazu bei, die Initiative nachhaltig zu strukturieren und wachsen zu lassen. Seine Arbeit ist von Gleichheit, Respekt vor Vielfalt und Zusammenarbeit geleitet.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Das gesamte Team kennenlernen"
+    "mission": {
+      "title": "Warum bei uns mitmachen?",
+      "description": "Mach mit, um eine Welt zu entwickeln, in der Unternehmen und Organisationen die Menschenrechte und andere grundlegende Werte unserer Gesellschaft respektieren.",
+      "cards": {
+        "humanRights": {
+          "title": "Menschenrechte",
+          "description": "Trage mit deiner Arbeit zur praktischen Weiterentwicklung der Menschenrechte bei."
+        },
+        "volunteerDriven": {
+          "title": "Freiwillig betrieben",
+          "description": "Wir investieren nur unsere Freizeit und entwickeln weiterhin unsere beruflichen Fähigkeiten."
+        },
+        "legallyAssisted": {
+          "title": "Rechtliche Betreuung",
+          "description": "Wir kümmern uns rechtlich um unser öffentliches Erscheinungsbild, unsere Anwendungen und Datenbanken."
+        }
+      }
+    },
+    "meetFullTeam": "Das gesamte Team kennenlernen",
+    "joinUs": {
+      "title": "Möchten Sie sich uns anschließen?",
+      "description": "Kontaktieren Sie uns auf LinkedIn mit einer Nachricht, in der Sie Ihren Lebenslauf anhängen und uns mitteilen, wie Sie uns helfen können.",
+      "button": "Auf LinkedIn verbinden"
+    }
   }
 }

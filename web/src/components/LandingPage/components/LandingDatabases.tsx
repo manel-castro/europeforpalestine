@@ -4,20 +4,30 @@ import SectionWrapper from "components/TeamPage/components/SectionWrapper";
 import Text from "../../ui/Text";
 
 const LandingDatabases: React.FC = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const align: "left" | "center" = (i18n.language || "")
+    .toLowerCase()
+    .startsWith("es")
+    ? "left"
+    : "center";
 
   return (
     <SectionWrapper>
-      <div style={{ maxWidth: 1200, margin: "0 auto", textAlign: "center" }}>
+      <div style={{ maxWidth: 1000, margin: "0 auto", textAlign: align }}>
         <Text
           variant="title-h2"
-          style={{ fontSize: "2rem", marginBottom: "1rem" }}
+          style={{ textAlign: "left", fontSize: "2rem", marginBottom: "1rem" }}
         >
           {t("landing.databasesTitle")}
         </Text>
         <Text
           variant="description"
-          style={{ fontSize: "1rem", lineHeight: 1.6 }}
+          style={{
+            textAlign: "left",
+            fontSize: "1rem",
+            lineHeight: 1.6,
+            whiteSpace: "pre-wrap",
+          }}
         >
           {t("landing.databasesDescription")}
         </Text>

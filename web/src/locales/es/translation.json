@@ -21,7 +21,52 @@
     "newsletterPlaceholderEmail": "tu correo electrónico",
     "newsletterSending": "Enviando...",
     "newsletterThankYou": "Gracias — por favor revisa tu correo electrónico.",
-    "newsletterError": "Hubo un error. Inténtalo de nuevo más tarde."
+    "newsletterError": "Hubo un error. Inténtalo de nuevo más tarde.",
+    "transparencyTitle": "Transparencia y límites",
+    "transparencyDescription": "Europe for Palestine es un proyecto independiente, impulsado por personas voluntarias y sin afiliación a partidos políticos ni a corporaciones privadas. Nuestro trabajo se financia a través de aportaciones voluntarias destinadas al desarrollo, mantenimiento y mejora de las herramientas tecnológicas que creamos, así como a los costes necesarios para garantizar su funcionamiento responsable. La transparencia en el uso de los recursos es un compromiso central del proyecto; puedes enviar tus preguntas a manel@europeforpalestine.com\n\nDel mismo modo, no garantizamos la veracidad absoluta ni la actualización inmediata de toda la información recopilada. Trabajamos con datos procedentes de fuentes públicas y contrastadas, y priorizamos siempre la revisión cuidadosa y la protección legal frente a la rapidez o la exhaustividad.\n\nCreemos que la transparencia no consiste en prometer certezas imposibles, sino en poner la información disponible de forma rápida y accesible en manos de los usuarios.",
+    "faq": {
+      "title": "Preguntas frecuentes (FAQ)",
+      "q1": {
+        "question": "¿Europe for Palestine es un proyecto político?",
+        "answer": "No. Europe for Palestine no está afiliado a partidos políticos ni a organizaciones gubernamentales. Es un proyecto independiente, impulsado por personas voluntarias, centrado en la defensa de los derechos humanos y en el desarrollo de herramientas tecnológicas con fines informativos y de concienciación."
+      },
+      "q2": {
+        "question": "¿Qué es exactamente consumer-list.com?",
+        "answer": "consumer-list.com es una aplicación web que muestra listas de empresas incluidas en nuestras bases de datos públicas."
+      },
+      "q3": {
+        "question": "¿Por qué no se explica el motivo por el que una empresa aparece en la lista?",
+        "answer": "Para evitar interpretaciones erróneas y posibles situaciones de difamación, nuestras bases de datos se limitan a indicar la inclusión de una empresa en una lista concreta sin reproducir acusaciones individuales."
+      },
+      "q4": {
+        "question": "¿De dónde proceden los datos?",
+        "answer": "De fuentes públicas y contrastadas. No podemos vincular fuentes ya que si ellos estuvieran difamando en su web su delito contaminaría nuestra organización. Estamos disponibles para discutir sobre nuevas fuentes de datos poniéndose en contacto con manel@europeforpalestine.com."
+      },
+      "q5": {
+        "question": "¿Garantizáis que la información sea completamente veraz y esté siempre actualizada?",
+        "answer": "No. No es posible garantizar una veracidad absoluta ni una actualización inmediata. Así mismo tampoco garantizamos la completud de las bases de datos. Hay empresas que pueden aparecer en más bases de datos de las que actualmente se contempla."
+      },
+      "q6": {
+        "question": "¿Qué ocurre si una empresa cambia sus prácticas?",
+        "answer": "Las actualizaciones dependen de la disponibilidad y revisión de nuevas fuentes de información."
+      },
+      "q7": {
+        "question": "¿consumer-list.com sustituye al criterio personal del usuario?",
+        "answer": "No. Es una herramienta informativa; la decisión final corresponde siempre al usuario."
+      },
+      "q8": {
+        "question": "¿Qué es Transparent?",
+        "answer": "Transparent es un seguidor de gastos con la ventaja de que solo basta con escanear el ticket de compra para obtener toda la funcionalidad del seguidor de gastos (omitiendo introducción de datos manual sobre cada producto). Transparent ofrece información sobre cada producto relativo a su impacto en la sociedad, así como ofrecer la funcionalidad de un sencillo seguidor de gastos y base de datos de fotos de tickets de compra (una foto de un ticket suele ser valida para un reembolso de producto)."
+      },
+      "q9": {
+        "question": "¿Quién está detrás del proyecto?",
+        "answer": "Un equipo de personas voluntarias con perfiles diversos en tecnología, comunicación, estrategia y ámbito legal. Ver página Sobre nosotros."
+      },
+      "q10": {
+        "question": "¿Cómo se financia el proyecto?",
+        "answer": "Mediante aportaciones voluntarias destinadas al desarrollo y mantenimiento de las herramientas tecnológicas. Ver Cómo ayudar."
+      }
+    }
   },
   "apps": {
     "title": "Nuestras aplicaciones",
@@ -43,19 +88,78 @@
   },
   "team": {
     "title": "Sobre nosotros",
-    "description": "Tratamos de tener impacto en los derechos humanos a través de la creación de aplicaciones tecnológicas y la difusión social; volvemos accesible la acción social ciudadana a través de la información para que cada individuo se alinee en sus decisiones cotidianas con sus propios principios e ideales",
+    "description": "Europe for Palestine es un proyecto impulsado por personas voluntarias con perfiles diversos y un compromiso común con la defensa de los derechos humanos. Nuestro equipo reúne conocimientos en tecnología, comunicación, estrategia y ámbito legal, trabajando de forma colaborativa y transparente para desarrollar herramientas digitales al servicio de causas humanitarias. Compartimos la convicción de que la acción colectiva, basada en la responsabilidad y la claridad, puede contribuir a generar un impacto real.",
     "member1": {
       "name": "John Doe",
       "description": "Cofundador y Desarrollador Principal"
     },
+    "sections": {
+      "developers": "Desarrolladores",
+      "designers": "Asistencia legal",
+      "socialMedia": "Comunicación y redes sociales"
+    },
+    "designer1": {
+      "name": "Lucia Manca",
+      "title": "Asistente legal",
+      "description": "Lucia forma parte de Europe for Palestine movida por un firme compromiso con los derechos humanos y la defensa de la dignidad humana. Contribuye al proyecto mediante investigación jurídica, análisis documental y apoyo en iniciativas legales, ayudando a garantizar que la iniciativa se desarrolle sobre bases responsables y rigurosas. Su trabajo se guía por una visión compasiva y por la convicción de que el derecho puede ser una herramienta al servicio de las personas.",
+      "linkedin": "http://linkedin.com/in/lucia-manca"
+    },
+    "social1": {
+      "name": "Elena Martínez de Cestafe",
+      "title": "Responsable de Comunicación",
+      "description": "Elena forma parte de Europe for Palestine impulsada por su compromiso con los derechos humanos y por la convicción de que la comunicación puede contribuir a generar conciencia y cambio social. Lidera el área de comunicación del proyecto, definiendo la narrativa, la estrategia de contenidos y la presencia digital, con el objetivo de transmitir de forma clara, honesta y accesible el propósito y los valores de la iniciativa. Su trabajo se guía por la transparencia y el pensamiento crítico.",
+      "linkedin": "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/"
+    },
+    "social2": {
+      "name": "Jason Kim",
+      "title": "Creador de contenido"
+    },
+    "coordinator1": {
+      "name": "Martina Aulicino",
+      "title": "Project Manager",
+      "description": "Martina forma parte de Europe for Palestine impulsada por un compromiso profundo con la causa palestina y con la defensa de los derechos humanos y la justicia social. Entiende su participación en el proyecto como una forma concreta y significativa de apoyo a un pueblo cuyos derechos y dignidad continúan siendo vulnerados. Contribuye mediante su experiencia en recaudación de fondos y coordinación de equipos, trabajando de forma cercana, colaborativa y adaptable. Su trabajo se guía por la igualdad y el reconocimiento de todas las personas como iguales, sin discriminación.",
+      "linkedin": "http://linkedin.com/in/martina-aulicino"
+    },
+    "member1": {
+      "name": "Manel Castro",
+      "title": "Ingeniero de software y fundador",
+      "description": "Manel es el fundador de Europe for Palestine y lidera el desarrollo tecnológico del proyecto. Impulsado por la convicción de que la tecnología puede ponerse al servicio de los derechos humanos, coordina la visión global de la iniciativa y dirige al equipo de desarrollo, asegurando que cada decisión estratégica y técnica esté alineada con su propósito humanitario. Su trabajo se guía por el compromiso de contribuir a un marco mínimo global de derechos humanos."
+    },
     "member2": {
-      "name": "Jane Smith",
-      "description": "Cofundadora y Diseñadora de Producto"
+      "name": "Ilias Otsman",
+      "title": "Desarrollador Full Stack",
+      "description": "Ilias se unió al proyecto con el objetivo de contribuir a la causa desde sus habilidades técnicas como desarrollador, combinando impacto social y crecimiento profesional. Apoya el desarrollo de funcionalidades y soluciones técnicas necesarias para la iniciativa, abordando cada reto desde una actitud de aprendizaje continuo. Su trabajo se guía por la voluntad de mejorar, asumir nuevos desafíos y aportar valor desde la tecnología.",
+      "linkedin": "https://www.linkedin.com/in/ilias-otsman/"
     },
-    "member3": {
-      "name": "Alex Johnson",
-      "description": "Gerente de Comunidad"
+    "coordinator2": {
+      "name": "Fabian Berástegui",
+      "title": "Estratega y líder de proyecto",
+      "description": "Fabian forma parte del proyecto motivado por la posibilidad de transformar un compromiso compartido con la justicia y la igualdad en acción colectiva. Contribuye mediante la planificación estratégica, la coordinación de equipos y el reclutamiento de personas voluntarias, ayudando a estructurar y hacer crecer la iniciativa de forma sostenible. Su trabajo se guía por la igualdad, el respeto a la diversidad y la colaboración.",
+      "linkedin": "https://www.linkedin.com/in/fabian-ber%C3%A1stegui/"
     },
-    "meetFullTeam": "Conoce al equipo completo"
+    "mission": {
+      "title": "¿Por qué unirse a nosotros?",
+      "description": "Únete a nosotros en el desarrollo de un mundo donde empresas y organizaciones respeten los derechos humanos y otros valores fundamentales de nuestra sociedad.",
+      "cards": {
+        "humanRights": {
+          "title": "Derechos humanos",
+          "description": "Contribuye con tu trabajo al desarrollo práctico de los derechos humanos."
+        },
+        "volunteerDriven": {
+          "title": "Impulsado por voluntariado",
+          "description": "Solo invertimos nuestro tiempo libre y seguimos desarrollando nuestra profesión."
+        },
+        "legallyAssisted": {
+          "title": "Asesoría legal",
+          "description": "Nos ocupamos legalmente de nuestra imagen pública, aplicaciones y bases de datos."
+        }
+      }
+    },
+    "meetFullTeam": "Conoce al equipo completo",
+    "joinUs": {
+      "title": "¿Quieres unirte a nosotros?",
+      "description": "Contáctanos en LinkedIn con un mensaje adjuntando tu currículum y contándonos cómo puedes ayudarnos.",
+      "button": "Conectar en LinkedIn"
+    }
   }
 }
