@@ -82,7 +82,7 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
       )}
 
       <img
-        src={`media/images/logo-animation/${currentFrame}.png`}
+        src={`/images/logo-animation/${currentFrame}.png`}
         alt="Europe for Palestine logo"
         style={{ height: imageHeight, width: "auto", cursor: "pointer" }}
         onMouseEnter={handleMouseEnter}
