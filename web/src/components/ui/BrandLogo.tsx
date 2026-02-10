@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import logo from "media/images/logo.png";
 import { useWindowSize } from "utils/useWindowSize";
 import { Link } from "react-router-dom";
@@ -18,25 +18,40 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
   const frameDuration = 40;
 
   const [currentFrame, setCurrentFrame] = useState(0);
-  const intervalRef = useRef<NodeJS.Timeout | null>(null);
+  const intervalRef = useRef<number | null>(null);
 
   const handleMouseEnter = () => {
     let i = 0;
-    if (intervalRef.current) clearInterval(intervalRef.current);
-    intervalRef.current = setInterval(() => {
+    if (intervalRef.current) window.clearInterval(intervalRef.current);
+    intervalRef.current = window.setInterval(() => {
       if (i < totalFrames) {
         setCurrentFrame(i);
         i++;
       } else {
         setCurrentFrame(0);
-        if (intervalRef.current) clearInterval(intervalRef.current);
+        if (intervalRef.current) window.clearInterval(intervalRef.current);
       }
     }, frameDuration);
   };
   const handleMouseLeave = () => {
-    if (intervalRef.current) clearInterval(intervalRef.current);
+    if (intervalRef.current) window.clearInterval(intervalRef.current);
     setCurrentFrame(0);
   };
+
+  // Preload animation frames to avoid delays in production
+  useEffect(() => {
+    const imgs: HTMLImageElement[] = [];
+    for (let f = 0; f < totalFrames; f++) {
+      const img = new Image();
+      img.src = `/images/logo-animation/${f}.png`;
+      imgs.push(img);
+    }
+    return () => {
+      // allow GC to collect
+      imgs.length = 0;
+      if (intervalRef.current) window.clearInterval(intervalRef.current);
+    };
+  }, []);
 
   return (
     <Link
@@ -87,6 +102,10 @@ const BrandLogo: React.FC<BrandLogoProps> = ({ imageHeight = 72 }) => {
         style={{ height: imageHeight, width: "auto", cursor: "pointer" }}
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
+        onPointerEnter={handleMouseEnter}
+        onPointerLeave={handleMouseLeave}
+        onTouchStart={handleMouseEnter}
+        onTouchEnd={handleMouseLeave}
       />
     </Link>
   );

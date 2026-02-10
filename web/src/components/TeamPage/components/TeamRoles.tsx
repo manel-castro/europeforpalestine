@@ -50,10 +50,7 @@ const TeamRoles: React.FC = () => {
     {
       name: t("team.social1.name", "Nadia Rahman"),
       title: t("team.social1.title", "Social Media Manager"),
-      description: t(
-        "team.social1.description",
-        ""
-      ),
+      description: t("team.social1.description", ""),
       image: elenaImage,
       linkedinUrl:
         "https://www.linkedin.com/in/elena-mart%C3%ADnez-de-cestafe-9308b596/",
