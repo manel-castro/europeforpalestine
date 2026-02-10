@@ -19,7 +19,5 @@
     "sourceType": "module"
   },
   "plugins": ["react", "@typescript-eslint"],
-  "rules": {
-    "prettier/prettier": "off"
-  }
+  "rules": {}
 }
