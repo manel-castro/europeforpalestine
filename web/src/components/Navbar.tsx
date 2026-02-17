@@ -19,6 +19,19 @@ const Navbar: React.FC = () => {
     alignItems: isPhone ? "flex-end" : "center",
   };
 
+  const handleDonateClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault();
+    const el = document.getElementById("donate");
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth" });
+    } else {
+      // If the donate section isn't on the current page, navigate to
+      // the homepage with the donate hash so the browser will land
+      // on the `#donate` anchor there.
+      window.location.assign("/#donate");
+    }
+  };
+
   return (
     <nav
       style={{
@@ -36,9 +49,8 @@ const Navbar: React.FC = () => {
 
       <div style={rightContainerStyle}>
         <a
-          href="https://www.patreon.com/cw/EuropeForPalestine/membership"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="#donate"
+          onClick={handleDonateClick}
           style={{ textDecoration: "none" }}
         >
           <Button variant="primary" color="palestine">

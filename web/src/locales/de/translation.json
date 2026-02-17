@@ -13,7 +13,7 @@
     "databasesTitle": "Unsere Datenbanken",
     "databasesDescription": "Alle verfügbaren Informationen zu Marken und Unternehmen basieren auf unserer eigenen unabhängigen Untersuchung und stehen in keinem Zusammenhang mit anderen Organisationen. Ebenso arbeiten wir in keiner Form mit den in unseren Anwendungen aufgeführten Marken und Unternehmen zusammen. Ziel der von uns gesammelten Daten ist es, Verbrauchern zu helfen, fundierte Entscheidungen zu treffen.",
     "howToHelpTitle": "Wie helfen",
-    "howToHelpDescription": "Mit Ihrer Hilfe decken wir Serverkosten, Outreach-Kampagnen und andere Ausgaben ab. Helfen Sie jetzt EuropeForPalestine.",
+    "howToHelpDescription": "We are a project run 100% by volunteers, so our funding depends on donations. All the money we receive will be invested solely and exclusively in the improvement and maintenance of the project itself; we are non-profit. If you want to help us pay for licenses, software, servers, tools, marketing… so we can keep growing and make this world a little fairer, we thank you in advance :) No donation is too small, every contribution helps, and if you have any questions about this, just contact us.",
     "imageAlt": "Platzhalter",
     "newsletterTitle": "Abonniere unseren Newsletter",
     "newsletterDescription": "Abonniere unseren Newsletter, um Updates, interessante Daten zu Marken und mehr zu erhalten.",
@@ -85,8 +85,11 @@
     "subscribeNow": "Jetzt abonnieren"
   },
   "lema": {
-    "title": "Leitwort",
-    "description": "Europe for Palestine ist ein Projekt ohne jegliche Zugehörigkeit zu politischen Parteien oder privaten Konzernen. Wir sind einfach eine Gruppe von Menschen, die schon zu lange machtlos die systematische Verletzung der Menschenrechte beobachten, die das palästinensische Volk seit Jahrzehnten erleidet. Dies ist unsere Verbindung und der Hauptgrund für unseren Ehrgeiz, zu einer minimalen Ausbildung in gerechten Menschenrechten weltweit beizutragen."
+    "p1": "EuropeForPalestine is a platform of pro-Palestinian people in Europe. Anyone who identifies in support of the Palestinian people can join our collective, contribute their ideas, and get involved.",
+    "p2": "So far we have developed two applications to facilitate boycotts of companies and products that finance the illegitimate state of Israel. We also have the mission of informing people with current affairs that allow them to form critical thinking on this and other matters. We are creating a network of pro-Palestinian individuals and organizations who can connect and collaborate based on minimal ethical and human values. We are very proud of what we have achieved so far and, above all, we are convinced this is only the beginning.",
+    "boicotTitle": "Why boycott is our main tool:",
+    "p3": "Civil society is the foundation of social infrastructure. As such, our power to decide who receives funding is tremendous. When you purchase something in an informed way, not only do you stop directing part of your money to a harmful purpose, but you may also be directing that money directly to those who actively fight for what you believe is right.",
+    "p4": "Boycott is not limited to a consumption decision, but also to the active choice of how and with whom we choose to relate. Thus, the creation of our platform brings together people who share their support for ending the oppression of the Palestinian people."
   },
   "team": {
     "title": "Über uns",

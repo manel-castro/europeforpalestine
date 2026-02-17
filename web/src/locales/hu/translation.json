@@ -35,8 +35,11 @@
     "donateNow": "Adományozzon most 5€"
   },
   "lema": {
-    "title": "Szlogen",
-    "description": "A Europe for Palestine egy olyan projekt, amely nem áll kapcsolatban politikai pártokkal vagy magánvállalatokkal. Csak egy olyan embercsoport vagyunk, akik hosszú ideje tehetetlenül nézik a palesztin nép emberi jogainak rendszerszintű megsértését. Ez a kapocs köztünk, és fő oka annak, hogy ambíciónk hozzájárulni a méltányos emberi jogok alapvető oktatásához világszerte."
+    "p1": "EuropeForPalestine is a platform of pro-Palestinian people in Europe. Anyone who identifies in support of the Palestinian people can join our collective, contribute their ideas, and get involved.",
+    "p2": "So far we have developed two applications to facilitate boycotts of companies and products that finance the illegitimate state of Israel. We also have the mission of informing people with current affairs that allow them to form critical thinking on this and other matters. We are creating a network of pro-Palestinian individuals and organizations who can connect and collaborate based on minimal ethical and human values. We are very proud of what we have achieved so far and, above all, we are convinced this is only the beginning.",
+    "boicotTitle": "Why boycott is our main tool:",
+    "p3": "Civil society is the foundation of social infrastructure. As such, our power to decide who receives funding is tremendous. When you purchase something in an informed way, not only do you stop directing part of your money to a harmful purpose, but you may also be directing that money directly to those who actively fight for what you believe is right.",
+    "p4": "Boycott is not limited to a consumption decision, but also to the active choice of how and with whom we choose to relate. Thus, the creation of our platform brings together people who share their support for ending the oppression of the Palestinian people."
   },
   "team": {
     "title": "Rólunk",

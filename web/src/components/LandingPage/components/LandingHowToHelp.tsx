@@ -12,7 +12,7 @@ const LandingHowToHelp: React.FC = () => {
   const { t } = useTranslation();
 
   return (
-    <SectionWrapper>
+    <SectionWrapper id="donate">
       <div style={{ maxWidth: "1200px", margin: "0 auto" }}>
         <section
           style={{
