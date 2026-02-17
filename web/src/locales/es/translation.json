@@ -13,7 +13,7 @@
     "databasesTitle": "Nuestras bases de datos",
     "databasesDescription": "Toda la información disponible sobre marcas y empresas se basa en nuestro propio estudio independiente y en ningún caso estamos relacionados con otras organizaciones. Así mismo no colaboramos de ninguna forma con ninguna de las marcas y empresas listadas en nuestras aplicaciones. El objetivo de los datos que recopilamos es el de ayudar a los consumidores a tomar decisiones informadas.",
     "howToHelpTitle": "Cómo ayudar",
-    "howToHelpDescription": "Con tu ayuda cubrimos costes de servidores, campañas de difusión y otros gastos. Ayuda ahora a EuropeForPalestine.",
+    "howToHelpDescription": "Somos un proyecto organizado 100% por voluntarios, por lo que nuestra financiación depende de donaciones. Todo el dinero que recibamos será invertido única y exclusivamente en la mejora y el mantenimiento del proyecto en sí, no tenemos ánimo de lucro. Si quieres ayudarnos a pagar licencias, softwares, servidores, herramientas, marketing… para que podamos seguir creciendo y hacer de este mundo un sitio un poco más justo, te damos las gracias de antemano :) No hay donaciones demasiado pequeñas, toda ayuda es buena, y si tienes cualquier duda al respecto, solo necesitas contactar con nosotros.",
     "imageAlt": "Marcador de posición",
     "newsletterTitle": "Subscríbete a nuestra newsletter",
     "newsletterDescription": "Suscríbete a nuestra newsletter para obtener actualizaciones, datos interesantes sobre marcas y más.",
@@ -83,8 +83,11 @@
     "subscribeNow": "Suscríbete ahora"
   },
   "lema": {
-    "title": "Lema",
-    "description": "Europe for Palestine es un proyecto sin ningún tipo de afiliación a partidos políticos ni corporaciones privadas. Somos simplemente un grupo de personas que llevan demasiado tiempo viendo con impotencia la violación sistemática de los derechos humanos que sufre el pueblo palestino desde hace décadas. Este es nuestro nexo de conexión y principal motivo de nuestra ambición de contribuir a una formación mínima de derechos humanos justos en todo el mundo. "
+    "p1": "EuropeForPalestine es una plataforma de personas propalestinas en Europa. Cualquier persona que se identifique a favor del pueblo palestino puede pertenecer a nuestro colectivo, aportar sus ideas y contribuir.",
+    "p2": "Por ahora hemos desarrollado dos aplicaciones para facilitar el boicot a empresas y productos que financian al ilegítimo estado de Israel. Tenemos también la misión de informar a la gente con la actualidad que le permita tener un pensamiento crítico en este y otros asuntos. Estamos creando una red de personas y organizaciones propalestinas que puedan conocerse y colaborar en base a unos mínimos valores éticos y humanos. Estamos muy orgullosos de lo que hemos conseguido hasta el momento y, sobre todo, estamos convencidos de que esto solo es el principio.",
+    "boicotTitle": "Por qué el boicot es nuestra principal herramienta:",
+    "p3": "La sociedad civil somos la base de la infraestructura social. Como tal, nuestro poder es increíble para decidir quién recibe financiación. Cuando compras algo de forma informada, no solo dejas de destinar parte de tu dinero a un mal fin, sino que además puedes estar destinando ese dinero directamente a quienes luchan activamente contra todo en lo que crees que está bien.",
+    "p4": "El boicot no solo se limita a una decisión de consumo, sino también a la decisión activa de cómo y con quien elegimos relacionarnos. Así, la creación de nuestra plataforma pone en común a gente que comparte su apoyo al fin de la opresión al pueblo palestino."
   },
   "team": {
     "title": "Sobre nosotros",

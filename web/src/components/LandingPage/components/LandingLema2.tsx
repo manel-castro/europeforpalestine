@@ -8,19 +8,51 @@ const LandingLema2: React.FC = () => {
 
   return (
     <SectionWrapper>
-      <div style={{ maxWidth: 1200, margin: "0 auto", textAlign: "center" }}>
-        <Text
-          variant="title-h2"
-          style={{ fontSize: "2rem", marginBottom: "1rem" }}
-        >
-          {t("lema.title")}
-        </Text>
-        <Text
-          variant="description"
-          style={{ fontSize: "1rem", lineHeight: 1.6 }}
-        >
-          {t("lema.description")}
-        </Text>
+      <div style={{ maxWidth: 500, margin: "0 auto", textAlign: "center" }}>
+        <div style={{ marginBottom: "1rem" }}>
+          <Text
+            variant="description"
+            style={{ fontSize: "1rem", lineHeight: 1.8 }}
+          >
+            {t("lema.p1")}
+          </Text>
+        </div>
+
+        <div style={{ marginBottom: "1rem" }}>
+          <Text
+            variant="description"
+            style={{ fontSize: "1rem", lineHeight: 1.8 }}
+          >
+            {t("lema.p2")}
+          </Text>
+        </div>
+
+        <div style={{ marginTop: "2.25rem", marginBottom: "0.75rem" }}>
+          <Text
+            variant="description"
+            style={{ fontSize: "1rem", fontWeight: "bold" }}
+          >
+            {t("lema.boicotTitle")}
+          </Text>
+        </div>
+
+        <div style={{ marginBottom: "1rem" }}>
+          <Text
+            variant="description"
+            style={{ fontSize: "1rem", lineHeight: 1.8 }}
+          >
+            {t("lema.p3")}
+          </Text>
+        </div>
+
+        <div>
+          <Text
+            variant="description"
+            style={{ fontSize: "1rem", lineHeight: 1.8 }}
+          >
+            {t("lema.p4")}
+          </Text>
+        </div>
       </div>
     </SectionWrapper>
   );

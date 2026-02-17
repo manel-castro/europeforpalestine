@@ -12,14 +12,14 @@
     "meetUs": "בדוק את מסדי הנתונים שלנו",
     "databasesTitle": "מסדי הנתונים שלנו",
     "databasesDescription": "כל המידע הזמין על מותגים וחברות מבוסס על המחקר העצמאי שלנו ואיננו, בשום פנים ואופן, קשורים לארגונים אחרים. כמו כן, איננו משתפים פעולה בכל צורה שהיא עם מותגים וחברות המופיעים באפליקציות שלנו. מטרת הנתונים שאנו אוספים היא לסייע לצרכנים לקבל החלטות מושכלות.",
-      "imageAlt": "תמונת מציין מקום",
-      "newsletterTitle": "הירשם לניוזלטר שלנו",
-      "newsletterDescription": "הירשם לניוזלטר שלנו כדי לקבל עדכונים, נתונים מעניינים על מותגים ועוד.",
-      "newsletterPlaceholderName": "שמך",
-      "newsletterPlaceholderEmail": "האימייל שלך",
-      "newsletterSending": "שולח...",
-      "newsletterThankYou": "תודה — אנא בדוק את האימייל שלך.",
-      "newsletterError": "אירעה שגיאה. נסה שוב מאוחר יותר."
+    "imageAlt": "תמונת מציין מקום",
+    "newsletterTitle": "הירשם לניוזלטר שלנו",
+    "newsletterDescription": "הירשם לניוזלטר שלנו כדי לקבל עדכונים, נתונים מעניינים על מותגים ועוד.",
+    "newsletterPlaceholderName": "שמך",
+    "newsletterPlaceholderEmail": "האימייל שלך",
+    "newsletterSending": "שולח...",
+    "newsletterThankYou": "תודה — אנא בדוק את האימייל שלך.",
+    "newsletterError": "אירעה שגיאה. נסה שוב מאוחר יותר."
   },
   "apps": {
     "title": "האפליקציות שלנו",
@@ -35,8 +35,11 @@
     "donateNow": "תרמו עכשיו 5€"
   },
   "lema": {
-    "title": "סלוגן",
-    "description": "Europe for Palestine הוא פרויקט שאינו קשור למפלגות פוליטיות או לחברות פרטיות. אנחנו פשוט קבוצת אנשים שצפו במשך עשורים בהפרות השיטתיות של זכויות האדם של העם הפלסטיני בתחושת חוסר אונים. זהו הקשר שלנו והסיבה העיקרית לשאיפתנו לתרום להדרכה בסיסית של זכויות אדם הוגנות ברחבי העולם."
+    "p1": "EuropeForPalestine is a platform of pro-Palestinian people in Europe. Anyone who identifies in support of the Palestinian people can join our collective, contribute their ideas, and get involved.",
+    "p2": "So far we have developed two applications to facilitate boycotts of companies and products that finance the illegitimate state of Israel. We also have the mission of informing people with current affairs that allow them to form critical thinking on this and other matters. We are creating a network of pro-Palestinian individuals and organizations who can connect and collaborate based on minimal ethical and human values. We are very proud of what we have achieved so far and, above all, we are convinced this is only the beginning.",
+    "boicotTitle": "Why boycott is our main tool:",
+    "p3": "Civil society is the foundation of social infrastructure. As such, our power to decide who receives funding is tremendous. When you purchase something in an informed way, not only do you stop directing part of your money to a harmful purpose, but you may also be directing that money directly to those who actively fight for what you believe is right.",
+    "p4": "Boycott is not limited to a consumption decision, but also to the active choice of how and with whom we choose to relate. Thus, the creation of our platform brings together people who share their support for ending the oppression of the Palestinian people."
   },
   "team": {
     "title": "עלינו",
