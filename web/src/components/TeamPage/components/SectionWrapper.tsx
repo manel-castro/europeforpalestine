@@ -2,6 +2,7 @@ import React from "react";
 import { useGetPadding } from "utils/useGetPadding";
 
 interface SectionWrapperProps {
+  id?: string;
   children: React.ReactNode;
   backgroundColor?: string;
   color?: string;
@@ -11,6 +12,7 @@ interface SectionWrapperProps {
 }
 
 const SectionWrapper: React.FC<SectionWrapperProps> = ({
+  id,
   children,
   backgroundColor = "#1a1a1a",
   color = "white",
@@ -22,6 +24,7 @@ const SectionWrapper: React.FC<SectionWrapperProps> = ({
 
   return (
     <section
+      id={id}
       style={{
         backgroundColor,
         color,
